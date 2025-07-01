@@ -1,0 +1,1185 @@
+code,label,datatype,mandatory,standard
+BP-1_01,ESRS 2,string,True,ESRS 2
+BP-1_02,ESRS 2,string,True,ESRS 2
+BP-1_03,ESRS 2,string,True,ESRS 2
+BP-1_04,ESRS 2,string,True,ESRS 2
+BP-1_05,ESRS 2,string,True,ESRS 2
+BP-1_06,ESRS 2,string,True,ESRS 2
+BP-2_01,ESRS 2,string,True,ESRS 2
+BP-2_02,ESRS 2,string,True,ESRS 2
+BP-2_03,ESRS 2,string,True,ESRS 2
+BP-2_04,ESRS 2,string,True,ESRS 2
+BP-2_05,ESRS 2,string,True,ESRS 2
+BP-2_06,ESRS 2,string,True,ESRS 2
+BP-2_07,ESRS 2,string,True,ESRS 2
+BP-2_08,ESRS 2,string,True,ESRS 2
+BP-2_09,ESRS 2,string,True,ESRS 2
+BP-2_10,ESRS 2,string,True,ESRS 2
+BP-2_11,ESRS 2,string,True,ESRS 2
+BP-2_12,ESRS 2,string,True,ESRS 2
+BP-2_13,ESRS 2,string,True,ESRS 2
+BP-2_14,ESRS 2,string,True,ESRS 2
+BP-2_15,ESRS 2,string,True,ESRS 2
+BP-2_16,ESRS 2,string,True,ESRS 2
+BP-2_17,ESRS 2,string,True,ESRS 2
+BP-2_18,ESRS 2,string,True,ESRS 2
+BP-2_19,ESRS 2,string,True,ESRS 2
+BP-2_20,ESRS 2,string,True,ESRS 2
+BP-2_21,ESRS 2,string,True,ESRS 2
+BP-2_22,ESRS 2,string,True,ESRS 2
+BP-2_23,ESRS 2,string,True,ESRS 2
+BP-2_24,ESRS 2,string,True,ESRS 2
+BP-2_25,ESRS 2,string,True,ESRS 2
+BP-2_26,ESRS 2,string,True,ESRS 2
+BP-2_27,ESRS 2,string,True,ESRS 2
+GOV-1_01,ESRS 2,string,True,ESRS 2
+GOV-1_02,ESRS 2,string,True,ESRS 2
+GOV-1_03,ESRS 2,string,True,ESRS 2
+GOV-1_04,ESRS 2,string,True,ESRS 2
+GOV-1_05,ESRS 2,string,True,ESRS 2
+GOV-1_06,ESRS 2,string,True,ESRS 2
+GOV-1_07,ESRS 2,string,True,ESRS 2
+GOV-1_08,ESRS 2,string,True,ESRS 2
+GOV-1_09,ESRS 2,string,True,ESRS 2
+GOV-1_10,ESRS 2,string,True,ESRS 2
+GOV-1_11,ESRS 2,string,True,ESRS 2
+GOV-1_12,ESRS 2,string,True,ESRS 2
+GOV-1_13,ESRS 2,string,True,ESRS 2
+GOV-1_14,ESRS 2,string,True,ESRS 2
+GOV-1_15,ESRS 2,string,True,ESRS 2
+GOV-1_16,ESRS 2,string,True,ESRS 2
+GOV-1_17,ESRS 2,string,True,ESRS 2
+GOV-2_01,ESRS 2,string,True,ESRS 2
+GOV-2_02,ESRS 2,string,True,ESRS 2
+GOV-2_03,ESRS 2,string,True,ESRS 2
+GOV-2_04,ESRS 2,string,True,ESRS 2
+GOV-3_01,ESRS 2,string,True,ESRS 2
+GOV-3_02,ESRS 2,string,True,ESRS 2
+GOV-3_03,ESRS 2,string,True,ESRS 2
+GOV-3_04,ESRS 2,string,True,ESRS 2
+GOV-3_05,ESRS 2,string,True,ESRS 2
+GOV-3_06,ESRS 2,string,True,ESRS 2
+GOV-4_01,ESRS 2,string,True,ESRS 2
+GOV-5_01,ESRS 2,string,True,ESRS 2
+GOV-5_02,ESRS 2,string,True,ESRS 2
+GOV-5_03,ESRS 2,string,True,ESRS 2
+GOV-5_04,ESRS 2,string,True,ESRS 2
+GOV-5_05,ESRS 2,string,True,ESRS 2
+SBM-1_01,ESRS 2,string,True,ESRS 2
+SBM-1_02,ESRS 2,string,True,ESRS 2
+SBM-1_03,ESRS 2,string,True,ESRS 2
+SBM-1_04,ESRS 2,string,True,ESRS 2
+SBM-1_05,ESRS 2,string,True,ESRS 2
+SBM-1_06,ESRS 2,string,True,ESRS 2
+SBM-1_07,ESRS 2,string,True,ESRS 2
+SBM-1_08,ESRS 2,string,True,ESRS 2
+SBM-1_09,ESRS 2,string,True,ESRS 2
+SBM-1_10,ESRS 2,string,True,ESRS 2
+SBM-1_11,ESRS 2,string,True,ESRS 2
+SBM-1_12,ESRS 2,string,True,ESRS 2
+SBM-1_13,ESRS 2,string,True,ESRS 2
+SBM-1_14,ESRS 2,string,True,ESRS 2
+SBM-1_15,ESRS 2,string,True,ESRS 2
+SBM-1_16,ESRS 2,string,True,ESRS 2
+SBM-1_17,ESRS 2,string,True,ESRS 2
+SBM-1_18,ESRS 2,string,True,ESRS 2
+SBM-1_19,ESRS 2,string,True,ESRS 2
+SBM-1_20,ESRS 2,string,True,ESRS 2
+SBM-1_21,ESRS 2,string,True,ESRS 2
+SBM-1_22,ESRS 2,string,True,ESRS 2
+SBM-1_23,ESRS 2,string,True,ESRS 2
+SBM-1_24,ESRS 2,string,True,ESRS 2
+SBM-1_25,ESRS 2,string,True,ESRS 2
+SBM-1_26,ESRS 2,string,True,ESRS 2
+SBM-1_27,ESRS 2,string,True,ESRS 2
+SBM-1_28,ESRS 2,string,True,ESRS 2
+SBM-2_01,ESRS 2,string,True,ESRS 2
+SBM-2_02,ESRS 2,string,True,ESRS 2
+SBM-2_03,ESRS 2,string,True,ESRS 2
+SBM-2_04,ESRS 2,string,True,ESRS 2
+SBM-2_05,ESRS 2,string,True,ESRS 2
+SBM-2_06,ESRS 2,string,True,ESRS 2
+SBM-2_07,ESRS 2,string,True,ESRS 2
+SBM-2_08,ESRS 2,string,True,ESRS 2
+SBM-2_09,ESRS 2,string,True,ESRS 2
+SBM-2_10,ESRS 2,string,True,ESRS 2
+SBM-2_11,ESRS 2,string,True,ESRS 2
+SBM-2_12,ESRS 2,string,True,ESRS 2
+SBM-3_01,ESRS 2,string,True,ESRS 2
+SBM-3_02,ESRS 2,string,True,ESRS 2
+SBM-3_03,ESRS 2,string,True,ESRS 2
+SBM-3_04,ESRS 2,string,True,ESRS 2
+SBM-3_05,ESRS 2,string,True,ESRS 2
+SBM-3_06,ESRS 2,string,True,ESRS 2
+SBM-3_07,ESRS 2,string,True,ESRS 2
+SBM-3_08,ESRS 2,string,True,ESRS 2
+SBM-3_09,ESRS 2,string,True,ESRS 2
+SBM-3_10,ESRS 2,string,True,ESRS 2
+SBM-3_11,ESRS 2,string,True,ESRS 2
+SBM-3_12,ESRS 2,string,True,ESRS 2
+IRO-1_01,ESRS 2,string,True,ESRS 2
+IRO-1_02,ESRS 2,string,True,ESRS 2
+IRO-1_03,ESRS 2,string,True,ESRS 2
+IRO-1_04,ESRS 2,string,True,ESRS 2
+IRO-1_05,ESRS 2,string,True,ESRS 2
+IRO-1_06,ESRS 2,string,True,ESRS 2
+IRO-1_07,ESRS 2,string,True,ESRS 2
+IRO-1_08,ESRS 2,string,True,ESRS 2
+IRO-1_09,ESRS 2,string,True,ESRS 2
+IRO-1_10,ESRS 2,string,True,ESRS 2
+IRO-1_11,ESRS 2,string,True,ESRS 2
+IRO-1_12,ESRS 2,string,True,ESRS 2
+IRO-1_13,ESRS 2,string,True,ESRS 2
+IRO-1_14,ESRS 2,string,True,ESRS 2
+IRO-1_15,ESRS 2,string,True,ESRS 2
+IRO-2_01,ESRS 2,string,True,ESRS 2
+IRO-2_02,ESRS 2,string,True,ESRS 2
+IRO-2_03,ESRS 2,string,True,ESRS 2
+IRO-2_04,ESRS 2,string,True,ESRS 2
+IRO-2_05,ESRS 2,string,True,ESRS 2
+IRO-2_06,ESRS 2,string,True,ESRS 2
+IRO-2_07,ESRS 2,string,True,ESRS 2
+IRO-2_08,ESRS 2,string,True,ESRS 2
+IRO-2_09,ESRS 2,string,True,ESRS 2
+IRO-2_10,ESRS 2,string,True,ESRS 2
+IRO-2_11,ESRS 2,string,True,ESRS 2
+IRO-2_12,ESRS 2,string,True,ESRS 2
+IRO-2_13,ESRS 2,string,True,ESRS 2
+MDR-P_01,ESRS 2,string,True,ESRS 2 MDR
+MDR-P_02,ESRS 2,string,True,ESRS 2 MDR
+MDR-P_03,ESRS 2,string,True,ESRS 2 MDR
+MDR-P_04,ESRS 2,string,True,ESRS 2 MDR
+MDR-P_05,ESRS 2,string,True,ESRS 2 MDR
+MDR-P_06,ESRS 2,string,True,ESRS 2 MDR
+MDR-A_01,ESRS 2,string,True,ESRS 2 MDR
+MDR-A_02,ESRS 2,string,True,ESRS 2 MDR
+MDR-A_03,ESRS 2,string,True,ESRS 2 MDR
+MDR-A_04,ESRS 2,string,True,ESRS 2 MDR
+MDR-A_05,ESRS 2,string,True,ESRS 2 MDR
+MDR-A_06,ESRS 2,string,True,ESRS 2 MDR
+MDR-A_07,ESRS 2,string,True,ESRS 2 MDR
+MDR-A_08,ESRS 2,string,True,ESRS 2 MDR
+MDR-A_09,ESRS 2,string,True,ESRS 2 MDR
+MDR-A_10,ESRS 2,string,True,ESRS 2 MDR
+MDR-A_11,ESRS 2,string,True,ESRS 2 MDR
+MDR-A_12,ESRS 2,string,True,ESRS 2 MDR
+MDR-M_01,ESRS 2,string,True,ESRS 2 MDR
+MDR-M_02,ESRS 2,string,True,ESRS 2 MDR
+MDR-M_03,ESRS 2,string,True,ESRS 2 MDR
+MDR-T_01,ESRS 2,string,True,ESRS 2 MDR
+MDR-T_02,ESRS 2,string,True,ESRS 2 MDR
+MDR-T_03,ESRS 2,string,True,ESRS 2 MDR
+MDR-T_04,ESRS 2,string,True,ESRS 2 MDR
+MDR-T_05,ESRS 2,string,True,ESRS 2 MDR
+MDR-T_06,ESRS 2,string,True,ESRS 2 MDR
+MDR-T_07,ESRS 2,string,True,ESRS 2 MDR
+MDR-T_08,ESRS 2,string,True,ESRS 2 MDR
+MDR-T_09,ESRS 2,string,True,ESRS 2 MDR
+MDR-T_10,ESRS 2,string,True,ESRS 2 MDR
+MDR-T_11,ESRS 2,string,True,ESRS 2 MDR
+MDR-T_12,ESRS 2,string,True,ESRS 2 MDR
+MDR-T_13,ESRS 2,string,True,ESRS 2 MDR
+MDR-P_07,ESRS 2,string,True,ESRS 2 MDR
+MDR-P_08,ESRS 2,string,True,ESRS 2 MDR
+MDR-A_13,ESRS 2,string,True,ESRS 2 MDR
+MDR-A_14,ESRS 2,string,True,ESRS 2 MDR
+MDR-T_14,ESRS 2,string,True,ESRS 2 MDR
+MDR-T_15,ESRS 2,string,True,ESRS 2 MDR
+MDR-T_16,ESRS 2,string,True,ESRS 2 MDR
+MDR-T_17,ESRS 2,string,True,ESRS 2 MDR
+MDR-T_18,ESRS 2,string,True,ESRS 2 MDR
+MDR-T_19,ESRS 2,string,True,ESRS 2 MDR
+E1.GOV-3_01,E1,string,True,ESRS E1
+E1.GOV-3_02,E1,string,True,ESRS E1
+E1.GOV-3_03,E1,string,True,ESRS E1
+E1-1_01,E1,string,True,ESRS E1
+E1-1_02,E1,string,True,ESRS E1
+E1-1_03,E1,string,True,ESRS E1
+E1-1_04,E1,string,True,ESRS E1
+E1-1_05,E1,string,True,ESRS E1
+E1-1_06,E1,string,True,ESRS E1
+E1-1_07,E1,string,True,ESRS E1
+E1-1_08,E1,string,True,ESRS E1
+E1-1_09,E1,string,True,ESRS E1
+E1-1_10,E1,string,True,ESRS E1
+E1-1_11,E1,string,True,ESRS E1
+E1-1_12,E1,string,True,ESRS E1
+E1-1_13,E1,string,True,ESRS E1
+E1-1_14,E1,string,True,ESRS E1
+E1-1_15,E1,string,True,ESRS E1
+E1-1_16,E1,string,True,ESRS E1
+E1.SBM-3_01,E1,string,True,ESRS E1
+E1.SBM-3_02,E1,string,True,ESRS E1
+E1.SBM-3_03,E1,string,True,ESRS E1
+E1.SBM-3_04,E1,string,True,ESRS E1
+E1.SBM-3_05,E1,string,True,ESRS E1
+E1.SBM-3_06,E1,string,True,ESRS E1
+E1.SBM-3_07,E1,string,True,ESRS E1
+E1.IRO-1_01,E1,string,True,ESRS E1
+E1.IRO-1_02,E1,string,True,ESRS E1
+E1.IRO-1_03,E1,string,True,ESRS E1
+E1.IRO-1_04,E1,string,True,ESRS E1
+E1.IRO-1_05,E1,string,True,ESRS E1
+E1.IRO-1_06,E1,string,True,ESRS E1
+E1.IRO-1_07,E1,string,True,ESRS E1
+E1.IRO-1_08,E1,string,True,ESRS E1
+E1.IRO-1_09,E1,string,True,ESRS E1
+E1.IRO-1_10,E1,string,True,ESRS E1
+E1.IRO-1_11,E1,string,True,ESRS E1
+E1.IRO-1_12,E1,string,True,ESRS E1
+E1.IRO-1_13,E1,string,True,ESRS E1
+E1.IRO-1_14,E1,string,True,ESRS E1
+E1.IRO-1_15,E1,string,True,ESRS E1
+E1.IRO-1_16,E1,string,True,ESRS E1
+E1.MDR-P_01-06,E1,string,True,ESRS E1
+E1-2_01,E1,string,True,ESRS E1
+E1.MDR-P_07-08,ESRS 2,string,True,ESRS E1
+E1.MDR-A_01-12,E1,string,True,ESRS E1
+E1-3_01,E1,string,True,ESRS E1
+E1-3_02,E1,string,True,ESRS E1
+E1-3_03,E1,string,True,ESRS E1
+E1-3_04,E1,string,True,ESRS E1
+E1-3_05,E1,string,True,ESRS E1
+E1-3_06,E1,string,True,ESRS E1
+E1-3_07,E1,string,True,ESRS E1
+E1-3_08,E1,string,True,ESRS E1
+E1.MDR-A_13-14,ESRS 2,string,True,ESRS E1
+E1.MDR-T_01-13,E1,string,True,ESRS E1
+E1-4_01,E1,string,True,ESRS E1
+E1-4_02,E1,string,True,ESRS E1
+E1-4_03,E1,string,True,ESRS E1
+E1-4_04,E1,string,True,ESRS E1
+E1-4_05,E1,string,True,ESRS E1
+E1-4_06,E1,string,True,ESRS E1
+E1-4_07,E1,string,True,ESRS E1
+E1-4_08,E1,string,True,ESRS E1
+E1-4_09,E1,string,True,ESRS E1
+E1-4_10,E1,string,True,ESRS E1
+E1-4_11,E1,string,True,ESRS E1
+E1-4_12,E1,string,True,ESRS E1
+E1-4_13,E1,string,True,ESRS E1
+E1-4_14,E1,string,True,ESRS E1
+E1-4_15,E1,string,True,ESRS E1
+E1-4_16,E1,string,True,ESRS E1
+E1-4_17,E1,string,True,ESRS E1
+E1-4_18,E1,string,True,ESRS E1
+E1-4_19,E1,string,True,ESRS E1
+E1-4_20,E1,string,True,ESRS E1
+E1-4_21,E1,string,True,ESRS E1
+E1-4_22,E1,string,True,ESRS E1
+E1-4_23,E1,string,True,ESRS E1
+E1-4_24,E1,string,True,ESRS E1
+E1.MDR-T_14-19,ESRS 2,string,True,ESRS E1
+E1-5_01,E1,string,True,ESRS E1
+E1-5_02,E1,string,True,ESRS E1
+E1-5_03,E1,string,True,ESRS E1
+E1-5_04,E1,string,True,ESRS E1
+E1-5_05,E1,string,True,ESRS E1
+E1-5_06,E1,string,True,ESRS E1
+E1-5_07,E1,string,True,ESRS E1
+E1-5_08,E1,string,True,ESRS E1
+E1-5_09,E1,string,True,ESRS E1
+E1-5_10,E1,string,True,ESRS E1
+E1-5_11,E1,string,True,ESRS E1
+E1-5_12,E1,string,True,ESRS E1
+E1-5_13,E1,string,True,ESRS E1
+E1-5_14,E1,string,True,ESRS E1
+E1-5_15,E1,string,True,ESRS E1
+E1-5_16,E1,string,True,ESRS E1
+E1-5_17,E1,string,True,ESRS E1
+E1-5_18,E1,string,True,ESRS E1
+E1-5_19,E1,string,True,ESRS E1
+E1-5_20,E1,string,True,ESRS E1
+E1-5_21,E1,string,True,ESRS E1
+E1-5_22,E1,string,True,ESRS E1
+E1-5_23,E1,string,True,ESRS E1
+E1-6_01,E1,string,True,ESRS E1
+E1-6_02,E1,string,True,ESRS E1
+E1-6_03,E1,string,True,ESRS E1
+E1-6_04,E1,string,True,ESRS E1
+E1-6_05,E1,string,True,ESRS E1
+E1-6_06,E1,string,True,ESRS E1
+E1-6_07,E1,string,True,ESRS E1
+E1-6_08,E1,string,True,ESRS E1
+E1-6_09,E1,string,True,ESRS E1
+E1-6_10,E1,string,True,ESRS E1
+E1-6_11,E1,string,True,ESRS E1
+E1-6_12,E1,string,True,ESRS E1
+E1-6_13,E1,string,True,ESRS E1
+E1-6_14,E1,string,True,ESRS E1
+E1-6_15,E1,string,True,ESRS E1
+E1-6_16,E1,string,True,ESRS E1
+E1-6_17,E1,string,True,ESRS E1
+E1-6_18,E1,string,True,ESRS E1
+E1-6_19,E1,string,True,ESRS E1
+E1-6_20,E1,string,True,ESRS E1
+E1-6_21,E1,string,True,ESRS E1
+E1-6_22,E1,string,True,ESRS E1
+E1-6_23,E1,string,True,ESRS E1
+E1-6_24,E1,string,True,ESRS E1
+E1-6_25,E1,string,True,ESRS E1
+E1-6_26,E1,string,True,ESRS E1
+E1-6_27,E1,string,True,ESRS E1
+E1-6_28,E1,string,True,ESRS E1
+E1-6_29,E1,string,True,ESRS E1
+E1-6_30,E1,string,True,ESRS E1
+E1-6_31,E1,string,True,ESRS E1
+E1-6_32,E1,string,True,ESRS E1
+E1-6_33,E1,string,True,ESRS E1
+E1-6_34,E1,string,True,ESRS E1
+E1-6_35,E1,string,True,ESRS E1
+E1-7_01,E1,string,True,ESRS E1
+E1-7_02,E1,string,True,ESRS E1
+E1-7_03,E1,string,True,ESRS E1
+E1-7_04,E1,string,True,ESRS E1
+E1-7_05,E1,string,True,ESRS E1
+E1-7_06,E1,string,True,ESRS E1
+E1-7_07,E1,string,True,ESRS E1
+E1-7_08,E1,string,True,ESRS E1
+E1-7_09,E1,string,True,ESRS E1
+E1-7_10,E1,string,True,ESRS E1
+E1-7_11,E1,string,True,ESRS E1
+E1-7_12,E1,string,True,ESRS E1
+E1-7_13,E1,string,True,ESRS E1
+E1-7_14,E1,string,True,ESRS E1
+E1-7_15,E1,string,True,ESRS E1
+E1-7_16,E1,string,True,ESRS E1
+E1-7_17,E1,string,True,ESRS E1
+E1-7_18,E1,string,True,ESRS E1
+E1-7_19,E1,string,True,ESRS E1
+E1-7_20,E1,string,True,ESRS E1
+E1-7_21,E1,string,True,ESRS E1
+E1-7_22,E1,string,True,ESRS E1
+E1-7_23,E1,string,True,ESRS E1
+E1-7_24,E1,string,True,ESRS E1
+E1-7_25,E1,string,True,ESRS E1
+E1-8_01,E1,string,True,ESRS E1
+E1-8_02,E1,string,True,ESRS E1
+E1-8_03,E1,string,True,ESRS E1
+E1-8_04,E1,string,True,ESRS E1
+E1-8_05,E1,string,True,ESRS E1
+E1-8_06,E1,string,True,ESRS E1
+E1-8_07,E1,string,True,ESRS E1
+E1-8_08,E1,string,True,ESRS E1
+E1-8_09,E1,string,True,ESRS E1
+E1-9_01,E1,string,True,ESRS E1
+E1-9_02,E1,string,True,ESRS E1
+E1-9_03,E1,string,True,ESRS E1
+E1-9_04,E1,string,True,ESRS E1
+E1-9_05,E1,string,True,ESRS E1
+E1-9_06,E1,string,True,ESRS E1
+E1-9_07,E1,string,True,ESRS E1
+E1-9_08,E1,string,True,ESRS E1
+E1-9_09,E1,string,True,ESRS E1
+E1-9_10,E1,string,True,ESRS E1
+E1-9_11,E1,string,True,ESRS E1
+E1-9_12,E1,string,True,ESRS E1
+E1-9_13,E1,string,True,ESRS E1
+E1-9_14,E1,string,True,ESRS E1
+E1-9_15,E1,string,True,ESRS E1
+E1-9_16,E1,string,True,ESRS E1
+E1-9_17,E1,string,True,ESRS E1
+E1-9_18,E1,string,True,ESRS E1
+E1-9_19,E1,string,True,ESRS E1
+E1-9_20,E1,string,True,ESRS E1
+E1-9_21,E1,string,True,ESRS E1
+E1-9_22,E1,string,True,ESRS E1
+E1-9_23,E1,string,True,ESRS E1
+E1-9_24,E1,string,True,ESRS E1
+E1-9_25,E1,string,True,ESRS E1
+E1-9_26,E1,string,True,ESRS E1
+E1-9_27,E1,string,True,ESRS E1
+E1-9_28,E1,string,True,ESRS E1
+E1-9_29,E1,string,True,ESRS E1
+E1-9_30,E1,string,True,ESRS E1
+E1-9_31,E1,string,True,ESRS E1
+E1-9_32,E1,string,True,ESRS E1
+E1-9_33,E1,string,True,ESRS E1
+E1-9_34,E1,string,True,ESRS E1
+E1-9_35,E1,string,True,ESRS E1
+E1-9_36,E1,string,True,ESRS E1
+E1-9_37,E1,string,True,ESRS E1
+E1-9_38,E1,string,True,ESRS E1
+E1-9_39,E1,string,True,ESRS E1
+E1-9_40,E1,string,True,ESRS E1
+E1-9_41,E1,string,True,ESRS E1
+E1-9_42,E1,string,True,ESRS E1
+E1-9_43,E1,string,True,ESRS E1
+E1-9_44,E1,string,True,ESRS E1
+E2.IRO-1_01,E2,string,True,ESRS E2
+E2.IRO-1_02,E2,string,True,ESRS E2
+E2.IRO-1_03,E2,string,True,ESRS E2
+E2.MDR-P_01-06,E2,string,True,ESRS E2
+E2-1_01,E2,string,True,ESRS E2
+E2-1_02,E2,string,True,ESRS E2
+E2-1_03,E2,string,True,ESRS E2
+E2-1_04,E2,string,True,ESRS E2
+E2.MDR-P_07-08,ESRS 2,string,True,ESRS E2
+E2.MDR-A_01-12,E2,string,True,ESRS E2
+E2-2_01,E2,string,True,ESRS E2
+E2-2_02,E2,string,True,ESRS E2
+E2-2_03,E2,string,True,ESRS E2
+E2-2_04,E2,string,True,ESRS E2
+E2.MDR-A_13-14,ESRS 2,string,True,ESRS E2
+E2.MDR-T_01-13,E2,string,True,ESRS E2
+E2-3_01,E2,string,True,ESRS E2
+E2-3_02,E2,string,True,ESRS E2
+E2-3_03,E2,string,True,ESRS E2
+E2-3_04,E2,string,True,ESRS E2
+E2-3_05,E2,string,True,ESRS E2
+E2-3_06,E2,string,True,ESRS E2
+E2-3_07,E2,string,True,ESRS E2
+E2-3_08,E2,string,True,ESRS E2
+E2-3_09,E2,string,True,ESRS E2
+E2-3_10,E2,string,True,ESRS E2
+E2-3_11,E2,string,True,ESRS E2
+E2.MDR-T_14-19,ESRS 2,string,True,ESRS E2
+E2-4_01,E2,string,True,ESRS E2
+E2-4_02,E2,string,True,ESRS E2
+E2-4_03,E2,string,True,ESRS E2
+E2-4_04,E2,string,True,ESRS E2
+E2-4_05,E2,string,True,ESRS E2
+E2-4_06,E2,string,True,ESRS E2
+E2-4_07,E2,string,True,ESRS E2
+E2-4_08,E2,string,True,ESRS E2
+E2-4_09,E2,string,True,ESRS E2
+E2-4_10,E2,string,True,ESRS E2
+E2-4_11,E2,string,True,ESRS E2
+E2-4_12,E2,string,True,ESRS E2
+E2-4_13,E2,string,True,ESRS E2
+E2-4_14,E2,string,True,ESRS E2
+E2-4_15,E2,string,True,ESRS E2
+E2-4_16,E2,string,True,ESRS E2
+E2-4_17,E2,string,True,ESRS E2
+E2-4_18,E2,string,True,ESRS E2
+E2-4_19,E2,string,True,ESRS E2
+E2-4_20,E2,string,True,ESRS E2
+E2-5_01,E2,string,True,ESRS E2
+E2-5_02,E2,string,True,ESRS E2
+E2-5_03,E2,string,True,ESRS E2
+E2-5_04,E2,string,True,ESRS E2
+E2-5_05,E2,string,True,ESRS E2
+E2-5_06,E2,string,True,ESRS E2
+E2-5_07,E2,string,True,ESRS E2
+E2-5_08,E2,string,True,ESRS E2
+E2-5_09,E2,string,True,ESRS E2
+E2-5_10,E2,string,True,ESRS E2
+E2-5_11,E2,string,True,ESRS E2
+E2-5_12,E2,string,True,ESRS E2
+E2-5_13,E2,string,True,ESRS E2
+E2-6_01,E2,string,True,ESRS E2
+E2-6_02,E2,string,True,ESRS E2
+E2-6_03,E2,string,True,ESRS E2
+E2-6_04,E2,string,True,ESRS E2
+E2-6_05,E2,string,True,ESRS E2
+E2-6_06,E2,string,True,ESRS E2
+E2-6_07,E2,string,True,ESRS E2
+E2-6_08,E2,string,True,ESRS E2
+E2-6_09,E2,string,True,ESRS E2
+E2-6_10,E2,string,True,ESRS E2
+E2-6_11,E2,string,True,ESRS E2
+E3.IRO-1_01,E3,string,True,ESRS E3
+E3.IRO-1_02,E3,string,True,ESRS E3
+E3.MDR-P_01-06,E3,string,True,ESRS E3
+E3-1_01,E3,string,True,ESRS E3
+E3-1_02,E3,string,True,ESRS E3
+E3-1_03,E3,string,True,ESRS E3
+E3-1_04,E3,string,True,ESRS E3
+E3-1_05,E3,string,True,ESRS E3
+E3-1_06,E3,string,True,ESRS E3
+E3-1_07,E3,string,True,ESRS E3
+E3-1_08,E3,string,True,ESRS E3
+E3-1_09,E3,string,True,ESRS E3
+E3-1_10,E3,string,True,ESRS E3
+E3-1_11,E3,string,True,ESRS E3
+E3-1_12,E3,string,True,ESRS E3
+E3.MDR-P_07-08,ESRS 2,string,True,ESRS E3
+E3.MDR-A_01-12,E3,string,True,ESRS E3
+E3-2_01,E3,string,True,ESRS E3
+E3-2_02,E3,string,True,ESRS E3
+E3-2_03,E3,string,True,ESRS E3
+E3.MDR-A_13-14,ESRS 2,string,True,ESRS E3
+E3.MDR-T_01-13,E3,string,True,ESRS E3
+E3-3_01,E3,string,True,ESRS E3
+E3-3_02,E3,string,True,ESRS E3
+E3-3_03,E3,string,True,ESRS E3
+E3-3_04,E3,string,True,ESRS E3
+E3-3_05,E3,string,True,ESRS E3
+E3-3_06,E3,string,True,ESRS E3
+E3-3_07,E3,string,True,ESRS E3
+E3-3_08,E3,string,True,ESRS E3
+E3-3_09,E3,string,True,ESRS E3
+E3-3_10,E3,string,True,ESRS E3
+E3.MDR-T_14-19,ESRS 2,string,True,ESRS E3
+E3-4_01,E3,string,True,ESRS E3
+E3-4_02,E3,string,True,ESRS E3
+E3-4_03,E3,string,True,ESRS E3
+E3-4_04,E3,string,True,ESRS E3
+E3-4_05,E3,string,True,ESRS E3
+E3-4_06,E3,string,True,ESRS E3
+E3-4_07,E3,string,True,ESRS E3
+E3-4_08,E3,string,True,ESRS E3
+E3-4_09,E3,string,True,ESRS E3
+E3-4_10,E3,string,True,ESRS E3
+E3-4_11,E3,string,True,ESRS E3
+E3-4_12,E3,string,True,ESRS E3
+E3-5_01,E3,string,True,ESRS E3
+E3-5_02,E3,string,True,ESRS E3
+E3-5_03,E3,string,True,ESRS E3
+E3-5_04,E3,string,True,ESRS E3
+E3-5_05,E3,string,True,ESRS E3
+E3-5_06,E3,string,True,ESRS E3
+E4.SBM-3_01,E4,string,True,ESRS E4
+E4.SBM-3_02,E4,string,True,ESRS E4
+E4.SBM-3_03,E4,string,True,ESRS E4
+E4.SBM-3_04,E4,string,True,ESRS E4
+E4.SBM-3_05,E4,string,True,ESRS E4
+E4.SBM-3_06,E4,string,True,ESRS E4
+E4.IRO-1_01,E4,string,True,ESRS E4
+E4.IRO-1_02,E4,string,True,ESRS E4
+E4.IRO-1_03,E4,string,True,ESRS E4
+E4.IRO-1_04,E4,string,True,ESRS E4
+E4.IRO-1_05,E4,string,True,ESRS E4
+E4.IRO-1_06,E4,string,True,ESRS E4
+E4.IRO-1_07,E4,string,True,ESRS E4
+E4.IRO-1_08,E4,string,True,ESRS E4
+E4.IRO-1_09,E4,string,True,ESRS E4
+E4.IRO-1_10,E4,string,True,ESRS E4
+E4.IRO-1_11,E4,string,True,ESRS E4
+E4.IRO-1_12,E4,string,True,ESRS E4
+E4.IRO-1_13,E4,string,True,ESRS E4
+E4.IRO-1_14,E4,string,True,ESRS E4
+E4.IRO-1_15,E4,string,True,ESRS E4
+E4.IRO-1_16,E4,string,True,ESRS E4
+E4-1_01,E4,string,True,ESRS E4
+E4-1_02,E4,string,True,ESRS E4
+E4-1_03,E4,string,True,ESRS E4
+E4-1_04,E4,string,True,ESRS E4
+E4-1_05,E4,string,True,ESRS E4
+E4-1_06,E4,string,True,ESRS E4
+E4-1_07,E4,string,True,ESRS E4
+E4-1_08,E4,string,True,ESRS E4
+E4-1_09,E4,string,True,ESRS E4
+E4-1_10,E4,string,True,ESRS E4
+E4-1_11,E4,string,True,ESRS E4
+E4-1_12,E4,string,True,ESRS E4
+E4-1_13,E4,string,True,ESRS E4
+E4-1_14,E4,string,True,ESRS E4
+E4-1_15,E4,string,True,ESRS E4
+E4-1_16,E4,string,True,ESRS E4
+E4-1_17,E4,string,True,ESRS E4
+E4-1_18,E4,string,True,ESRS E4
+E4.MDR-P_01-06,E4,string,True,ESRS E4
+E4-2_01,E4,string,True,ESRS E4
+E4-2_02,E4,string,True,ESRS E4
+E4-2_03,E4,string,True,ESRS E4
+E4-2_04,E4,string,True,ESRS E4
+E4-2_05,E4,string,True,ESRS E4
+E4-2_06,E4,string,True,ESRS E4
+E4-2_07,E4,string,True,ESRS E4
+E4-2_08,E4,string,True,ESRS E4
+E4-2_09,E4,string,True,ESRS E4
+E4-2_10,E4,string,True,ESRS E4
+E4-2_11,E4,string,True,ESRS E4
+E4-2_12,E4,string,True,ESRS E4
+E4-2_13,E4,string,True,ESRS E4
+E4-2_14,E4,string,True,ESRS E4
+E4-2_15,E4,string,True,ESRS E4
+E4-2_16,E4,string,True,ESRS E4
+E4-2_17,E4,string,True,ESRS E4
+E4-2_18,E4,string,True,ESRS E4
+E4-2_19,E4,string,True,ESRS E4
+E4-2_20,E4,string,True,ESRS E4
+E4.MDR-P_07-08,ESRS 2,string,True,ESRS E4
+E4.MDR-A_01-12,E4,string,True,ESRS E4
+E4-3_01,E4,string,True,ESRS E4
+E4-3_02,E4,string,True,ESRS E4
+E4-3_03,E4,string,True,ESRS E4
+E4-3_04,E4,string,True,ESRS E4
+E4-3_05,E4,string,True,ESRS E4
+E4-3_06,E4,string,True,ESRS E4
+E4-3_07,E4,string,True,ESRS E4
+E4-3_08,E4,string,True,ESRS E4
+E4-3_09,E4,string,True,ESRS E4
+E4-3_10,E4,string,True,ESRS E4
+E4-3_11,E4,string,True,ESRS E4
+E4-3_12,E4,string,True,ESRS E4
+E4-3_13,E4,string,True,ESRS E4
+E4-3_14,E4,string,True,ESRS E4
+E4-3_15,E4,string,True,ESRS E4
+E4-3_16,E4,string,True,ESRS E4
+E4.MDR-A_13-14,ESRS 2,string,True,ESRS E4
+E4.MDR-T_01-13,E4,string,True,ESRS E4
+E4-4_01,E4,string,True,ESRS E4
+E4-4_02,E4,string,True,ESRS E4
+E4-4_03,E4,string,True,ESRS E4
+E4-4_04,E4,string,True,ESRS E4
+E4-4_05,E4,string,True,ESRS E4
+E4-4_06,E4,string,True,ESRS E4
+E4-4_07,E4,string,True,ESRS E4
+E4-4_08,E4,string,True,ESRS E4
+E4-4_09,E4,string,True,ESRS E4
+E4-4_10,E4,string,True,ESRS E4
+E4.MDR-T_14-19,ESRS 2,string,True,ESRS E4
+E4-5_01,E4,string,True,ESRS E4
+E4-5_02,E4,string,True,ESRS E4
+E4-5_03,E4,string,True,ESRS E4
+E4-5_04,E4,string,True,ESRS E4
+E4-5_05,E4,string,True,ESRS E4
+E4-5_06,E4,string,True,ESRS E4
+E4-5_07,E4,string,True,ESRS E4
+E4-5_08,E4,string,True,ESRS E4
+E4-5_09,E4,string,True,ESRS E4
+E4-5_10,E4,string,True,ESRS E4
+E4-5_11,E4,string,True,ESRS E4
+E4-5_12,E4,string,True,ESRS E4
+E4-5_13,E4,string,True,ESRS E4
+E4-5_14,E4,string,True,ESRS E4
+E4-5_15,E4,string,True,ESRS E4
+E4-5_16,E4,string,True,ESRS E4
+E4-5_17,E4,string,True,ESRS E4
+E4-5_18,E4,string,True,ESRS E4
+E4-5_19,E4,string,True,ESRS E4
+E4-5_20,E4,string,True,ESRS E4
+E4-5_21,E4,string,True,ESRS E4
+E4-5_22,E4,string,True,ESRS E4
+E4-5_23,E4,string,True,ESRS E4
+E4-5_24,E4,string,True,ESRS E4
+E4-5_25,E4,string,True,ESRS E4
+E4-5_26,E4,string,True,ESRS E4
+E4-5_27,E4,string,True,ESRS E4
+E4-6_01,E4,string,True,ESRS E4
+E4-6_02,E4,string,True,ESRS E4
+E4-6_03,E4,string,True,ESRS E4
+E4-6_04,E4,string,True,ESRS E4
+E4-6_05,E4,string,True,ESRS E4
+E4-6_06,E4,string,True,ESRS E4
+E5.IRO-1_01,E5,string,True,ESRS E5
+E5.IRO-1_02,E5,string,True,ESRS E5
+E5.MDR-P_01-06,E5,string,True,ESRS E5
+E5-1_01,E5,string,True,ESRS E5
+E5-1_02,E5,string,True,ESRS E5
+E5-1_03,E5,string,True,ESRS E5
+E5-1_04,E5,string,True,ESRS E5
+E5.MDR-P_07-08,ESRS 2,string,True,ESRS E5
+E5.MDR-A_01-12,E5,string,True,ESRS E5
+E5-2_01,E5,string,True,ESRS E5
+E5-2_02,E5,string,True,ESRS E5
+E5-2_03,E5,string,True,ESRS E5
+E5-2_04,E5,string,True,ESRS E5
+E5-2_05,E5,string,True,ESRS E5
+E5-2_06,E5,string,True,ESRS E5
+E5-2_07,E5,string,True,ESRS E5
+E5-2_08,E5,string,True,ESRS E5
+E5-2_09,E5,string,True,ESRS E5
+E5-2_10,E5,string,True,ESRS E5
+E5.MDR-A_13-14,ESRS 2,string,True,ESRS E5
+E5.MDR-T_01-13,E5,string,True,ESRS E5
+E5-3_01,E5,string,True,ESRS E5
+E5-3_02,E5,string,True,ESRS E5
+E5-3_03,E5,string,True,ESRS E5
+E5-3_04,E5,string,True,ESRS E5
+E5-3_05,E5,string,True,ESRS E5
+E5-3_06,E5,string,True,ESRS E5
+E5-3_07,E5,string,True,ESRS E5
+E5-3_08,E5,string,True,ESRS E5
+E5-3_09,E5,string,True,ESRS E5
+E5-3_10,E5,string,True,ESRS E5
+E5-3_11,E5,string,True,ESRS E5
+E5-3_12,E5,string,True,ESRS E5
+E5-3_13,E5,string,True,ESRS E5
+E5.MDR-T_14-19,ESRS 2,string,True,ESRS E5
+E5-4_01,E5,string,True,ESRS E5
+E5-4_02,E5,string,True,ESRS E5
+E5-4_03,E5,string,True,ESRS E5
+E5-4_04,E5,string,True,ESRS E5
+E5-4_05,E5,string,True,ESRS E5
+E5-4_06,E5,string,True,ESRS E5
+E5-4_07,E5,string,True,ESRS E5
+E5-4_08,E5,string,True,ESRS E5
+E5-5_01,E5,string,True,ESRS E5
+E5-5_02,E5,string,True,ESRS E5
+E5-5_03,E5,string,True,ESRS E5
+E5-5_04,E5,string,True,ESRS E5
+E5-5_05,E5,string,True,ESRS E5
+E5-5_06,E5,string,True,ESRS E5
+E5-5_07,E5,string,True,ESRS E5
+E5-5_08,E5,string,True,ESRS E5
+E5-5_09,E5,string,True,ESRS E5
+E5-5_10,E5,string,True,ESRS E5
+E5-5_11,E5,string,True,ESRS E5
+E5-5_12,E5,string,True,ESRS E5
+E5-5_13,E5,string,True,ESRS E5
+E5-5_14,E5,string,True,ESRS E5
+E5-5_15,E5,string,True,ESRS E5
+E5-5_16,E5,string,True,ESRS E5
+E5-5_17,E5,string,True,ESRS E5
+E5-5_18,E5,string,True,ESRS E5
+E5-6_01,E5,string,True,ESRS E5
+E5-6_02,E5,string,True,ESRS E5
+E5-6_03,E5,string,True,ESRS E5
+E5-6_04,E5,string,True,ESRS E5
+E5-6_05,E5,string,True,ESRS E5
+E5-6_06,E5,string,True,ESRS E5
+S1.SBM-3_01,S1,string,True,ESRS S1
+S1.SBM-3_02,S1,string,True,ESRS S1
+S1.SBM-3_03,S1,string,True,ESRS S1
+S1.SBM-3_04,S1,string,True,ESRS S1
+S1.SBM-3_05,S1,string,True,ESRS S1
+S1.SBM-3_06,S1,string,True,ESRS S1
+S1.SBM-3_07,S1,string,True,ESRS S1
+S1.SBM-3_08,S1,string,True,ESRS S1
+S1.SBM-3_09,S1,string,True,ESRS S1
+S1.SBM-3_10,S1,string,True,ESRS S1
+S1.SBM-3_11,S1,string,True,ESRS S1
+S1.SBM-3_12,S1,string,True,ESRS S1
+S1.MDR-P_01-06,S1,string,True,ESRS S1
+S1-1_01,S1,string,True,ESRS S1
+S1-1_02,S1,string,True,ESRS S1
+S1-1_03,S1,string,True,ESRS S1
+S1-1_04,S1,string,True,ESRS S1
+S1-1_05,S1,string,True,ESRS S1
+S1-1_06,S1,string,True,ESRS S1
+S1-1_07,S1,string,True,ESRS S1
+S1-1_08,S1,string,True,ESRS S1
+S1-1_09,S1,string,True,ESRS S1
+S1-1_10,S1,string,True,ESRS S1
+S1-1_11,S1,string,True,ESRS S1
+S1-1_12,S1,string,True,ESRS S1
+S1-1_13,S1,string,True,ESRS S1
+S1-1_14,S1,string,True,ESRS S1
+S1-1_15,S1,string,True,ESRS S1
+S1-1_16,S1,string,True,ESRS S1
+S1-1_17,S1,string,True,ESRS S1
+S1-1_18,S1,string,True,ESRS S1
+S1-1_19,S1,string,True,ESRS S1
+S1-1_20,S1,string,True,ESRS S1
+S1-1_21,S1,string,True,ESRS S1
+S1-1_22,S1,string,True,ESRS S1
+S1.MDR-P_07-08,ESRS 2,string,True,ESRS S1
+S1-2_01,S1,string,True,ESRS S1
+S1-2_02,S1,string,True,ESRS S1
+S1-2_03,S1,string,True,ESRS S1
+S1-2_04,S1,string,True,ESRS S1
+S1-2_05,S1,string,True,ESRS S1
+S1-2_06,S1,string,True,ESRS S1
+S1-2_07,S1,string,True,ESRS S1
+S1-2_08,S1,string,True,ESRS S1
+S1-2_09,S1,string,True,ESRS S1
+S1-2_10,S1,string,True,ESRS S1
+S1-2_11,S1,string,True,ESRS S1
+S1-2_12,S1,string,True,ESRS S1
+S1-2_13,S1,string,True,ESRS S1
+S1-2_14,S1,string,True,ESRS S1
+S1-2_15,S1,string,True,ESRS S1
+S1-3_01,S1,string,True,ESRS S1
+S1-3_02,S1,string,True,ESRS S1
+S1-3_03,S1,string,True,ESRS S1
+S1-3_04,S1,string,True,ESRS S1
+S1-3_05,S1,string,True,ESRS S1
+S1-3_06,S1,string,True,ESRS S1
+S1-3_07,S1,string,True,ESRS S1
+S1-3_08,S1,string,True,ESRS S1
+S1-3_09,S1,string,True,ESRS S1
+S1-3_10,S1,string,True,ESRS S1
+S1-3_11,S1,string,True,ESRS S1
+S1.MDR-A_01-12,S1,string,True,ESRS S1
+S1-4_01,S1,string,True,ESRS S1
+S1-4_02,S1,string,True,ESRS S1
+S1-4_03,S1,string,True,ESRS S1
+S1-4_04,S1,string,True,ESRS S1
+S1-4_05,S1,string,True,ESRS S1
+S1-4_06,S1,string,True,ESRS S1
+S1-4_07,S1,string,True,ESRS S1
+S1-4_08,S1,string,True,ESRS S1
+S1-4_09,S1,string,True,ESRS S1
+S1-4_10,S1,string,True,ESRS S1
+S1-4_11,S1,string,True,ESRS S1
+S1-4_12,S1,string,True,ESRS S1
+S1-4_13,S1,string,True,ESRS S1
+S1-4_14,S1,string,True,ESRS S1
+S1-4_15,S1,string,True,ESRS S1
+S1-4_16,S1,string,True,ESRS S1
+S1-4_17,S1,string,True,ESRS S1
+S1-4_18,S1,string,True,ESRS S1
+S1-4_19,S1,string,True,ESRS S1
+S1-4_20,S1,string,True,ESRS S1
+S1.MDR-A_13-14,ESRS 2,string,True,ESRS S1
+S1.MDR-T_01-13,S1,string,True,ESRS S1
+S1-5_01,S1,string,True,ESRS S1
+S1-5_02,S1,string,True,ESRS S1
+S1-5_03,S1,string,True,ESRS S1
+S1-5_04,S1,string,True,ESRS S1
+S1-5_05,S1,string,True,ESRS S1
+S1-5_06,S1,string,True,ESRS S1
+S1.MDR-T_14-19,ESRS 2,string,True,ESRS S1
+S1-6_01,S1,string,True,ESRS S1
+S1-6_02,S1,string,True,ESRS S1
+S1-6_03,S1,string,True,ESRS S1
+S1-6_04,S1,string,True,ESRS S1
+S1-6_05,S1,string,True,ESRS S1
+S1-6_06,S1,string,True,ESRS S1
+S1-6_07,S1,string,True,ESRS S1
+S1-6_08,S1,string,True,ESRS S1
+S1-6_09,S1,string,True,ESRS S1
+S1-6_10,S1,string,True,ESRS S1
+S1-6_11,S1,string,True,ESRS S1
+S1-6_12,S1,string,True,ESRS S1
+S1-6_13,S1,string,True,ESRS S1
+S1-6_14,S1,string,True,ESRS S1
+S1-6_15,S1,string,True,ESRS S1
+S1-6_16,S1,string,True,ESRS S1
+S1-6_17,S1,string,True,ESRS S1
+S1-6_18,S1,string,True,ESRS S1
+S1-6_19,S1,string,True,ESRS S1
+S1-6_20,S1,string,True,ESRS S1
+S1-7_01,S1,string,True,ESRS S1
+S1-7_02,S1,string,True,ESRS S1
+S1-7_03,S1,string,True,ESRS S1
+S1-7_04,S1,string,True,ESRS S1
+S1-7_05,S1,string,True,ESRS S1
+S1-7_06,S1,string,True,ESRS S1
+S1-7_07,S1,string,True,ESRS S1
+S1-7_08,S1,string,True,ESRS S1
+S1-7_09,S1,string,True,ESRS S1
+S1-7_10,S1,string,True,ESRS S1
+S1-8_01,S1,string,True,ESRS S1
+S1-8_02,S1,string,True,ESRS S1
+S1-8_03,S1,string,True,ESRS S1
+S1-8_04,S1,string,True,ESRS S1
+S1-8_05,S1,string,True,ESRS S1
+S1-8_06,S1,string,True,ESRS S1
+S1-8_07,S1,string,True,ESRS S1
+S1-8_08,S1,string,True,ESRS S1
+S1-9_01,S1,string,True,ESRS S1
+S1-9_02,S1,string,True,ESRS S1
+S1-9_03,S1,string,True,ESRS S1
+S1-9_04,S1,string,True,ESRS S1
+S1-9_05,S1,string,True,ESRS S1
+S1-9_06,S1,string,True,ESRS S1
+S1-10_01,S1,string,True,ESRS S1
+S1-10_02,S1,string,True,ESRS S1
+S1-10_03,S1,string,True,ESRS S1
+S1-10_04,S1,string,True,ESRS S1
+S1-11_01,S1,string,True,ESRS S1
+S1-11_02,S1,string,True,ESRS S1
+S1-11_03,S1,string,True,ESRS S1
+S1-11_04,S1,string,True,ESRS S1
+S1-11_05,S1,string,True,ESRS S1
+S1-11_06,S1,string,True,ESRS S1
+S1-11_07,S1,string,True,ESRS S1
+S1-11_08,S1,string,True,ESRS S1
+S1-11_09,S1,string,True,ESRS S1
+S1-11_10,S1,string,True,ESRS S1
+S1-11_11,S1,string,True,ESRS S1
+S1-12_01,S1,string,True,ESRS S1
+S1-12_02,S1,string,True,ESRS S1
+S1-12_03,S1,string,True,ESRS S1
+S1-13_01,S1,string,True,ESRS S1
+S1-13_02,S1,string,True,ESRS S1
+S1-13_03,S1,string,True,ESRS S1
+S1-13_04,S1,string,True,ESRS S1
+S1-13_05,S1,string,True,ESRS S1
+S1-13_06,S1,string,True,ESRS S1
+S1-13_07,S1,string,True,ESRS S1
+S1-14_01,S1,string,True,ESRS S1
+S1-14_02,S1,string,True,ESRS S1
+S1-14_03,S1,string,True,ESRS S1
+S1-14_04,S1,string,True,ESRS S1
+S1-14_05,S1,string,True,ESRS S1
+S1-14_06,S1,string,True,ESRS S1
+S1-14_07,S1,string,True,ESRS S1
+S1-14_08,S1,string,True,ESRS S1
+S1-14_09,S1,string,True,ESRS S1
+S1-14_10,S1,string,True,ESRS S1
+S1-14_11,S1,string,True,ESRS S1
+S1-14_12,S1,string,True,ESRS S1
+S1-15_01,S1,string,True,ESRS S1
+S1-15_02,S1,string,True,ESRS S1
+S1-15_03,S1,string,True,ESRS S1
+S1-15_04,S1,string,True,ESRS S1
+S1-16_01,S1,string,True,ESRS S1
+S1-16_02,S1,string,True,ESRS S1
+S1-16_03,S1,string,True,ESRS S1
+S1-16_04,S1,string,True,ESRS S1
+S1-16_05,S1,string,True,ESRS S1
+S1-16_06,S1,string,True,ESRS S1
+S1-16_07,S1,string,True,ESRS S1
+S1-17_01,S1,string,True,ESRS S1
+S1-17_02,S1,string,True,ESRS S1
+S1-17_03,S1,string,True,ESRS S1
+S1-17_04,S1,string,True,ESRS S1
+S1-17_05,S1,string,True,ESRS S1
+S1-17_06,S1,string,True,ESRS S1
+S1-17_07,S1,string,True,ESRS S1
+S1-17_08,S1,string,True,ESRS S1
+S1-17_09,S1,string,True,ESRS S1
+S1-17_10,S1,string,True,ESRS S1
+S1-17_11,S1,string,True,ESRS S1
+S1-17_12,S1,string,True,ESRS S1
+S1-17_13,S1,string,True,ESRS S1
+S1-17_14,S1,string,True,ESRS S1
+S2.SBM-3_01,S2,string,True,ESRS S2
+S2.SBM-3_02,S2,string,True,ESRS S2
+S2.SBM-3_03,S2,string,True,ESRS S2
+S2.SBM-3_04,S2,string,True,ESRS S2
+S2.SBM-3_05,S2,string,True,ESRS S2
+S2.SBM-3_06,S2,string,True,ESRS S2
+S2.SBM-3_07,S2,string,True,ESRS S2
+S2.SBM-3_08,S2,string,True,ESRS S2
+S2.SBM-3_09,S2,string,True,ESRS S2
+S2.MDR-P_01-06,S2,string,True,ESRS S2
+S2-1_01,S2,string,True,ESRS S2
+S2-1_02,S2,string,True,ESRS S2
+S2-1_03,S2,string,True,ESRS S2
+S2-1_04,S2,string,True,ESRS S2
+S2-1_05,S2,string,True,ESRS S2
+S2-1_06,S2,string,True,ESRS S2
+S2-1_07,S2,string,True,ESRS S2
+S2-1_08,S2,string,True,ESRS S2
+S2-1_09,S2,string,True,ESRS S2
+S2-1_10,S2,string,True,ESRS S2
+S2-1_11,S1,string,True,ESRS S2
+S2.MDR-P_07-08,ESRS 2,string,True,ESRS S2
+S2-2_01,S2,string,True,ESRS S2
+S2-2_02,S2,string,True,ESRS S2
+S2-2_03,S2,string,True,ESRS S2
+S2-2_04,S2,string,True,ESRS S2
+S2-2_05,S2,string,True,ESRS S2
+S2-2_06,S2,string,True,ESRS S2
+S2-2_07,S2,string,True,ESRS S2
+S2-2_08,S2,string,True,ESRS S2
+S2-2_09,S2,string,True,ESRS S2
+S2-3_01,S2,string,True,ESRS S2
+S2-3_02,S2,string,True,ESRS S2
+S2-3_03,S2,string,True,ESRS S2
+S2-3_04,S2,string,True,ESRS S2
+S2-3_05,S2,string,True,ESRS S2
+S2-3_06,S2,string,True,ESRS S2
+S2-3_07,S2,string,True,ESRS S2
+S2-3_08,S2,string,True,ESRS S2
+S2-3_09,S2,string,True,ESRS S2
+S2-3_10,S2,string,True,ESRS S2
+S2-3_11,S2,string,True,ESRS S2
+S2-3_12,S2,string,True,ESRS S2
+S2.MDR-A_01-12,S2,string,True,ESRS S2
+S2-4_01,S2,string,True,ESRS S2
+S2-4_02,S2,string,True,ESRS S2
+S2-4_03,S2,string,True,ESRS S2
+S2-4_04,S2,string,True,ESRS S2
+S2-4_05,S2,string,True,ESRS S2
+S2-4_06,S2,string,True,ESRS S2
+S2-4_07,S2,string,True,ESRS S2
+S2-4_08,S2,string,True,ESRS S2
+S2-4_09,S2,string,True,ESRS S2
+S2-4_10,S2,string,True,ESRS S2
+S2-4_11,S2,string,True,ESRS S2
+S2-4_12,S2,string,True,ESRS S2
+S2-4_13,S2,string,True,ESRS S2
+S2-4_14,S2,string,True,ESRS S2
+S2-4_15,S2,string,True,ESRS S2
+S2-4_16,S2,string,True,ESRS S2
+S2-4_17,S2,string,True,ESRS S2
+S2-4_18,S2,string,True,ESRS S2
+S2.MDR-A_13-14,ESRS 2,string,True,ESRS S2
+S2.MDR-T_01-13,S2,string,True,ESRS S2
+S2-5_01,S2,string,True,ESRS S2
+S2-5_02,S2,string,True,ESRS S2
+S2-5_03,S2,string,True,ESRS S2
+S2-5_04,S2,string,True,ESRS S2
+S2-5_05,S2,string,True,ESRS S2
+S2-5_06,S2,string,True,ESRS S2
+S2.MDR-T_14-19,ESRS 2,string,True,ESRS S2
+S3.SBM-3_01,S3,string,True,ESRS S3
+S3.SBM-3_02,S3,string,True,ESRS S3
+S3.SBM-3_03,S3,string,True,ESRS S3
+S3.SBM-3_04,S3,string,True,ESRS S3
+S3.SBM-3_05,S3,string,True,ESRS S3
+S3.SBM-3_06,S3,string,True,ESRS S3
+S3.SBM-3_07,S3,string,True,ESRS S3
+S3.SBM-3_08,S3,string,True,ESRS S3
+S3.MDR-P_01-06,S3,string,True,ESRS S3
+S3-1_01,S3,string,True,ESRS S3
+S3-1_02,S3,string,True,ESRS S3
+S3-1_03,S3,string,True,ESRS S3
+S3-1_04,S3,string,True,ESRS S3
+S3-1_05,S3,string,True,ESRS S3
+S3-1_06,S3,string,True,ESRS S3
+S3-1_07,S3,string,True,ESRS S3
+S3-1_08,S3,string,True,ESRS S3
+S3-1_09,S3,string,True,ESRS S3
+S3.MDR-P_07-08,ESRS 2,string,True,ESRS S3
+S3-2_01,S3,string,True,ESRS S3
+S3-2_02,S3,string,True,ESRS S3
+S3-2_03,S3,string,True,ESRS S3
+S3-2_04,S3,string,True,ESRS S3
+S3-2_05,S3,string,True,ESRS S3
+S3-2_06,S3,string,True,ESRS S3
+S3-2_07,S3,string,True,ESRS S3
+S3-2_08,S3,string,True,ESRS S3
+S3-2_09,S3,string,True,ESRS S3
+S3-3_10,S3,string,True,ESRS S3
+S3-3_11,S3,string,True,ESRS S3
+S3-3_12,S3,string,True,ESRS S3
+S3-3_13,S3,string,True,ESRS S3
+S3-3_14,S3,string,True,ESRS S3
+S3-3_15,S3,string,True,ESRS S3
+S3-3_16,S3,string,True,ESRS S3
+S3-3_17,S3,string,True,ESRS S3
+S3-3_18,S3,string,True,ESRS S3
+S3-3_19,S3,string,True,ESRS S3
+S3-3_20,S3,string,True,ESRS S3
+S3-3_21,S3,string,True,ESRS S3
+S3.MDR-A_01-12,S3,string,True,ESRS S3
+S3-4_01,S3,string,True,ESRS S3
+S3-4_02,S3,string,True,ESRS S3
+S3-4_03,S3,string,True,ESRS S3
+S3-4_04,S3,string,True,ESRS S3
+S3-4_05,S3,string,True,ESRS S3
+S3-4_06,S3,string,True,ESRS S3
+S3-4_07,S3,string,True,ESRS S3
+S3-4_08,S3,string,True,ESRS S3
+S3-4_09,S3,string,True,ESRS S3
+S3-4_10,S3,string,True,ESRS S3
+S3-4_11,S3,string,True,ESRS S3
+S3-4_12,S3,string,True,ESRS S3
+S3-4_13,S3,string,True,ESRS S3
+S3-4_14,S3,string,True,ESRS S3
+S3-4_15,S3,string,True,ESRS S3
+S3-4_16,S3,string,True,ESRS S3
+S3-4_17,S3,string,True,ESRS S3
+S3-4_18,S3,string,True,ESRS S3
+S3-4_19,S3,string,True,ESRS S3
+S3.MDR-A_13-14,ESRS 2,string,True,ESRS S3
+S3.MDR-T_01-13,S3,string,True,ESRS S3
+S3-5_01,S3,string,True,ESRS S3
+S3-5_02,S3,string,True,ESRS S3
+S3-5_03,S3,string,True,ESRS S3
+S3-5_04,S3,string,True,ESRS S3
+S3-5_05,S3,string,True,ESRS S3
+S3-5_06,S3,string,True,ESRS S3
+S3.MDR-T_14-19,ESRS 2,string,True,ESRS S3
+S4.SBM-3_01,S4,string,True,ESRS S4
+S4.SBM-3_02,S4,string,True,ESRS S4
+S4.SBM-3_03,S4,string,True,ESRS S4
+S4.SBM-3_04,S4,string,True,ESRS S4
+S4.SBM-3_05,S4,string,True,ESRS S4
+S4.SBM-3_06,S4,string,True,ESRS S4
+S4.SBM-3_07,S4,string,True,ESRS S4
+S4.SBM-3_08,S4,string,True,ESRS S4
+S4.MDR-P_01-06,S4,string,True,ESRS S4
+S4-1_01,S4,string,True,ESRS S4
+S4-1_02,S4,string,True,ESRS S4
+S4-1_03,S4,string,True,ESRS S4
+S4-1_04,S4,string,True,ESRS S4
+S4-1_05,S4,string,True,ESRS S4
+S4-1_06,S4,string,True,ESRS S4
+S4-1_07,S4,string,True,ESRS S4
+S4-1_08,S4,string,True,ESRS S4
+S4-1_09,S4,string,True,ESRS S4
+S4.MDR-P_07-08,ESRS 2,string,True,ESRS S4
+S4-2_01,S4,string,True,ESRS S4
+S4-2_02,S4,string,True,ESRS S4
+S4-2_03,S4,string,True,ESRS S4
+S4-2_04,S4,string,True,ESRS S4
+S4-2_05,S4,string,True,ESRS S4
+S4-2_06,S4,string,True,ESRS S4
+S4-2_07,S4,string,True,ESRS S4
+S4-2_08,S4,string,True,ESRS S4
+S4-2_09,S4,string,True,ESRS S4
+S4-3_01,S4,string,True,ESRS S4
+S4-3_02,S4,string,True,ESRS S4
+S4-3_03,S4,string,True,ESRS S4
+S4-3_04,S4,string,True,ESRS S4
+S4-3_05,S4,string,True,ESRS S4
+S4-3_06,S4,string,True,ESRS S4
+S4-3_07,S4,string,True,ESRS S4
+S4-3_08,S4,string,True,ESRS S4
+S4-3_09,S4,string,True,ESRS S4
+S4-3_10,S4,string,True,ESRS S4
+S4-3_11,S4,string,True,ESRS S4
+S4-3_12,S4,string,True,ESRS S4
+S4-3_13,S4,string,True,ESRS S4
+S4.MDR-A_01-12,S4,string,True,ESRS S4
+S4-4_01,S4,string,True,ESRS S4
+S4-4_02,S4,string,True,ESRS S4
+S4-4_03,S4,string,True,ESRS S4
+S4-4_04,S4,string,True,ESRS S4
+S4-4_05,S4,string,True,ESRS S4
+S4-4_06,S4,string,True,ESRS S4
+S4-4_07,S4,string,True,ESRS S4
+S4-4_08,S4,string,True,ESRS S4
+S4-4_09,S4,string,True,ESRS S4
+S4-4_10,S4,string,True,ESRS S4
+S4-4_11,S4,string,True,ESRS S4
+S4-4_12,S4,string,True,ESRS S4
+S4-4_13,S4,string,True,ESRS S4
+S4-4_14,S4,string,True,ESRS S4
+S4-4_15,S4,string,True,ESRS S4
+S4-4_16,S4,string,True,ESRS S4
+S4-4_17,S4,string,True,ESRS S4
+S4-4_18,S4,string,True,ESRS S4
+S4.MDR-A_13-14,ESRS 2,string,True,ESRS S4
+S4.MDR-T_01-13,S4,string,True,ESRS S4
+S4-5_01,S4,string,True,ESRS S4
+S4-5_02,S4,string,True,ESRS S4
+S4-5_03,S4,string,True,ESRS S4
+S4-5_04,S4,string,True,ESRS S4
+S4-5_05,S4,string,True,ESRS S4
+S4-5_06,S4,string,True,ESRS S4
+S4.MDR-T_14-19,ESRS 2,string,True,ESRS S4
+G1.GOV-1_01,G1,string,True,ESRS G1
+G1.GOV-1_02,G1,string,True,ESRS G1
+G1.MDR-P_01-06,G1,string,True,ESRS G1
+G1-1_01,G1,string,True,ESRS G1
+G1-1_02,G1,string,True,ESRS G1
+G1-1_03,G1,string,True,ESRS G1
+G1-1_04,G1,string,True,ESRS G1
+G1-1_05,G1,string,True,ESRS G1
+G1-1_06,G1,string,True,ESRS G1
+G1-1_07,G1,string,True,ESRS G1
+G1-1_08,G1,string,True,ESRS G1
+G1-1_09,G1,string,True,ESRS G1
+G1-1_10,G1,string,True,ESRS G1
+G1-1_11,G1,string,True,ESRS G1
+G1-1_12,G1,string,True,ESRS G1
+G1-2_01,G1,string,True,ESRS G1
+G1-2_02,G1,string,True,ESRS G1
+G1-2_03,G1,string,True,ESRS G1
+G1.MDR-P_07-08,ESRS 2,string,True,ESRS G1
+G1-3_01,G1,string,True,ESRS G1
+G1-3_02,G1,string,True,ESRS G1
+G1-3_03,G1,string,True,ESRS G1
+G1-3_04,G1,string,True,ESRS G1
+G1-3_05,G1,string,True,ESRS G1
+G1-3_06,G1,string,True,ESRS G1
+G1-3_07,G1,string,True,ESRS G1
+G1-3_08,G1,string,True,ESRS G1
+G1-3_09,G1,string,True,ESRS G1
+G1.MDR-A_01-12,G1,string,True,ESRS G1
+G1-4_01,G1,string,True,ESRS G1
+G1-4_02,G1,string,True,ESRS G1
+G1-4_03,G1,string,True,ESRS G1
+G1-4_04,G1,string,True,ESRS G1
+G1-4_05,G1,string,True,ESRS G1
+G1-4_06,G1,string,True,ESRS G1
+G1-4_07,G1,string,True,ESRS G1
+G1-4_08,G1,string,True,ESRS G1
+G1-5_01,G1,string,True,ESRS G1
+G1-5_02,G1,string,True,ESRS G1
+G1-5_03,G1,string,True,ESRS G1
+G1-5_04,G1,string,True,ESRS G1
+G1-5_05,G1,string,True,ESRS G1
+G1-5_06,G1,string,True,ESRS G1
+G1-5_07,G1,string,True,ESRS G1
+G1-5_08,G1,string,True,ESRS G1
+G1-5_09,G1,string,True,ESRS G1
+G1-5_10,G1,string,True,ESRS G1
+G1-5_11,G1,string,True,ESRS G1
+G1-5_12,G1,string,True,ESRS G1
+G1.MDR-A_13-14,ESRS 2,string,True,ESRS G1
+G1-6_01,G1,string,True,ESRS G1
+G1-6_02,G1,string,True,ESRS G1
+G1-6_03,G1,string,True,ESRS G1
+G1-6_04,G1,string,True,ESRS G1
+G1-6_05,G1,string,True,ESRS G1
