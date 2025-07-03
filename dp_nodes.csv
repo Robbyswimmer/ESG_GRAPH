@@ -1,0 +1,1187 @@
+code,label_en,datatype,mandatory
+2-MDR-Disclosures to be reported in case the undertaking has not adopted policies and/or actions or set any measurable outcome-oriented targets [see chapter 4.2 MDR - ESRS 2],Disclosures to be reported in case the undertaking has not adopted policies and/or actions or set any measurable outcome-oriented targets [see chapter 4.2 MDR - ESRS 2],narrative,true
+2-MDR-MDR-A_01,Disclosure of key action,narrative,true
+2-MDR-MDR-A_02,Description of scope of key action,narrative,true
+2-MDR-MDR-A_03,Time horizon under which key action is to be completed,narrative,true
+2-MDR-MDR-A_04,"Description of key action taken, and its results, to provide for and cooperate in or support provision of remedy for those harmed by actual material impacts",narrative,true
+2-MDR-MDR-A_05,Disclosure of quantitative and qualitative information regarding progress of actions or action plans disclosed in prior periods,narrative,true
+2-MDR-MDR-A_06,Disclosure of the type of current and future financial and other resources allocated to the action plan (Capex and Opex),narrative,true
+2-MDR-MDR-A_07,Explanation of how current financial resources relate to most relevant amounts presented in financial statements,narrative,true
+2-MDR-MDR-A_08,"Current and future financial resources allocated to action plan, breakdown by time horizon and resources",narrative,true
+2-MDR-MDR-A_09,Current financial resources allocated to action plan (Capex),narrative,true
+2-MDR-MDR-A_10,Current financial resources allocated to action plan (Opex),narrative,true
+2-MDR-MDR-A_11,Future financial resources allocated to action plan (Capex),narrative,true
+2-MDR-MDR-A_12,Future financial resources allocated to action plan (Opex),narrative,true
+2-MDR-MDR-A_13,Disclosure of reasons for not having adopted actions,narrative,true
+2-MDR-MDR-A_14,Disclosure of timeframe in which the undertakings aims to adopt actions,narrative,true
+2-MDR-MDR-M_01,"Description of metric used to evaluate performance and effectiveness, in relation to material impact, risk or opportunity",narrative,true
+2-MDR-MDR-M_02,Disclosure of methodologies and significant assumptions behind metric,narrative,true
+2-MDR-MDR-M_03,Type of external body other than assurance provider that provides validation,narrative,true
+2-MDR-MDR-P_01,Description of key contents of policy,narrative,true
+2-MDR-MDR-P_02,Description of scope of policy or of its exclusions,narrative,true
+2-MDR-MDR-P_03,Description of most senior level in organisation that is accountable for implementation of policy,narrative,true
+2-MDR-MDR-P_04,Disclosure of third-party standards or initiatives that are respected through implementation of policy,narrative,true
+2-MDR-MDR-P_05,Description of consideration given to interests of key stakeholders in setting policy,narrative,true
+2-MDR-MDR-P_06,Explanation of whether and how policy is made available to potentially affected stakeholders and stakeholders who need to help implement it,narrative,true
+2-MDR-MDR-P_07,Disclosure of reasons for not having adopted policies,narrative,true
+2-MDR-MDR-P_08,Disclosure of timeframe in which the undertakings aims to adopt policies,narrative,true
+2-MDR-MDR-T_01,Relationship with policy objectives,narrative,true
+2-MDR-MDR-T_02,Measurable target,narrative,true
+2-MDR-MDR-T_03,Nature of target,narrative,true
+2-MDR-MDR-T_04,Description of scope of target,narrative,true
+2-MDR-MDR-T_05,Baseline value,narrative,true
+2-MDR-MDR-T_06,Baseline year,narrative,true
+2-MDR-MDR-T_07,Period to which target applies,narrative,true
+2-MDR-MDR-T_08,Indication of milestones or interim targets,narrative,true
+2-MDR-MDR-T_09,Description of methodologies and significant assumptions used to define target,narrative,true
+2-MDR-MDR-T_10,Target related to environmental matters is based on conclusive scientific evidence,narrative,true
+2-MDR-MDR-T_11,Disclosure of whether and how stakeholders have been involved in target setting,narrative,true
+2-MDR-MDR-T_12,"Description of any changes in target and corresponding metrics or underlying measurement methodologies, significant assumptions, limitations, sources and adopted processes to collect data",narrative,true
+2-MDR-MDR-T_13,Description of performance against disclosed target,narrative,true
+2-MDR-MDR-T_14,Disclosure of timeframe for setting of measurable outcome-oriented targets,narrative,true
+2-MDR-MDR-T_15,Description of reasons why there are no plans to set measurable outcome-oriented targets,narrative,true
+2-MDR-MDR-T_16,"Effectiveness of policies and actions is tracked in relation to material sustainability-related impact, risk and opportunity",narrative,true
+2-MDR-MDR-T_17,"Description of processes through which effectiveness of policies and actions is tracked in relation to material sustainability-related impact, risk and opportunity",narrative,true
+2-MDR-MDR-T_18,Description of defined level of ambition to be achieved and of any qualitative or quantitative indicators used to evaluate progress,narrative,true
+2-MDR-MDR-T_19,Base year from which progress is measured,narrative,true
+BP-1_01,Basis for preparation of sustainability statement,narrative,true
+BP-1_02,Scope of consolidation of consolidated sustainability statement is same as for financial statements,narrative,false
+BP-1_03,Indication of subsidiary undertakings included in consolidation that are exempted from individual or consolidated sustainability reporting,narrative,false
+BP-1_04,Disclosure of extent to which sustainability statement covers upstream and downstream value chain,narrative,true
+BP-1_05,"Option to omit specific piece of information corresponding to intellectual property, know-how or results of innovation has been used",narrative,true
+BP-1_06,Option allowed by Member State to omit disclosure of impending developments or matters in course of negotiation has been used,narrative,true
+BP-2_01,Disclosure of definitions of medium- or long-term time horizons,narrative,false
+BP-2_02,Disclosure of reasons for applying different definitions of time horizons,narrative,false
+BP-2_03,Disclosure of metrics that include value chain data estimated using indirect sources,narrative,false
+BP-2_04,Description of basis for preparation of metrics that include value chain data estimated using indirect sources,narrative,false
+BP-2_05,Description of resulting level of accuracy of metrics that include value chain data estimated using indirect sources,narrative,false
+BP-2_06,Description of planned actions to improve accuracy in future of metrics that include value chain data estimated using indirect sources,narrative,false
+BP-2_07,Disclosure of quantitative metrics and monetary amounts disclosed that are subject to high level of measurement uncertainty,narrative,true
+BP-2_08,Disclosure of sources of measurement uncertainty,narrative,true
+BP-2_09,"Disclosure of assumptions, approximations and judgements made in measurement",narrative,true
+BP-2_10,Explanation of changes in preparation and presentation of sustainability information and reasons for them,narrative,false
+BP-2_11,Adjustment of comparative information for one or more prior periods is impracticable,narrative,false
+BP-2_12,Disclosure of difference between figures disclosed in preceding period and revised comparative figures,narrative,false
+BP-2_13,Disclosure of nature of prior period material errors,narrative,false
+BP-2_14,Disclosure of corrections for prior periods included in sustainability statement,narrative,false
+BP-2_15,Disclosure of why correction of prior period errors is not practicable,narrative,false
+BP-2_16,Disclosure of other legislation or generally accepted sustainability reporting standards and frameworks based on which information has been included in sustainability statement,narrative,false
+BP-2_17,Disclosure of reference to paragraphs of standard or framework applied,narrative,false
+BP-2_18,European standards approved by European Standardisation System (ISO/IEC or CEN/CENELEC standards) have been relied on,narrative,true
+BP-2_19,Disclosure of extent to which data and processes that are used for sustainability reporting purposes have been verified by external assurance provider and found to conform to corresponding ISO/IEC or CEN/CENELEC standard,narrative,true
+BP-2_20,List of DRs or DPs incorporated by reference,narrative,false
+BP-2_21,"Topics (E4, S1, S2, S3, S4) have been assessed to be material",narrative,false
+BP-2_22,List of sustainability matters assessed to be material (phase-in),narrative,false
+BP-2_23,Disclosure of how business model and strategy take account of impacts related to sustainability matters assessed to be material (phase-in),narrative,false
+BP-2_24,Description of any time-bound targets set related to sustainability matters assessed to be material (phase-in) and progress made towards achieving those targets,narrative,false
+BP-2_25,Description of policies related to sustainability matters assessed to be material (phase-in),narrative,false
+BP-2_26,"Description of actions taken to identify, monitor, prevent, mitigate, remediate or bring end to actual or potential adverse impacts related to sustainability matters assessed to be material (phase-in) and result of such actions",narrative,false
+BP-2_27,Disclosure of metrics related to sustainability matters assessed to be material (phase-in),narrative,false
+E1-1_01,Disclosure of transition plan  for climate change mitigation,narrative,true
+E1-1_02,Explanation of how targets are compatible with limiting of global warming to one and half degrees Celsius in line with Paris Agreement,narrative,true
+E1-1_03,Disclosure of decarbonisation levers and key action,narrative,true
+E1-1_04,Disclosure of significant operational expenditures (Opex) and (or) capital expenditures (Capex) required for implementation of action plan,narrative,true
+E1-1_05,Financial resources allocated to action plan (OpEx),monetary,true
+E1-1_06,Financial resources allocated to action plan (CapEx),monetary,true
+E1-1_07,Explanation of potential locked-in GHG emissions from key assets and products and of how locked-in GHG emissions may jeopardise achievement of GHG emission reduction targets and drive transition risk,narrative,true
+E1-1_08,"Explanation of any objective or plans (CapEx, CapEx plans, OpEx) for aligning economic activities (revenues, CapEx, OpEx) with criteria established in Commission Delegated Regulation 2021/2139",narrative,false
+E1-1_09,Significant CapEx for coal-related economic activities,monetary,false
+E1-1_10,Significant CapEx for oil-related economic activities,monetary,false
+E1-1_11,Significant CapEx for gas-related economic activities,monetary,false
+E1-1_12,Undertaking is excluded from EU Paris-aligned Benchmarks,narrative,true
+E1-1_13,Explanation of how transition plan is embedded in and aligned with overall business strategy and financial planning,narrative,true
+E1-1_14,"Transition plan is approved by administrative, management and supervisory bodies",narrative,true
+E1-1_15,Explanation of progress in implementing transition plan,narrative,true
+E1-1_16,Date of adoption of transition plan for undertakings not having adopted transition plan yet,narrative,false
+E1-2_01,Sustainability matters addressed by policy for climate change,narrative,true
+E1-3_01,Decarbonisation lever type,narrative,true
+E1-3_02,Adaptation solution type,narrative,true
+E1-3_03,Achieved GHG emission reductions,narrative,true
+E1-3_04,Expected GHG emission reductions,narrative,true
+E1-3_05,Explanation of extent to which ability to implement action depends on availability and allocation of resources,narrative,true
+E1-3_06,Explanation of relationship of significant CapEx and OpEx required to implement actions taken or planned to relevant line items or notes in financial statements,narrative,true
+E1-3_07,Explanation of relationship of significant CapEx and OpEx required to implement actions taken or planned to key performance indicators required under Commission Delegated Regulation (EU) 2021/2178,narrative,true
+E1-3_08,Explanation of relationship of significant CapEx and OpEx required to implement actions taken or planned to CapEx plan required by Commission Delegated Regulation (EU) 2021/2178,narrative,false
+E1-4_01,"Disclosure of whether and how GHG emissions reduction targets and (or) any other targets have been set to manage material climate-related impacts, risks and opportunities",narrative,true
+E1-4_02,"Tables: Multiple Dimensions (baseline year and targets; GHG Types, Scope 3 Categories, Decarbonisation levers, entity-specific denominators for intensity value)",table,false
+E1-4_03,Absolute value of total Greenhouse gas emissions reduction,table,false
+E1-4_04,Percentage of total Greenhouse gas emissions reduction (as of emissions of base year),percent,false
+E1-4_05,Intensity value of total Greenhouse gas emissions reduction,table,false
+E1-4_06,Absolute value of Scope 1 Greenhouse gas emissions reduction,table,false
+E1-4_07,Percentage of Scope 1 Greenhouse gas emissions reduction (as of emissions of base year),percent,false
+E1-4_08,Intensity value of Scope 1 Greenhouse gas emissions reduction,table,false
+E1-4_09,Absolute value of location-based Scope 2 Greenhouse gas emissions reduction,table,false
+E1-4_10,Percentage of location-based Scope 2 Greenhouse gas emissions reduction (as of emissions of base year),percent,false
+E1-4_11,Intensity value of location-based Scope 2 Greenhouse gas emissions reduction,table,false
+E1-4_12,Absolute value of market-based Scope 2 Greenhouse gas emissions reduction,table,false
+E1-4_13,Percentage of market-based Scope 2 Greenhouse gas emissions reduction (as of emissions of base year),percent,false
+E1-4_14,Intensity value of market-based Scope 2 Greenhouse gas emissions reduction,table,false
+E1-4_15,Absolute value of Scope 3 Greenhouse gas emissions reduction,table,false
+E1-4_16,Percentage of Scope 3 Greenhouse gas emissions reduction (as of emissions of base year),percent,false
+E1-4_17,Intensity value of Scope 3 Greenhouse gas emissions reduction,table,false
+E1-4_18,Explanation of how consistency of GHG emission reduction targets with GHG inventory boundaries has been ensured,narrative,true
+E1-4_19,Disclosure of past progress made in meeting target before current base year,narrative,true
+E1-4_20,Description of how it has been ensured that baseline value is representative in terms of activities covered and influences from external factors,narrative,true
+E1-4_21,"Description of how new baseline value affects new target, its achievement and presentation of progress over time",narrative,true
+E1-4_22,GHG emission reduction target is science based and compatible with limiting global warming to one and half degrees Celsius,narrative,true
+E1-4_23,Description of expected decarbonisation levers and their overall quantitative contributions to achieve GHG emission reduction target,narrative,true
+E1-4_24,"Diverse range of climate scenarios have been considered to detect relevant environmental, societal, technology, market and policy-related developments and determine decarbonisation levers",narrative,true
+E1-5_01,Total energy consumption related to own operations,narrative,true
+E1-5_02,Total energy consumption from fossil sources,narrative,true
+E1-5_03,Total energy consumption from nuclear sources,narrative,true
+E1-5_04,Percentage of energy consumption from nuclear sources in total energy consumption,percent,true
+E1-5_05,Total energy consumption from renewable sources,narrative,true
+E1-5_06,Fuel consumption from renewable sources,narrative,true
+E1-5_07,"Consumption of purchased or acquired electricity, heat, steam, and cooling from renewable sources",narrative,true
+E1-5_08,Consumption of self-generated non-fuel renewable energy,narrative,true
+E1-5_09,Percentage of renewable sources in total energy consumption,percent,true
+E1-5_10,Fuel consumption from coal and coal products,narrative,false
+E1-5_11,Fuel consumption from crude oil and petroleum products,narrative,false
+E1-5_12,Fuel consumption from natural gas,narrative,false
+E1-5_13,Fuel consumption from other fossil sources,narrative,false
+E1-5_14,"Consumption of purchased or acquired electricity, heat, steam, or cooling from fossil sources",narrative,false
+E1-5_15,Percentage of fossil sources in total energy consumption,percent,false
+E1-5_16,Non-renewable energy production,narrative,false
+E1-5_17,Renewable energy production,narrative,false
+E1-5_18,Energy intensity from activities in high climate impact sectors (total energy consumption per net revenue),percent,false
+E1-5_19,Total energy consumption from activities in high climate impact sectors,narrative,false
+E1-5_20,High climate impact sectors used to determine energy intensity,narrative,false
+E1-5_21,Disclosure of reconciliation to relevant line item or notes in financial statements of net revenue from activities in high climate impact sectors,narrative,false
+E1-5_22,Net revenue from activities in high climate impact sectors,monetary,false
+E1-5_23,Net revenue from activities other than in high climate impact sectors,monetary,false
+E1-6_01,"Gross Scopes 1, 2, 3 and Total GHG emissions - GHG emissions per scope [table]",table,true
+E1-6_02,"Gross Scopes 1, 2, 3 and Total GHG emissions - financial and operational control [table]",table,true
+E1-6_03,"Disaggregation of GHG emissions - by country, operating segments, economic activity, subsidiary, GHG category or source type",table,true
+E1-6_04,"Gross Scopes 1, 2, 3 and Total GHG emissions - Scope 3 GHG emissions (GHG Protocol) [table]",table,false
+E1-6_05,"Gross Scopes 1, 2, 3 and Total GHG emissions - Scope 3 GHG emissions (ISO 14064-1) [table]",table,false
+E1-6_06,"Gross Scopes 1, 2, 3 and Total GHG emissions - total GHG emissions - value chain [table]",table,true
+E1-6_07,Gross Scope 1 greenhouse gas emissions,table,true
+E1-6_08,Percentage of Scope 1 GHG emissions from regulated emission trading schemes,percent,true
+E1-6_09,Gross location-based Scope 2 greenhouse gas emissions,table,true
+E1-6_10,Gross market-based Scope 2 greenhouse gas emissions,table,true
+E1-6_11,Gross Scope 3 greenhouse gas emissions,table,true
+E1-6_12,Total GHG emissions location based,table,true
+E1-6_13,Total GHG emissions market based,table,true
+E1-6_14,Disclosure of significant changes in definition of what constitutes reporting undertaking and its value chain and explanation of their effect on year-to-year comparability of reported GHG emissions,narrative,false
+E1-6_15,"Disclosure of methodologies, significant assumptions and emissions factors used to calculate or measure GHG emissions",narrative,true
+E1-6_16,Disclosure of the effects of significant events and changes in circumstances (relevant to its GHG emissions) that occur between the reporting dates of the entities in its value chain and the date of the undertaking’s general purpose financial statements,narrative,false
+E1-6_17,biogenic emissions of CO2 from the combustion or bio-degradation of biomassnot included in Scope 1 GHG emissions,narrative,true
+E1-6_18,"Percentage of contractual instruments, Scope 2 GHG emissions",percent,true
+E1-6_19,"Disclosure of types of contractual instruments, Scope 2 GHG emissions",percent,true
+E1-6_20,Percentage of market-based Scope 2 GHG emissions linked to purchased electricity bundled with instruments,percent,true
+E1-6_21,Percentage of contractual instruments used for sale and purchase of energy bundled with attributes about energy generation in relation to Scope 2 GHG emissions,percent,true
+E1-6_22,Percentage of contractual instruments used for sale and purchase of unbundled energy attribute claims in relation to Scope 2 GHG emissions,percent,true
+E1-6_23,Disclosure of types of contractual instruments used for sale and purchase of energy bundled with attributes about energy generation or for unbundled energy attribute claims,narrative,true
+E1-6_24,Biogenic emissions of CO2 from combustion or bio-degradation of biomass not included in Scope 2 GHG emissions,narrative,true
+E1-6_25,Percentage of GHG Scope 3 calculated using primary data,percent,true
+E1-6_26,Disclosure of why Scope 3 GHG emissions category has been excluded,narrative,true
+E1-6_27,List of Scope 3 GHG emissions categories included in inventory,narrative,true
+E1-6_28,Biogenic emissions of CO2 from combustion or bio-degradation of biomass that occur in value chain not included in Scope 3 GHG emissions,narrative,true
+E1-6_29,Disclosure of reporting boundaries considered and calculation methods for estimating Scope 3 GHG emissions,narrative,true
+E1-6_30,"GHG emissions intensity, location-based (total GHG emissions per net revenue)",narrative,true
+E1-6_31,"GHG emissions intensity, market-based (total GHG emissions per net revenue)",narrative,true
+E1-6_32,Disclosure of reconciliation to financial statements of net revenue used for calculation of GHG emissions intensity,narrative,true
+E1-6_33,Net revenue,monetary,false
+E1-6_34,Net revenue used to calculate GHG intensity,monetary,false
+E1-6_35,Net revenue other than used to calculate GHG intensity,monetary,false
+E1-7_01,Disclosure of GHG removals and storage resulting from projects developed in own operations or contributed to in upstream and downstream value chain,narrative,true
+E1-7_02,Disclosure of GHG emission reductions or removals from climate change mitigation projects outside value chain financed or to be financed through any purchase of carbon credits,narrative,true
+E1-7_03,Removals and carbon credits are used,narrative,false
+E1-7_04,GHG Removals and storage Activity by undertaking scope (breakdown by own operations and value chain) and by removal and storage activity,table,false
+E1-7_05,Total GHG removals and storage,table,false
+E1-7_06,GHG emissions associated with removal activity,table,false
+E1-7_07,Reversals,narrative,false
+E1-7_08,"Disclosure of calculation assumptions, methodologies and frameworks applied (GHG removals and storage)",narrative,false
+E1-7_09,Removal activity has been converted into carbon credits and sold on to other parties on voluntary market,narrative,false
+E1-7_10,Total amount of carbon credits outside value chain that are verified against recognised quality standards and cancelled,narrative,false
+E1-7_11,Total amount of carbon credits outside value chain planned to be cancelled in future,narrative,false
+E1-7_12,Disclosure of extent of use and quality criteria used for carbon credits,narrative,true
+E1-7_13,Percentage of reduction projects,percent,true
+E1-7_14,Percentage of removal projects,percent,true
+E1-7_15,Type of carbon credits from removal projects,narrative,true
+E1-7_16,Percentage for recognised quality standard,percent,true
+E1-7_17,Percentage issued from projects in European Union,percent,true
+E1-7_18,Percentage that qualifies as corresponding adjustment,percent,true
+E1-7_19,Date when carbon credits outside value chain are planned to be cancelled,narrative,true
+E1-7_20,"Explanation of scope, methodologies and frameworks applied and how residual GHG emissions are intended to be neutralised",narrative,false
+E1-7_21,Public claims of GHG neutrality that involve use of carbon credits have been made,narrative,true
+E1-7_22,Public claims of GHG neutrality that involve use of carbon credits are accompanied by GHG emission reduction targets,narrative,false
+E1-7_23,Claims of GHG neutrality and reliance on carbon credits neither impede nor reduce achievement of GHG emission reduction targets or net zero target,narrative,false
+E1-7_24,Explanation of whether and how public claims of GHG neutrality that involve use of carbon credits are accompanied by GHG emission reduction targets and how claims of GHG neutrality and reliance on carbon credits neither impede nor reduce achievement of GHG emission reduction targets or net zero target,narrative,false
+E1-7_25,Explanation of credibility and integrity of carbon credits used,narrative,false
+E1-8_01,Carbon pricing scheme by type,table,true
+E1-8_02,Type of internal carbon pricing scheme,narrative,true
+E1-8_03,Description of specific scope of application of carbon pricing scheme,narrative,true
+E1-8_04,Carbon price applied for each metric tonne of greenhouse gas emission,monetary,true
+E1-8_05,Description of critical assumptions made to determine carbon price applied,narrative,true
+E1-8_06,Percentage of gross Scope 1 greenhouse gas emissions covered by internal carbon pricing scheme,percent,true
+E1-8_07,Percentage of gross Scope 2 greenhouse gas emissions covered by internal carbon pricing scheme,percent,true
+E1-8_08,Percentage of gross Scope 3 greenhouse gas emissions covered by internal carbon pricing scheme,percent,false
+E1-8_09,Disclosure of whether and how carbon price used in internal carbon pricing scheme is consistent with carbon price used in financial statements,narrative,false
+E1-9_01,Assets at material physical risk before considering climate change adaptation actions,monetary,true
+E1-9_02,Assets at acute material physical risk before considering climate change adaptation actions,monetary,true
+E1-9_03,Assets at chronic material physical risk before considering climate change adaptation actions,monetary,true
+E1-9_04,Percentage of assets at material physical risk before considering climate change adaptation actions,percent,true
+E1-9_05,Disclosure of location of significant assets at material physical risk,narrative,true
+E1-9_06,Disclosure of location of its significant assets at material physical risk (disaggregated by NUTS codes),narrative,true
+E1-9_07,Percentage of assets at material physical risk addressed by climate change adaptation actions,percent,true
+E1-9_08,Net revenue from business activities at material physical risk,monetary,true
+E1-9_09,Percentage of net revenue from business activities at material physical risk,percent,true
+E1-9_10,Disclosure of whether and how anticipated financial effects for assets and business activities at material physical risk have been assessed,narrative,true
+E1-9_11,Disclosure of whether and how assessment of assets and business activities considered to be at material physical risk relies on or is part of process to determine material physical risk and to determine climate scenarios,narrative,true
+E1-9_12,Disclosure of risk factors for net revenue from business activities at material physical risk,narrative,true
+E1-9_13,Disclosure of magnitude of anticipated financial effects in terms of margin erosion for business activities at material physical risk,narrative,false
+E1-9_14,Assets at material transition risk before considering climate mitigation actions,monetary,true
+E1-9_15,Percentage of assets at material transition risk before considering climate mitigation actions,percent,true
+E1-9_16,Percentage of assets at material transition risk addressed by climate change mitigation actions,percent,true
+E1-9_17,Total carrying amount of real estate assets by energy efficiency classes,monetary,true
+E1-9_18,Disclosure of whether and how potential effects on future financial performance and position for assets and business activities at material transition risk have been assessed,narrative,true
+E1-9_19,Disclosure of whether and how assessment of assets and business activities considered to be at material transition risk relies on or is part of process to determine material transition risks and to determine scenarios,narrative,true
+E1-9_20,Estimated amount of potentially stranded assets,monetary,true
+E1-9_21,Percentage of estimated share of potentially stranded assets of total assets at material transition risk,percent,true
+E1-9_22,Total carrying amount of real estate assets for which energy consumption is based on internal estimates,monetary,true
+E1-9_23,Liabilities from material transition risks that may have to be recognised in financial statements,monetary,true
+E1-9_24,Number of Scope 1 GHG emission allowances within regulated emission trading schemes,narrative,true
+E1-9_25,Number of emission allowances stored (from previous allowances) at beginning of reporting period,narrative,true
+E1-9_26,"Potential future liabilities, based on existing contractual agreements, associated with carbon credits planned to be cancelled in near future",monetary,true
+E1-9_27,Monetised gross Scope 1 and 2 GHG emissions,monetary,true
+E1-9_28,Monetised total GHG emissions,monetary,true
+E1-9_29,Net revenue from business activities at material transition risk,monetary,true
+E1-9_30,Net revenue from customers operating in coal-related activities,monetary,false
+E1-9_31,Net revenue from customers operating in oil-related activities,monetary,false
+E1-9_32,Net revenue from customers operating in gas-related activities,monetary,false
+E1-9_33,Percentage of net revenue from customers operating in coal-related activities,percent,false
+E1-9_34,Percentage of net revenue from customers operating in oil-related activities,percent,false
+E1-9_35,Percentage of net revenue from customers operating in gas-related activities,percent,false
+E1-9_36,Percentage of net revenue from business activities at material transition risk,percent,true
+E1-9_37,Disclosure of risk factors for net revenue from business activities at material transition risk,narrative,true
+E1-9_38,Disclosure of anticipated financial effects in terms of margin erosion for business activities at material transition risk,narrative,true
+E1-9_39,Disclosure of reconciliations with financial statements of significant amounts of assets and net revenue at material physical risk,narrative,true
+E1-9_40,"Disclosure of reconciliations with financial statements of significant amounts of assets, liabilities and net revenue at material transition risk",narrative,true
+E1-9_41,Expected cost savings from climate change mitigation actions,monetary,true
+E1-9_42,Expected cost savings from climate change adaptation actions,monetary,true
+E1-9_43,Potential market size of low-carbon products and services or adaptation solutions to which undertaking has or may have access,monetary,true
+E1-9_44,Expected changes to net revenue from low-carbon products and services or adaptation solutions to which undertaking has or may have access,monetary,true
+E1-GOV-3_01,"Disclosure of whether and how climate-related considerations are factored into remuneration of members of administrative, management and supervisory bodies",narrative,true
+E1-GOV-3_02,Percentage of remuneration recognised that is linked to climate related considerations,percent,true
+E1-GOV-3_03,"Explanation of climate-related considerations that are factored into remuneration of members of administrative, management and supervisory bodies",narrative,true
+E1-IRO-1_01,Description of process in relation to impacts on climate change,narrative,true
+E1-IRO-1_02,Description of process in relation to climate-related physical risks in own operations and along value chain,narrative,true
+E1-IRO-1_03,"Climate-related hazards have been identified over short-, medium- and long-term time horizons",narrative,true
+E1-IRO-1_04,Undertaking has screened whether assets and business activities may be exposed to climate-related hazards,narrative,true
+E1-IRO-1_05,"Short-, medium- and long-term time horizons have been defined",narrative,true
+E1-IRO-1_06,Extent to which assets and business activities may be exposed and are sensitive to identified climate-related hazards has been assessed,narrative,true
+E1-IRO-1_07,Identification of climate-related hazards and assessment of exposure and sensitivity are informed by high emissions climate scenarios,narrative,true
+E1-IRO-1_08,"Explanation of how climate-related scenario analysis has been used to inform identification and assessment of physical risks over short, medium and long-term",narrative,true
+E1-IRO-1_09,Description of process in relation to climate-related transition risks and opportunities in own operations and along value chain,narrative,true
+E1-IRO-1_10,"Transition events have been identified over short-, medium- and long-term time horizons",narrative,true
+E1-IRO-1_11,Undertaking has screened whether assets and business activities may be exposed to transition events,narrative,true
+E1-IRO-1_12,Extent to which assets and business activities may be exposed and are sensitive to identified transition events has been assessed,narrative,true
+E1-IRO-1_13,Identification of transition events and assessment of exposure has been informed by climate-related scenario analysis,narrative,true
+E1-IRO-1_14,Assets and business activities that are incompatible with or need significant efforts to be compatible with transition to climate-neutral economy have been identified,narrative,true
+E1-IRO-1_15,"Explanation of how climate-related scenario analysis has been used to inform identification and assessment of transition risks and opportunities over short, medium and long-term",narrative,true
+E1-IRO-1_16,Explanation of how climate scenarios used are compatible with critical climate-related assumptions made in financial statements,narrative,true
+E1-MDR-A_01-12,Actions and Resources related to climate change mitigation and adaptation [see ESRS 2 MDR-A],narrative,true
+E1-MDR-A_13-14,Disclosure to be reported if the undertaking has not adopted actions,narrative,true
+E1-MDR-P_01-06,"Policies in place to manage its material impacts, risks and opportunities related to climate change mitigation and adaptation [see ESRS 2 MDR-P]",narrative,true
+E1-MDR-P_07-08,Disclosures to be reported in case the undertaking has not adopted policies,narrative,true
+E1-MDR-T_01-13,Tracking effectiveness of policies and actions through targets [see ESRS 2 MDR-T ],narrative,true
+E1-MDR-T_14-19,Disclosure to be reported if the undertaking has not set any measurable outcome-oriented targets,narrative,true
+E1-SBM-3_01,Type of climate-related risk,narrative,true
+E1-SBM-3_02,Description of scope of resilience analysis,narrative,true
+E1-SBM-3_03,Disclosure of how resilience analysis has been conducted,narrative,true
+E1-SBM-3_04,Disclosure of how resilience analysis has been conducted,date,true
+E1-SBM-3_05,Time horizons applied for resilience analysis,narrative,true
+E1-SBM-3_06,Description of results of resilience analysis,narrative,true
+E1-SBM-3_07,Description of ability to adjust or adapt strategy and business model to climate change,narrative,true
+E2-1_01,"Disclosure of whether and how policy addresses mitigating negative impacts related to pollution of air, water and soil",narrative,true
+E2-1_02,Disclosure of  whether and how policy addresses substituting and minimising use of substances of concern and phasing out substances of very high concern,narrative,true
+E2-1_03,"Disclosure of  whether and how policy addresses avoiding incidents and emergency situations, and if and when they occur, controlling and limiting their impact on people and environment",narrative,true
+E2-1_04,"Disclosure of contextual information on relations between policies implemented and how policies contribute to EU Action Plan Towards Zero Pollution for Air, Water and Soil",narrative,true
+E2-2_01,Layer in mitigation hierarchy to which action can be allocated to (pollution),narrative,true
+E2-2_02,Action related to pollution extends to upstream/downstream value chain engagements,narrative,true
+E2-2_03,Layer in mitigation hierarchy to which resources can be allocated to (pollution),narrative,true
+E2-2_04,Information about action plans that have been implemented at site-level (pollution),narrative,false
+E2-3_01,Disclosure of  whether and  how target relates to prevention and control of air pollutants and respective specific loads,narrative,true
+E2-3_02,Disclosure of  whether and how target relates to prevention and control of emissions to water and respective specific loads,narrative,true
+E2-3_03,Disclosure of  whether and how target relates to prevention and control of pollution to soil and respective specific loads,narrative,true
+E2-3_04,Disclosure of  whether and how target relates to prevention and control of  substances of concern and substances of very high concern,narrative,true
+E2-3_05,Ecological thresholds and entity-specific allocations were taken into consideration when setting pollution-related target,narrative,true
+E2-3_06,Disclosure of ecological thresholds identified and methodology used to identify ecological thresholds (pollution),narrative,false
+E2-3_07,Disclosure of how ecological entity-specific thresholds were determined (pollution),narrative,false
+E2-3_08,Disclosure of how responsibility for respecting identified ecological thresholds is allocated (pollution),narrative,false
+E2-3_09,Pollution-related target is mandatory (required by legislation)/voluntary,narrative,true
+E2-3_10,Pollution-related target addresses shortcomings related to Substantial Contribution criteria for Pollution Prevention and Control,narrative,true
+E2-3_11,Information about targets that have been implemented at site-level (pollution),narrative,false
+E2-4_01,"Pollution of air, water and soil [multiple dimensions: at site level or  by type of source, by sector or by geographical area",table,true
+E2-4_02,Emissions to air by pollutant,table,true
+E2-4_03,Emissions to water by pollutant  [+ by sectors/Geographical Area/Type of source/Site location],table,true
+E2-4_04,Emissions to soil by pollutant  [+ by sectors/Geographical Area/Type of source/Site location],table,true
+E2-4_05,Microplastics generated and used,narrative,false
+E2-4_06,Microplastics generated,narrative,false
+E2-4_07,Microplastics used,narrative,false
+E2-4_08,"Description of changes over time (pollution of air, water and soil)",narrative,true
+E2-4_09,"Description of measurement methodologies (pollution of air, water and soil)",narrative,true
+E2-4_10,Description of process(es) to collect data for pollution-related accounting and reporting,narrative,true
+E2-4_11,Percentage of total emissions of pollutants to water occurring in areas at water risk,percent,true
+E2-4_12,Percentage of total emissions of pollutants to water occurring in areas of high-water stress,percent,true
+E2-4_13,Percentage of total emissions of pollutants to soil occurring in areas at water risk,percent,true
+E2-4_14,Percentage of total emissions of pollutants to soil occurring in areas of high-water stress,percent,true
+E2-4_15,Disclosure of reasons for choosing inferior methodology to quantify emissions,narrative,false
+E2-4_16,Disclosure of list of installations operated that fall under IED and EU BAT Conclusions,narrative,false
+E2-4_17,Disclosure of list of any non-compliance incidents or enforcement actions necessary to ensure compliance in case of breaches of permit conditions,narrative,false
+E2-4_18,Disclosure of actual performance and comparison of environmental performance against emission levels associated with best available techniques (BAT-AEL) as described in EU-BAT conclusions,narrative,false
+E2-4_19,Disclosure of actual performance against environmental performance levels associated with best available techniques (BAT-AEPLs) applicable to sector and installation,narrative,false
+E2-4_20,Disclosure of list of any compliance schedules or derogations granted by competent authorities according to Article 15(4) IED that are associated with implementation of BAT-AELs,narrative,false
+E2-5_01,"Total amount of substances of concern that are generated or used during production or that are procured, breakdown by main hazard classes of substances of concern",table,true
+E2-5_02,Total amount of substances of concern that are generated or used during production or that are procured,table,true
+E2-5_03,"Total amount of substances of concern that leave facilities as emissions, as products, or as part of products or services",table,true
+E2-5_04,Amount of substances of concern that leave facilities as emissions by main hazard classes of substances of concern,table,true
+E2-5_05,Amount of substances of concern that leave facilities as products by main hazard classes of substances of concern,table,true
+E2-5_06,Amount of substances of concern that leave facilities as part of products by main hazard classes of substances of concern,table,true
+E2-5_07,Amount of substances of concern that leave facilities as services by main hazard classes of substances of concern,table,true
+E2-5_08,Total amount of substances of very high concern that are generated or used during production or that are procured by main hazard classes of substances of concern,table,true
+E2-5_09,"Total amount of substances of very high concern that leave facilities as emissions, as products, or as part of products or services by main hazard classes of substances of concern",table,true
+E2-5_10,Amount of substances of very high concern that leave facilities as emissions by main hazard classes of substances of concern,table,true
+E2-5_11,Amount of substances of very high concern that leave facilities as products by main hazard classes of substances of concern,table,true
+E2-5_12,Amount of substances of very high concern that leave facilities as part of products by main hazard classes of substances of concern,table,true
+E2-5_13,Amount of substances of very high concern that leave facilities as services by main hazard classes of substances of concern,table,true
+E2-6_01,Disclosure of quantitative information about anticipated financial effects of material risks and opportunities arising from pollution-related impacts,monetary,true
+E2-6_02,Percentage of net revenue made with products and services that are or that contain substances of concern,percent,true
+E2-6_03,Percentage of net revenue made with products and services that are or that contain substances of very high concern,percent,true
+E2-6_04,Operating expenditures (OpEx) in conjunction with major incidents and deposits (pollution),monetary,true
+E2-6_05,Capital expenditures (CapEx) in conjunction with major incidents and deposits (pollution),monetary,true
+E2-6_06,Provisions for environmental protection and remediation costs (pollution),monetary,true
+E2-6_07,Disclosure of qualitative information about anticipated financial effects of material risks and opportunities arising from pollution-related impacts,narrative,true
+E2-6_08,"Description of effects considered, related impacts and time horizons in which they are likely to materialise (pollution)",narrative,true
+E2-6_09,"Disclosure of critical assumptions used to quantify anticipated financial effects, sources and level of uncertainty of assumptions (pollution)",narrative,true
+E2-6_10,"Description of material incidents and deposits whereby pollution had negative impacts on environment and (or) is expected to have negative effects on financial cash flows, financial position and financial performance",narrative,true
+E2-6_11,"Disclosure of assessment of related products and services at risk and explanation how time horizon is defined, financial amounts are estimated, and which critical assumptions are made (pollution)",narrative,true
+E2-IRO-1_01,"Information about the process to identify actual and potential pollution-related impacts, risks and opportuntities",narrative,true
+E2-IRO-1_02,Disclosure of whether and how consultations have been conducted (pollution),narrative,true
+E2-IRO-1_03,Disclosure of results of materiality assessment (pollution),narrative,true
+E2-MDR-A_01-12,Actions and resources in relation to pollution [see ESRS 2 MDR-A],narrative,true
+E2-MDR-A_13-14,Disclosures to be reported if the undertaking has not adopted actions,narrative,true
+E2-MDR-P_01-06,"Policies to manage its material impacts, risks and opportunities related to pollution [see ESRS 2 MDR-P]",narrative,true
+E2-MDR-P_07-08,Disclosures to be reported in case the undertaking has not adopted policies,narrative,true
+E2-MDR-T_01-13,Tracking effectiveness of policies and actions through targets [see ESRS 2 MDR-T ],narrative,true
+E2-MDR-T_14-19,Disclosures to be reported if the undertaking has not adopted targets,narrative,true
+E3-1_01,Disclosure of whether and how policy adresses water management,narrative,true
+E3-1_02,Disclosure of whether and how policy adresses the use and sourcing of water and marine resources in own operations,narrative,true
+E3-1_03,Disclosure of whether and  how policy adresses water treatment,narrative,true
+E3-1_04,Disclosure of whether and how policy adresses prevention and abatment of water pollution,narrative,true
+E3-1_05,Disclosure of whether and how policy adresses product and service design in view of addressing water-related issues and preservation of marine resources,narrative,true
+E3-1_06,Disclosure of whether and how policy adresses commitment to reduce material water consumption in areas at water risk,narrative,true
+E3-1_07,Disclosure of reasons for not having adopted policies in areas of high-water stress,narrative,false
+E3-1_08,Disclosure of timeframe in which policies in areas of high-water stress will be adopted,narrative,false
+E3-1_09,Policies or practices related to sustainable oceans and seas have been adopted,narrative,true
+E3-1_10,"The policly contributes to good ecological and chemical quality of surface water bodies and good chemical quality and quantity of groundwater bodies, in order to protect human health, water supply, natural ecosystems and biodiversity, the good environmental status of marine waters and the protection of the resource base upon which marine related activities depend;",narrative,true
+E3-1_11,The policy minimise material impacts and risks and implement mitigation measures that aim to maintain the value and functionality of priority services and to increase resource efficiency on own operations,narrative,true
+E3-1_12,The policy avoid impacts on affected communities.,narrative,true
+E3-2_01,Layer in mitigation hierarchy to which action and resources can be allocated to (water and marine resources),narrative,true
+E3-2_02,Information about specific collective action for water and marine resources,narrative,true
+E3-2_03,Disclosure of actions and resources  in relation to areas at water risk,narrative,true
+E3-3_01,"Disclosure of whether and  how target relates to management of material impacts, risks and opportunities related to areas at water risk",narrative,true
+E3-3_02,"Disclosure of whether and  how target relates to responsible management of marine resources impacts, risks and opportunities",narrative,true
+E3-3_03,Disclosure of whether and how target relates to reduction of water consumption,narrative,true
+E3-3_04,(Local) ecological threshold and entity-specific allocation were taken into consideration when setting water and marine resources target,narrative,true
+E3-3_05,Disclosure of ecological threshold identified and methodology used to identify ecological threshold (water and marine resources),narrative,true
+E3-3_06,Disclosure of how ecological entity-specific threshold was determined (water and marine resources),narrative,true
+E3-3_07,Disclosure of how responsibility for respecting identified ecological threshold is allocated (water and marine resources),narrative,true
+E3-3_08,Adopted and presented water and marine resources-related target is mandatory (based on legislation),narrative,true
+E3-3_09,Target relates to reduction of water withdrawals,narrative,true
+E3-3_10,Target relates to reduction of water discharges,narrative,true
+E3-4_01,Total water consumption,narrative,true
+E3-4_02,"Total water consumption in areas at water risk, including areas of high-water stress",narrative,true
+E3-4_03,Total water recycled and reused,narrative,true
+E3-4_04,Total water stored,narrative,true
+E3-4_05,Changes in water storage,narrative,true
+E3-4_06,Disclosure of contextual information regarding warter consumption,narrative,true
+E3-4_07,"Share of the measure obtained from direct measurement, from sampling and extrapolation, or from best estimates",percent,true
+E3-4_08,Water intensity ratio,narrative,true
+E3-4_09,Water consumption - sectors/SEGMENTS [table],table,true
+E3-4_10,Additional water intensity ratio,percent,true
+E3-4_11,Total water withdrawals,narrative,true
+E3-4_12,Total water discharges,narrative,true
+E3-5_01,Disclosure of quantitative information about anticipated financial effects of material risks and opportunities arising from water and marine resources-related impacts,monetary,true
+E3-5_02,Disclosure of qualitative information of anticipated financial effects of material risks and opportunities arising from water and marine resources-related impacts,narrative,true
+E3-5_03,Description of effects considered and related impacts (water and marine resources),narrative,true
+E3-5_04,Disclosure of critical assumptions used in estimates of financial effects of material risks and opportunities arising from water and marine resources-related impacts,narrative,true
+E3-5_05,Description of related products and services at risk (water and marine resources),narrative,true
+E3-5_06,"Explanation of how time horizons are defined, financial amounts are estimated and critical assumptions made (water and marine resources)",narrative,true
+E3-IRO-1_01,"Disclosure of whether and how assets and activities have been screened in order to identify actual and potential water and marine resources-related impacts, risks and opportunities in own operations and upstream and downstream value chain and methodologies, assumptions and tools used in screening [text block]",narrative,true
+E3-IRO-1_02,Disclosure of how consultations have been conducted (water and marine resources) [text block],narrative,true
+E3-MDR-A_01-12,Actions and resources in relation to water and marine resources [see ESRS 2 MDR-A],narrative,true
+E3-MDR-A_13-14,Disclosures to be reported if the undertaking has not adopted actions,narrative,true
+E3-MDR-P_01-06,"Policies to manage its material impacts, risks and opportunities related to water and marine resources [see ESRS 2 MDR-P]",narrative,true
+E3-MDR-P_07-08,Disclosures to be reported in case the undertaking has not adopted policies,narrative,true
+E3-MDR-T_01-13,Tracking effectiveness of policies and actions through targets [see ESRS 2 MDR-T ],narrative,true
+E3-MDR-T_14-19,Disclosures to be reported if the undertaking has not adopted targets,narrative,true
+E4-1_01,"Disclosure of resilience of current business model(s) and strategy to biodiversity and ecosystems-related physical, transition and systemic risks and opportunities",narrative,true
+E4-1_02,Disclosure of scope of resilience analysis along own operations and related upstream and downstream value chain,narrative,true
+E4-1_03,Disclosure of key assumptions made (biodiversity and ecosystems),narrative,true
+E4-1_04,Disclosure of time horizons used for analysis (biodiversity and ecosystems),narrative,true
+E4-1_05,Disclosure of results of resilience analysis (biodiversity and ecosystems),narrative,true
+E4-1_06,Disclosure of involvement of stakeholders (biodiversity and ecosystems),narrative,true
+E4-1_07,Disclosure of transition plan to improve and achieve alignment of its business model and strategy,narrative,true
+E4-1_08,"Explanation of how strategy and business model will be adjusted to improve and, ultimately, achieve alignment with relevant local, national and global public policy goals",narrative,true
+E4-1_09,Include information about  its own operations and  explain how it is responding to material impacts in its related value chain,narrative,true
+E4-1_10,Explanation of how b strategy interacts with  transition plan,narrative,true
+E4-1_11,Disclosure of contribution to impact drivers and possible mitigation actions following mitigation hierarchy and main path-dependencies and locked-in assets and resources that are associated with biodiversity and ecosystems change,narrative,true
+E4-1_12,Explanation and quantification of investments and funding supporting the implementation of its transition plan,narrative,true
+E4-1_13,"Disclosure of objectives or plans for aligning economic activities (revenues, CapEx)",narrative,true
+E4-1_14,Biodiversity offsets are part of transition plan,narrative,true
+E4-1_15,Information about how process of implementing and updating transition plan is managed,narrative,true
+E4-1_16,Indication of metrics and related tools used to measure progress that are integrated in measurement approach (biodiversity and ecosystems),narrative,true
+E4-1_17,"Administrative, management and supervisory bodies have approved transition plan",narrative,true
+E4-1_18,Indication of current challenges and limitations to draft plan in relation to areas of significant impact and actions company is taking to address them (biodiversity and ecosystems),narrative,true
+E4-2_01,Disclosure on whether and how biodiversity and ecosystems-related policies relate to matters reported in E4 AR4,narrative,true
+E4-2_02,Explanation of whether and  how biodiversity and ecosystems-related policy relates to material biodiversity and ecosystems-related impacts,narrative,true
+E4-2_03,Explanation of whether and  how biodiversity and ecosystems-related policy relates to material dependencies and material physical and transition risks and opportunities,narrative,true
+E4-2_04,"Explanation of whether and how biodiversity and ecosystems-related policy supports traceability of products, components and raw materials with significant actual or potential impacts on biodiversity and ecosystems along value chain",narrative,true
+E4-2_05,"Explanation of whether and how biodiversity and ecosystems-related policy addresses production, sourcing or consumption from ecosystems that are managed to maintain or enhance conditions for biodiversity",narrative,true
+E4-2_06,Explanation of whether and how biodiversity and ecosystems-related policy addresses social consequences of biodiversity and ecosystems-related impacts,narrative,true
+E4-2_07,"Disclosure of how policy refers to production, sourcing or consumption of raw materials",narrative,true
+E4-2_08,Disclosure of how policy refers to policies limiting procurement from suppliers that cannot demonstrate that they are not contributing to significant conversion of protected areas or key biodiversity areas,narrative,true
+E4-2_09,Disclosure of how policy refers to recognised standards or third-party certifications overseen by regulators,narrative,true
+E4-2_10,"Disclosure of how policy addresses raw materials originating from ecosystems that have been managed to maintain or enhance conditions for biodiversity, as demonstrated by regular monitoring and reporting of biodiversity status and gains or losses",narrative,true
+E4-2_11,"Disclosure of how the policy enables to a), b), c) and d)",narrative,true
+E4-2_12,Third-party standard of conduct used in policy is objective and achievable based on scientific approach to identifying issues and realistic in assessing how these issues can be addressed under variety of practical circumstances,narrative,true
+E4-2_13,Third-party standard of conduct used in policy is developed or maintained through process of ongoing consultation with relevant stakeholders with balanced input from all relevant stakeholder groups with no group holding undue authority or veto power over content,narrative,true
+E4-2_14,Third-party standard of conduct used in policy encourages step-wise approach and continuous improvement in standard and its application of better management practices and requires establishment of meaningful targets and specific milestones to indicate progress against principles and criteria over time,narrative,true
+E4-2_15,"Third-party standard of conduct used in policy is verifiable through independent certifying or verifying bodies, which have defined and rigorous assessment procedures that avoid conflicts of interest and are compliant with ISO guidance on accreditation and verification procedures or Article 5(2) of Regulation (EC) No 765/2008",narrative,true
+E4-2_16,Third-party standard of conduct used in policy conforms to ISEAL Code of Good Practice,narrative,true
+E4-2_17,"Biodiversity and ecosystem protection policy covering operational sites owned, leased, managed in or near protected area or biodiversity-sensitive area outside protected areas has been adopted",narrative,true
+E4-2_18,Sustainable land or agriculture practices or policies have been adopted,narrative,true
+E4-2_19,Sustainable oceans or seas practices or policies have been adopted,narrative,true
+E4-2_20,Policies to address deforestation have been adopted,narrative,true
+E4-3_01,Disclosure on how the mitigation hierarchy has been applied with regard to biodiversity and ecosystem actions,narrative,true
+E4-3_02,Biodiversity offsets were used in action plan,narrative,true
+E4-3_03,Disclosure of aim of biodiversity offset and key performance indicators used,narrative,false
+E4-3_04,Financing effects (direct and indirect costs) of biodiversity offsets,monetary,false
+E4-3_05,Explanation of rekationship of significant Capex and Opex required to impelement actions taken or planned to relevant line items or notes in the financial statements,narrative,false
+E4-3_06,Explanation of rekationship of significant Capex and Opex required to impelement actions taken or planned to key  performance indicators required under Commission Delegated Regulation (EU) 2021/2178,narrative,false
+E4-3_07,Explanation of rekationship of significant Capex and Opex required to impelement actions taken or planned to Capex plan required under Commission Delegated Regulation (EU) 2021/2178,narrative,false
+E4-3_08,Description of biodiversity offsets,narrative,false
+E4-3_09,Description of whether and how local and indigenous knowledge and nature-based solutions have been incorporated into biodiversity and ecosystems-related action,narrative,true
+E4-3_10,"Disclosure of key stakeholders involved and how they are involved, key stakeholders negatively or positively impacted by action and how they are impacted",narrative,true
+E4-3_11,Explanation of need for appropriate consultations and need to respect decisions of affected communities,narrative,false
+E4-3_12,Description of whether key action may induce significant negative sustainability impacts (biodiversity and ecosystems),narrative,true
+E4-3_13,Explanation of whether the key action is intended to be a one-time initiative or systematic practice,narrative,true
+E4-3_14,Key action plan is carried out only by undertaking (individual action) using its resources (biodiversity and ecosystems),narrative,true
+E4-3_15,"Key action plan is part of wider action plan (collective action), of which undertaking is member (biodiversity and ecosystems)",narrative,true
+E4-3_16,"Additional information about project, its sponsors and other participants (biodiversity and ecosystems)",narrative,true
+E4-4_01,Ecological threshold and allocation of impacts to undertaking were applied when setting target (biodiversity and ecosystems),narrative,true
+E4-4_02,Disclosure of ecological threshold identified and methodology used to identify threshold (biodiversity and ecosystems),narrative,false
+E4-4_03,Disclosure of how entity-specific threshold was determined (biodiversity and ecosystems),narrative,false
+E4-4_04,Disclosure of how responsibility for respecting identified ecological threshold is allocated (biodiversity and ecosystems),narrative,false
+E4-4_05,Target is informed by relevant aspect of EU Biodiversity Strategy for 2030,narrative,true
+E4-4_06,"Disclosure of how the targets relate to the biodiversity and ecosystem impacts, dependencies, risks and opportunities identified in relation to own operations and upstream and downstream value chain",narrative,true
+E4-4_07,Disclosure of the geographical scope of the targets,narrative,false
+E4-4_08,Biodiversity offsets were used in setting target,narrative,true
+E4-4_09,Layer in mitigation hierarchy to which target can be allocated (biodiversity and ecosystems),narrative,true
+E4-4_10,The target addresses shortcomings related to the Substantial Contribution criteria,narrative,true
+E4-5_01,"Number of sites owned, leased or managed in or near protected areas or key biodiversity areas that undertaking is negatively affecting",narrative,false
+E4-5_02,"Area of sites owned, leased or managed in or near protected areas or key biodiversity areas that undertaking is negatively affecting",narrative,false
+E4-5_03,Disclosure of land-use based on Life Cycle Assessment,narrative,false
+E4-5_04,"Disclosure of metrics considered relevant (land-use change, freshwater-use change and (or) sea-use change)",narrative,false
+E4-5_05,Disclosure of conversion over time of land cover,narrative,false
+E4-5_06,Disclosure of changes over time in management of ecosystem,narrative,false
+E4-5_07,Disclosure of changes in spatial configuration of landscape,narrative,false
+E4-5_08,Disclosure of changes in ecosystem structural connectivity,narrative,false
+E4-5_09,Disclosure of functional connectivity,narrative,false
+E4-5_10,Total use of land area,narrative,false
+E4-5_11,Total sealed area,narrative,false
+E4-5_12,Nature-oriented area on site,narrative,false
+E4-5_13,Nature-oriented area off site,narrative,false
+E4-5_14,Disclosure of how pathways of introduction and spread of invasive alien species and risks posed by invasive alien species are managed,narrative,false
+E4-5_15,Number of invasive alien species,narrative,false
+E4-5_16,Area covered by invasive alien species,narrative,false
+E4-5_17,Disclosure of metrics considered relevant (state of species),narrative,false
+E4-5_18,Disclosure of paragraph in another environment-related standard in which metric is referred to,narrative,false
+E4-5_19,"Disclosure of population size, range within specific ecosystems and extinction risk",narrative,false
+E4-5_20,Disclosure of changes in number of individuals of species within specific area,narrative,false
+E4-5_21,Information about species at global extinction risk,narrative,false
+E4-5_22,Disclosure of threat status of species and how activities or pressures may affect threat status,narrative,false
+E4-5_23,Disclosure of change in relevant habitat for threatened species as proxy for impact on local population's extinction risk,narrative,false
+E4-5_24,Disclosure of ecosystem area coverage,narrative,false
+E4-5_25,Disclosure of quality of ecosystems relative to pre-determined reference state,narrative,false
+E4-5_26,Disclosure of multiple species within ecosystem,narrative,false
+E4-5_27,Disclosure of structural components of ecosystem condition,narrative,false
+E4-6_01,Disclosure of quantitative information about anticipated financial effects of material risks and opportunities arising from biodiversity- and ecosystem-related impacts and dependencies,monetary,true
+E4-6_02,Disclosure of qualitative information about anticipated financial effects of material risks and opportunities arising from biodiversity- and ecosystem-related impacts and dependencies,narrative,true
+E4-6_03,"Description of effects considered, related impacts and dependencies (biodiversity and ecosystems)",narrative,true
+E4-6_04,Disclosure of critical assumptions used in estimates of financial effects of material risks and opportunities arising from biodiversity- and ecosystem-related impacts and dependencies,narrative,true
+E4-6_05,"Description of related products and services at risk (biodiversity and ecosystems) over the short-, medium- and long-term",narrative,true
+E4-6_06,Explanation of how financial amounts are estimated and critical assumptions made (biodiversity and ecosystems),narrative,true
+E4-IRO-1_01,Disclosure of whether and how actual and potential impacts on biodiversity and ecosystems at own site locations and in value chain have been identified and assessed,narrative,true
+E4-IRO-1_02,Disclosure of whether and how dependencies on biodiversity and ecosystems and their services have been identified and assessed at own site locations and in value chain,narrative,true
+E4-IRO-1_03,Disclosure of whether and how transition and physical risks and opportunities related to biodiversity and ecosystems have been identified and assessed,narrative,true
+E4-IRO-1_04,Disclosure of whether and how systemic risks have been considered (biodiversity and ecosystems),narrative,true
+E4-IRO-1_05,Disclosure of whether and how consultations with affected communities on sustainability assessments of shared biological resources and ecosystems have been conducted,narrative,true
+E4-IRO-1_06,"Disclosure of whether and how specific sites, raw materials production or sourcing with negative or potential negative impacts on affected communities",narrative,true
+E4-IRO-1_07,Disclosure of whether and how communities were involved in materiality assessment,narrative,true
+E4-IRO-1_08,Disclosure of whether and how negative impacts on priority ecosystem services of relevance to affected communities may be avoided,narrative,true
+E4-IRO-1_09,Disclosure of plans to minimise unavoidable negative impacts and implement mitigation measures that aim to maintain value and functionality of priority services,narrative,true
+E4-IRO-1_10,"Disclosure of whether and how tthe business model(s) has been verified using range of biodiversity and ecosystems scenarios, or other scenarios with modelling of biodiversity and ecosystems related consequences, with different possible pathways",narrative,true
+E4-IRO-1_11,Disclosure of why considered scenarios were taken into consideration,narrative,false
+E4-IRO-1_12,Disclosure of how considered scenarios are updated according to evolving conditions and emerging trends,narrative,false
+E4-IRO-1_13,Scenarios are informed by expectations in authoritative intergovernmental instruments and by scientific consensus,narrative,false
+E4-IRO-1_14,Undertaking has sites located in or near biodiversity-sensitive areas,narrative,true
+E4-IRO-1_15,Activities related to sites located in or near biodiversity-sensitive areas negatively affect these areas by leading to deterioration of natural habitats and habitats of species and to disturbance of species for which protected area has been designated,narrative,true
+E4-IRO-1_16,It has been concluded that it is necessary to implement biodiversity mitigation measures,narrative,true
+E4-MDR-A_01-12,Actions and resources in relation to biodiversity and ecosystems [see ESRS 2 - MDR-A],narrative,true
+E4-MDR-A_13-14,Disclosures to be reported if the undertaking has not adopted actions,narrative,true
+E4-MDR-P_01-06,"Policies to manage material impacts, risks, dependencies and opportunities related to biodiversity and ecosystems [see ESRS 2 - MDR-P]",narrative,true
+E4-MDR-P_07-08,Disclosures to be reported in case the undertaking has not adopted policies,narrative,true
+E4-MDR-T_01-13,Tracking effectiveness of policies and actions through targets [see ESRS 2 MDR-T ],narrative,true
+E4-MDR-T_14-19,Disclosures to be reported if the undertaking has not adopted targets,narrative,true
+E4-SBM-3_01,List of material sites in own operation,narrative,true
+E4-SBM-3_02,Disclosure of activities negatively affecting biodiversity sensitive areeas,narrative,true
+E4-SBM-3_03,Disclosure of list of material sites in own operations based on results of identification and assessment of actual and potential impacts on biodiversity and ecosystems,narrative,true
+E4-SBM-3_04,Disclosure of biodiversity-sensitive areas impacted,narrative,true
+E4-SBM-3_05,"Material negative impacts with regards to land degradation, desertification or soil sealing have been identified",narrative,true
+E4-SBM-3_06,Own operations affect threatened species,narrative,true
+E5-1_01,"Disclosure of whether and how policy addresses transitioning away from use of virgin resources, including relative increases in use of secondary (recycled) resources",narrative,true
+E5-1_02,Disclosure of whether and how policy addresses sustainable sourcing and use of renewable resources,narrative,true
+E5-1_03,"Description of whether and how policy addresses waste hierarchy (prevention, preparing for re-use, recycling, other recovery, disposal)",narrative,true
+E5-1_04,Description of  whether and how policy addresses prioritisation of strategies to avoid or minimise waste over waste treatment strategies,narrative,true
+E5-2_01,Description of higher levels of resource efficiency in use of technical and biological materials and water,narrative,true
+E5-2_02,Description of higher rates of use of secondary raw materials,narrative,true
+E5-2_03,Description of application of circular design,narrative,true
+E5-2_04,Description of application of circular business practices,narrative,true
+E5-2_05,Description of actions taken to prevent waste generation in the undertaking's upstream and downstram value chain,narrative,true
+E5-2_06,Description of Optimistation of waste management,narrative,true
+E5-2_07,Information about collective action on development of collaborations or initiatives increasing circularity of products and materials,narrative,true
+E5-2_08,Description of contribution to circular economy,narrative,true
+E5-2_09,Description of other stakeholders involved in collective action (resource use and circular economy),narrative,true
+E5-2_10,Description of organisation of project (resource use and circular economy),narrative,true
+E5-3_01,Disclosure of how target relates to resources (resource use and circular economy),narrative,true
+E5-3_02,Disclosure of how target relates to increase of circular design,narrative,true
+E5-3_03,Disclosure of how target relates to increase of circular material use rate,narrative,true
+E5-3_04,Disclosure of how target relates to minimisation of primary raw material,narrative,true
+E5-3_05,Disclosure of how target relates to reversal of depletion of stock of renewable resources,narrative,true
+E5-3_06,Target relates to waste management,narrative,true
+E5-3_07,Disclosure of how target relates to waste management,narrative,true
+E5-3_08,Disclosure of how target relates to other matters related to resource use or circular economy,narrative,true
+E5-3_09,Layer in waste hierarchy to which target relates,narrative,true
+E5-3_10,Disclosure of ecological threshold identified and methodology used to identify ecological threshold (resource use and circular economy),narrative,true
+E5-3_11,Disclosure of how ecological entity-specific threshold was determined (resource use and circular economy),narrative,true
+E5-3_12,Disclosure of how responsibility for respecting identified ecological threshold is allocated (resource use and circular economy),narrative,true
+E5-3_13,The targets being  set and presented are mandatory (required by legislation),narrative,true
+E5-4_01,Disclosure of information on material resource inflows,narrative,true
+E5-4_02,Overall total weight of products and technical and biological materials used during the reporting period,narrative,true
+E5-4_03,Percentage of biological materials (and biofuels used for non-energy purposes),percent,true
+E5-4_04,"The absolute weight of secondary reused or recycled components, secondary intermediary products and secondary materials used to manufacture the undertaking’s products and services (including packaging)",narrative,true
+E5-4_05,"Percentage of secondary reused or recycled components, secondary intermediary products and secondary materials",percent,true
+E5-4_06,Description of methodologies used to calculate data and key assumptions used,narrative,true
+E5-4_07,Description of materials that are sourced from by-products or waste stream,narrative,true
+E5-4_08,Description of how double counting was avoided and of choices made,narrative,false
+E5-5_01,Description of the key products and materials that come out of the undertaking’s production process,narrative,true
+E5-5_02,"Disclosure of the expected durability of the products placed on the market, in relation to the industry average for each product group",percent,true
+E5-5_03,Disclosure of the reparability of products,narrative,true
+E5-5_04,The rates of recyclable content in products,percent,true
+E5-5_05,The rates of recyclable content in products packaging,percent,true
+E5-5_06,Description of methodologies used to calculate data (resource outflows),narrative,true
+E5-5_07,Total Waste generated,narrative,true
+E5-5_08,"Waste diverted from disposal, breakdown by hazardous and non-hazardous waste and treatment type",table,true
+E5-5_09,"Waste directed to disposal, breakdown by hazardous and non-hazardous waste and treatment type",table,true
+E5-5_10,Non-recycled waste,narrative,true
+E5-5_11,Percentage of non-recycled waste,percent,true
+E5-5_12,Disclosure of composition of waste,narrative,true
+E5-5_13,Disclosure of waste streams relevant to undertaking's sector or activities,narrative,true
+E5-5_14,Disclosure of materials that are present in waste,narrative,true
+E5-5_15,Total amount of hazardous waste,narrative,true
+E5-5_16,Total amount of radioactive waste,narrative,true
+E5-5_17,Description of methodologies used to calculate data (waste generated),narrative,true
+E5-5_18,Disclosure of its engagement in product end-of-life waste management,narrative,true
+E5-6_01,Disclosure of quantitative information about anticipated financial effects of material risks and opportunities arising from resource use and circular economy-related impacts,monetary,true
+E5-6_02,Disclosure of qualitative information of anticipated financial effects of material risks and opportunities arising from resource use and circular economy-related impacts,narrative,true
+E5-6_03,Description of effects considered and related impacts (resource use and circular economy),narrative,true
+E5-6_04,Disclosure of critical assumptions used in estimates of financial effects of material risks and opportunities arising from resource use and circular economy-related impacts,narrative,true
+E5-6_05,Description of related products and services at risk (resource use and circular economy),narrative,true
+E5-6_06,"Explanation of how time horizons are defined, financial amounts are estimated and of critical assumptions made (resource use and circular economy)",narrative,true
+E5-IRO-1_01,"Disclosure of whether the undertaking has screened its assets and activities in order to identify actual and potential impacts, risks and opportunities in own operations and upstream and downstream value chain, and if so, methodologies, assumptions and tools used",narrative,true
+E5-IRO-1_02,Disclosure of whether and how the undertaking has conducted consultations (resource and circular economy),narrative,true
+E5-MDR-A_01-12,Actions and resources in relation to resource use and circular economy [see ESRS 2 MDR-A],narrative,true
+E5-MDR-A_13-14,Disclosures to be reported if the undertaking has not adopted actions,narrative,true
+E5-MDR-P_01-06,"Policies to manage its material impacts, risks and opportunities related to resource use and circular economy [see ESRS 2 MDR-P]",narrative,true
+E5-MDR-P_07-08,Disclosures to be reported in case the undertaking has not adopted policies,narrative,true
+E5-MDR-T_01-13,Tracking effectiveness of policies and actions through targets [see ESRS 2 MDR-T ],narrative,true
+E5-MDR-T_14-19,Disclosures to be reported if the undertaking has not adopted targets,narrative,true
+G1-1_01,"Description of how the undertaking establishes, develops, promotes and evaluates its corporate culture",narrative,true
+G1-1_02,"Description of the mechanisms for identifying, reporting and investigating concerns about unlawful behaviour or behaviour in contradiction of its code of conduct or similar internal rules",narrative,true
+G1-1_03,No policies on anti-corruption or anti-bribery consistent with United Nations Convention against Corruption are in place,narrative,true
+G1-1_04,Timetable for implementation of policies on anti-corruption or anti-bribery consistent with United Nations Convention against Corruption,narrative,false
+G1-1_05,Disclosure of safeguards for reporting irregularities including whistleblowing protection,narrative,true
+G1-1_06,No policies on protection of whistle-blowers are in place,narrative,true
+G1-1_07,Timetable for implementation of policies on protection of whistle-blowers,narrative,false
+G1-1_08,"Undertaking is committed to investigate business conduct incidents promptly, independently and objectively",narrative,true
+G1-1_09,Policies with respect to animal welfare are in place,narrative,false
+G1-1_10,Information about policy for training within organisation on business conduct,narrative,true
+G1-1_11,Disclosure of the functions that are most at risk in respect of corruption and bribery,narrative,true
+G1-1_12,Entity is subject to legal requirements with regard to protection of whistleblowers,narrative,false
+G1-2_01,"Description of policy to prevent late payments, especially to SMEs",narrative,true
+G1-2_02,"Description of approaches in regard to relationships with suppliers, taking account risks related to supply chain and impacts on sustainability matters",narrative,true
+G1-2_03,Disclosure of whether and how social and environmental criteria are taken into account for selection of supply-side contractual partners,narrative,true
+G1-3_01,"Information about procedures in place to prevent, detect, and address allegations or incidents of corruption or bribery",narrative,true
+G1-3_02,Investigators or investigating committee are separate from chain of management involved in prevention and detection of corruption or bribery,narrative,true
+G1-3_03,"Information about process to report outcomes to administrative, management and supervisory bodies",narrative,false
+G1-3_04,"Disclosure of plans to adopt procedures to prevent, detect, and address allegations or incidents of corruption or bribery in case of no procedure",narrative,false
+G1-3_05,Information about how policies are communicated to those for whom they are relevant (prevention and detection of corruption or bribery),narrative,true
+G1-3_06,"Information about nature, scope and depth of anti-corruption or anti-bribery training programmes offered or required",narrative,true
+G1-3_07,Percentage of functions-at-risk covered by training programmes,percent,true
+G1-3_08,"Information about members of administrative, supervisory and management bodies relating to anti-corruption or anti-bribery training",narrative,true
+G1-3_09,"Disclosure of an analysis of its training activities by, for example, region of training or category",narrative,true
+G1-4_01,Number of convictions for violation of anti-corruption and anti- bribery laws,narrative,true
+G1-4_02,Amount of fines for violation of anti-corruption and anti- bribery laws,monetary,true
+G1-4_03,Prevention and detection of corruption or bribery - anti-corruption and bribery training table,table,true
+G1-4_04,Number of confirmed incidents of corruption or bribery,narrative,true
+G1-4_05,Information about nature of confirmed incidents of corruption or bribery,narrative,true
+G1-4_06,Number of confirmed incidents in which own workers were dismissed or disciplined for corruption or bribery-related incidents,narrative,true
+G1-4_07,Number of confirmed incidents relating to contracts with business partners that were terminated or not renewed due to violations related to corruption or bribery,narrative,true
+G1-4_08,Information about details of public legal cases regarding corruption or bribery brought against undertaking and own workers and about outcomes of such cases,narrative,true
+G1-5_01,"Information about representative(s) responsible in administrative, management and supervisory bodies for oversight of political influence and lobbying activities",narrative,false
+G1-5_02,Information about financial or in-kind political contributions,narrative,true
+G1-5_03,Financial political contributions made,monetary,true
+G1-5_04,Amount of internal and external lobbying expenses,monetary,true
+G1-5_05,Amount paid for membership to lobbying associations,monetary,true
+G1-5_06,In-kind political contributions made,monetary,true
+G1-5_07,Disclosure of how monetary value of in-kind contributions is estimated,narrative,false
+G1-5_08,Financial and in-kind political contributions made [table],table,false
+G1-5_09,Disclosure of main topics covered by lobbying activities and undertaking's main positions on these topics,narrative,true
+G1-5_10,Undertaking is registered in EU Transparency Register or in equivalent transparency register in Member State,narrative,false
+G1-5_11,"Information about appointment of any members of administrative, management and supervisory bodies who held comparable position in public administration in two years preceding such appointment",narrative,true
+G1-5_12,The entity is legally obliged to be a member of a chamber of commerce or other organisation that represents its interests,narrative,true
+G1-6_01,Average number of days to pay invoice from date when contractual or statutory term of payment starts to be calculated,narrative,true
+G1-6_02,Description of undertakings standard payment terms in number of days by main category of suppliers,narrative,true
+G1-6_03,Percentage of payments aligned with standard payment terms,percent,true
+G1-6_04,Number of outstanding legal proceedings for late payments,narrative,true
+G1-6_05,Disclosure of contextual information regarding payment practices,narrative,true
+G1-GOV-1_01,"Disclosure of role of administrative, management and supervisory bodies related to business conduct",narrative,true
+G1-GOV-1_02,"Disclosure of expertise of administrative, management and supervisory bodies on business conduct matters",narrative,true
+G1-MDR-A_01-12,"Action plans and resources to manage its material impacts, risks, and opportunities related to corruption and bribery [see ESRS 2 - MDR-A]",narrative,true
+G1-MDR-A_13-14,Disclosures to be reported if the undertaking has not adopted actions,narrative,true
+G1-MDR-P_01-06,"Policies in place to manage its material impacts, risks and opportunities related to business conduct and corporate culture [see ESRS 2 MDR-P]",narrative,true
+G1-MDR-P_07-08,Disclosures to be reported in case the undertaking has not adopted policies,narrative,true
+GOV-1_01,Number of executive members,narrative,true
+GOV-1_02,Number of non-executive members,narrative,true
+GOV-1_03,Information about representation of employees and other workers,narrative,true
+GOV-1_04,"Information about member's experience relevant to sectors, products and geographic locations of undertaking",narrative,true
+GOV-1_05,"Percentage of members of administrative, management and supervisory bodies by gender and other aspects of diversity",percent,true
+GOV-1_06,Board's gender diversity ratio,percent,true
+GOV-1_07,Percentage of independent board members,percent,true
+GOV-1_08,"Information about identity of administrative, management and supervisory bodies or individual(s) within body responsible for oversight of impacts, risks and opportunities",narrative,true
+GOV-1_09,"Disclosure of how body's or individuals within body responsibilities for impacts, risks and opportunities are reflected in undertaking's terms of reference, board mandates and other related policies",narrative,true
+GOV-1_10,"Description of management's role in governance processes, controls and procedures used to monitor, manage and oversee impacts, risks and opportunities",narrative,true
+GOV-1_11,Description of how oversight is exercised over management-level position or committee to which management's role is delegated to,narrative,true
+GOV-1_12,"Information about reporting lines to administrative, management and supervisory bodies",narrative,true
+GOV-1_13,Disclosure of how dedicated controls and procedures are integrated with other internal functions,narrative,true
+GOV-1_14,"Disclosure of how administrative, management and supervisory bodies and senior executive management oversee setting of targets related to material impacts, risks and opportunities and how progress towards them is monitored",narrative,true
+GOV-1_15,"Disclosure of how administrative, management and supervisory bodies determine whether appropriate skills and expertise are available or will be developed to oversee sustainability matters",narrative,true
+GOV-1_16,Information about sustainability-related expertise that bodies either directly possess or can leverage,narrative,true
+GOV-1_17,"Disclosure of how sustainability-related skills and expertise relate to material impacts, risks and opportunities",narrative,true
+GOV-2_01,"Disclosure of whether, by whom and how frequently administrative, management and supervisory bodies are informed about material impacts, risks and opportunities, implementation of due diligence, and results and effectiveness of policies, actions, metrics and targets adopted to address them",narrative,true
+GOV-2_02,"Disclosure of how administrative, management and supervisory bodies consider impacts, risks and opportunities when overseeing strategy, decisions on major transactions and risk management process",narrative,true
+GOV-2_03,"Disclosure of list of material impacts, risks and opportunities addressed by administrative, management and supervisory bodies or their relevant committees",narrative,true
+GOV-2_04,Disclosure of how governance bodies ensure that appropriate mechanism for performance monitoring is in place,narrative,true
+GOV-3_01,"Incentive schemes and remuneration policies linked to sustainability matters for members of administrative, management and supervisory bodies exist",narrative,true
+GOV-3_02,Description of key characteristics of incentive schemes,narrative,true
+GOV-3_03,"Description of specific sustainability-related targets and (or) impacts used to assess performance of members of administrative, management and supervisory bodies",narrative,true
+GOV-3_04,Disclosure of how sustainability-related performance metrics are considered as performance benchmarks or included in remuneration policies,narrative,true
+GOV-3_05,Percentage of variable remuneration dependent on sustainability-related targets and (or) impacts,percent,true
+GOV-3_06,Description of level in undertaking at which terms of incentive schemes are approved and updated,narrative,true
+GOV-4_01,Disclosure of mapping of information provided in sustainability statement about due diligence process,narrative,true
+GOV-5_01,"Description of scope, main features and components of risk management and internal control processes and systems in relation to sustainability reporting",narrative,true
+GOV-5_02,Description of risk assessment approach followed,narrative,true
+GOV-5_03,Description of main risks identified and their mitigation strategies,narrative,true
+GOV-5_04,Description of how findings of risk assessment and internal controls as regards sustainability reporting process have been integrated into relevant internal functions and processes,narrative,true
+GOV-5_05,"Description of periodic reporting of findings of risk assessment and internal controls to administrative, management and supervisory bodies",narrative,true
+IRO-1_01,"Description of methodologies and assumptions applied in process to identify impacts, risks and opportunities",narrative,true
+IRO-1_02,"Description of process to identify, assess, prioritise and monitor potential and actual impacts on people and environment, informed by due diligence process",narrative,true
+IRO-1_03,"Description of how process focuses on specific activities, business relationships, geographies or other factors that give rise to heightened risk of adverse impacts",narrative,true
+IRO-1_04,Description of how process considers impacts with which undertaking is involved through own operations or as result of business relationships,narrative,true
+IRO-1_05,Description of how process includes consultation with affected stakeholders to understand how they may be impacted and with external experts,narrative,true
+IRO-1_06,"Description of how process prioritises negative impacts based on their relative severity and likelihood and positive impacts based on their relative scale, scope and likelihood and determines which sustainability matters are material for reporting purposes",narrative,true
+IRO-1_07,"Description of process used to identify, assess, prioritise and monitor risks and opportunities that have or may have financial effects",narrative,true
+IRO-1_08,Description of how connections of impacts and dependencies with risks and opportunities that may arise from those impacts and dependencies have been considered,narrative,true
+IRO-1_09,"Description of how likelihood, magnitude, and nature of effects of identified risks and opportunities have been assessed",narrative,true
+IRO-1_10,Description of how sustainability-related risks relative to other types of risks have been prioritised,narrative,true
+IRO-1_11,Description of decision-making process and related internal control procedures,narrative,true
+IRO-1_12,"Description of extent to which and how process to identify, assess and manage impacts and risks is integrated into overall risk management process and used to evaluate overall risk profile and risk management processes",narrative,true
+IRO-1_13,"Description of extent to which and how process to identify, assess and manage opportunities is integrated into overall management process",narrative,false
+IRO-1_14,"Description of input parameters used in process to identify, assess and manage material impacts, risks and opportunities",narrative,true
+IRO-1_15,"Description of how process to identify, assess and manage impacts, risks and opportunities has changed compared to prior reporting period",narrative,true
+IRO-2_01,Disclosure of list of data points that derive from other EU legislation and information on their location in sustainability statement,narrative,true
+IRO-2_02,Disclosure of list of ESRS Disclosure Requirements complied with in preparing sustainability statement following outcome of materiality assessment,narrative,true
+IRO-2_03,Explanation of negative materiality assessment for ESRS E1 Climate change,narrative,false
+IRO-2_04,Explanation of negative materiality assessment for ESRS E2 Pollution,narrative,false
+IRO-2_05,Explanation of negative materiality assessment for ESRS E3 Water and marine resources,narrative,false
+IRO-2_06,Explanation of negative materiality assessment for ESRS E4 Biodiversity and ecosystems,narrative,false
+IRO-2_07,Explanation of negative materiality assessment for ESRS E5 Circular economy,narrative,false
+IRO-2_08,Explanation of negative materiality assessment for ESRS S1 Own workforce,narrative,false
+IRO-2_09,Explanation of negative materiality assessment for ESRS S2 Workers in value chain,narrative,false
+IRO-2_10,Explanation of negative materiality assessment for ESRS S3 Affected communities,narrative,false
+IRO-2_11,Explanation of negative materiality assessment for ESRS S4 Consumers and end-users,narrative,false
+IRO-2_12,Explanation of negative materiality assessment for ESRS G1 Business conduct,narrative,false
+IRO-2_13,"Explanation of how material information to be disclosed in relation to material impacts, risks and opportunities has been determined",narrative,true
+S1-10_01,"All employees are paid adequate wage, in line with applicable benchmarks",narrative,true
+S1-10_02,Countries where employees earn below the applicable adequate wage benchmark [table],table,false
+S1-10_03,Percentage of  employees paid below the applicable adequate wage benchmark,table,true
+S1-10_04,Percentage of non-employees paid below adequate wage,table,true
+S1-11_01,"All employees in own workforce are covered by social protection, through public programs or through benefits offered, against loss of income due to sickness",narrative,true
+S1-11_02,"All employees in own workforce are covered by social protection, through public programs or through benefits offered, against loss of income due to unemployment starting from when own worker is working for undertaking",narrative,true
+S1-11_03,"All employees in own workforce are covered by social protection, through public programs or through benefits offered, against loss of income due to employment injury and acquired disability",narrative,true
+S1-11_04,"All employees in own workforce are covered by social protection, through public programs or through benefits offered, against loss of income due to parental leave",narrative,true
+S1-11_05,"All employees in own workforce are covered by social protection, through public programs or through benefits offered, against loss of income due to retirement",narrative,true
+S1-11_06,Social protection employees by country [table] by types of events and type of employees [including non employees],table,false
+S1-11_07,"Disclosure of types of employees who are not covered by social protection, through public programs or through benefits offered, against loss of income due to sickness",narrative,false
+S1-11_08,"Disclosure of types of employees who are not covered by social protection, through public programs or through benefits offered, against loss of income due to unemployment starting from when own worker is working for undertaking",narrative,false
+S1-11_09,"Disclosure of types of employees who are not covered by social protection, through public programs or through benefits offered, against loss of income due to employment injury and acquired disability",narrative,false
+S1-11_10,"Disclosure of types of employees who are not covered by social protection, through public programs or through benefits offered, against loss of income due to maternity leave",narrative,false
+S1-11_11,"Disclosure of types of employees who are not covered by social protection, through public programs or through benefits offered, against loss of income due to retirement",narrative,false
+S1-12_01,"Percentage of persons with disabilities amongst employees, subject to legal restrictions on collection of data",percent,true
+S1-12_02,Percentage of employees with disabilities in own workforce breakdown by gender [table],table,true
+S1-12_03,Disclosure of contextual information necessary to understand data and how data has been compiled (persons with disabilities)),narrative,true
+S1-13_01,Training and skills development indicators gender [table],table,true
+S1-13_02,Percentage of employees that participated in regular performance and career development reviews,percent,true
+S1-13_03,Average number of training hours  by gender [table],table,true
+S1-13_04,Average number of training hours per person for employees,table,true
+S1-13_05,Percentage of employees that participated in regular performance and career development reviews by employee category [table],percent,true
+S1-13_06,Average number of employees that participated in regular performance and career development reviews by employee category,table,true
+S1-13_07,Percentage of non-employees that participated in regular performance and career development reviews,percent,true
+S1-14_01,Percentage of people in its own workforce who are covered by health and safety management system based on legal requirements and (or) recognised standards or guidelines,percent,true
+S1-14_02,Number of fatalities in own workforce as result of work-related injuries and work-related ill health,narrative,true
+S1-14_03,Number of fatalities as result of work-related injuries and work-related ill health of other workers working on undertaking's sites,narrative,true
+S1-14_04,Number of recordable work-related accidents for own workforce,narrative,true
+S1-14_05,Rate of recordable work-related accidents for own workforce,percent,true
+S1-14_06,Number of cases of recordable work-related ill health of employees,narrative,true
+S1-14_07,"Number of days lost to work-related injuries and fatalities from work-related accidents, work-related ill health and fatalities from ill health related to employees",narrative,true
+S1-14_08,Number of cases of recordable work-related ill health of non-employees,narrative,true
+S1-14_09,"Number of days lost to work-related injuries and fatalities from work-related accidents, work-related ill health and fatalities from ill health realted to non-employees",narrative,true
+S1-14_10,Percentage of own workforce who are covered by health and safety management system based on legal requirements and (or) recognised standards or guidelines and which has been internally audited and (or) audited or certified by external party,percent,true
+S1-14_11,Description of underlying standards for internal audit or external certification of health and safety management system,narrative,true
+S1-14_12,Number of cases of recordable work-related ill health detected among former own workforce,narrative,true
+S1-15_01,Percentage of employees entitled to take family-related leave,percent,true
+S1-15_02,Percentage of entitled employees that took family-related leave,percent,true
+S1-15_03,Percentage of entitled employees that took family-related leave by gender [table],table,true
+S1-15_04,All employees are entitled to family-related leaves through social policy and (or) collective bargaining agreements,narrative,true
+S1-16_01,Gender pay gap,percent,true
+S1-16_02,Annual total remuneration ratio,percent,true
+S1-16_03,"Disclosure of contextual information necessary to understand data, how data has been compiled and other changes to underlying data that are to be considered",narrative,false
+S1-16_04,Gender pay gap breakdown by employee category and/or country/segment [table],table,true
+S1-16_05,Gender pay gap breakdown by employee category and ordinary basic salary and complementary/variable components,table,true
+S1-16_06,Remuneration ratio adjusted for purchasing power differences between countries,percent,true
+S1-16_07,Description of methodology used for calculation of remuneration ratio adjusted for purchasing power differences between countries,narrative,true
+S1-17_01,Number of incidents of discrimination [table],table,true
+S1-17_02,Number of incidents of discrimination,table,true
+S1-17_03,Number of complaints filed through channels for people in own workforce to raise concerns,narrative,true
+S1-17_04,Number of complaints filed to National Contact Points for OECD Multinational Enterprises,narrative,false
+S1-17_05,"Amount of fines, penalties, and compensation for damages as result of incidents of discrimination, including harassment and complaints filed",monetary,true
+S1-17_06,"Information about reconciliation of fines, penalties, and compensation for damages as result of violations regarding swork-related discrimination and harassment  with most relevant amount presented in financial statements",narrative,true
+S1-17_07,"Disclosure of contextual information necessary to understand data and how data has been compiled (work-related grievances, incidents and complaints related to social and human rights matters)",narrative,false
+S1-17_08,Number of severe human rights issues and incidents connected to own workforce,narrative,true
+S1-17_09,Number of severe human rights issues and incidents connected to own workforce that are cases of non respect of UN Guiding Principles and OECD Guidelines for Multinational Enterprises,narrative,true
+S1-17_10,No severe human rights issues and incidents connected to own workforce have occurred,narrative,true
+S1-17_11,"Amount of fines, penalties, and compensation for severe human rights issues and incidents connected to own workforce",monetary,true
+S1-17_12,"Information about reconciliation of amount of fines, penalties, and compensation for severe human rights issues and incidents connected to own workforce with most relevant amount presented in financial statements",narrative,true
+S1-17_13,Disclosure of the status of incidents and/or complaints and actions taken,narrative,true
+S1-17_14,Number of severe human rights cases where undertaking played role securing remedy for those affected,narrative,true
+S1-1_01,"Policies to manage material impacts, risks and opportunities related to own workforce, including for specific groups within workforce or all own workforce",narrative,true
+S1-1_02,Disclosure of explanations of significant changes to policies adopted during reporting year,narrative,true
+S1-1_03,Description of relevant human rights policy commitments relevant to own workforce,narrative,true
+S1-1_04,"Disclosure of general approach in relation to respect for human rights including labour rights, of people in its own workforce",narrative,true
+S1-1_05,Disclosure of general approach in relation to engagement with people in its own workforce,narrative,true
+S1-1_06,Disclosure of general approach in relation to measures to provide and (or) enable remedy for human rights impacts,narrative,true
+S1-1_07,Disclosure of whether and how policies are aligned with relevant internationally recognised instruments,narrative,true
+S1-1_08,"Policies explicitly address trafficking in human beings, forced labour or compulsory labour and child labour",narrative,true
+S1-1_09,Workplace accident prevention policy or management system is in place,narrative,true
+S1-1_10,Specific policies aimed at elimination of discrimination are in place,narrative,true
+S1-1_11,Grounds for discrimination are specifically covered in policy,narrative,true
+S1-1_12,Disclosure of specific policy commitments related to inclusion and (or) positive action for people from groups at particular risk of vulnerability in own workforce,narrative,true
+S1-1_13,"Disclosure of whether and how policies are implemented through specific procedures to ensure discrimination is prevented, mitigated and acted upon once detected, as well as to advance diversity and inclusion",narrative,true
+S1-1_14,"Disclosure on an illustration of the types of communication of its policies to those individuals, group of individuals or entities for whom they are relevant",narrative,true
+S1-1_15,"Policies and procedures which make qualifications, skills and experience the basis for the recruitment, placement, training and advancement are in place",narrative,true
+S1-1_16,"Has assigned responsibility at top management level for equal treatment and opportunities in employment, issue clear company-wide policies and procedures to guide equal employment practices, and link advancement to desired performance in this area",narrative,true
+S1-1_17,Staff training on non-discrimination policies and practices are in place,narrative,true
+S1-1_18,"Adjustments to the physical environment to ensure health and safety for workers, customers and other visitors with disabilities are in place",narrative,true
+S1-1_19,Has evaluated whether a there is a risk that job requirements have been defined in a way that would systematically disadvantage certain groups,narrative,true
+S1-1_20,"Keeping an up-to-date records on recruitment, training and promotion that provide a transparent view of opportunities for employees and their progression",narrative,true
+S1-1_21,"Has put in place grievance procedures to address complaints, handle appeals and provide recourse for employees when discrimination is identified, and is alert to formal structures and informal cultural issues that can prevent employees from raising concerns and grievances",narrative,true
+S1-1_22,Has programs to promote access to skills development.,narrative,true
+S1-2_01,Disclosure of whether and how perspectives of own workforce  inform decisions or activities aimed at managing actual and potential  impacts,narrative,true
+S1-2_02,Engagement occurs with own workforce  or their representatives,narrative,false
+S1-2_03,"Disclosure of stage at which engagement occurs, type of engagement and frequency of engagement",narrative,false
+S1-2_04,Disclosure of function and most senior role within undertaking that has operational responsibility for ensuring that engagement happens and that results inform undertakingâ€™s approach,narrative,false
+S1-2_05,Disclosure of Global Framework Agreement or other agreements related to respect of human rights of workers,narrative,false
+S1-2_06,Disclosure of how effectiveness of engagement with its own workforce  is assessed,narrative,false
+S1-2_07,Disclosure of steps taken to gain insight into perspectives of people in its own workforce that may be particularly vulnerable to impacts and (or) marginalised,narrative,false
+S1-2_08,Statement in case the undertaking has not adopted a general process to engage with its own workforce,narrative,false
+S1-2_09,Disclosure of timeframe for adoption of general process to engage with its own workforce in case the undertaking has not adopted a general process for engagement,narrative,false
+S1-2_10,Disclosure of how undertaking engages with at-risk or persons in vulnerable situations,narrative,true
+S1-2_11,Disclosure of how potential barriers to engagement with people in its workforce are taken into account,narrative,true
+S1-2_12,Disclosure of how people in its workforce are provided with information that is understandable and accessible through appropriate communication channels,narrative,true
+S1-2_13,Disclosure of any conflicting interests that have arisen among different workers and how these conflicting interests have been resolved,narrative,true
+S1-2_14,Disclosure of how undertaking seeks to respect human rights of all stakeholders engaged,narrative,true
+S1-2_15,Information about effectiveness of processes for engaging with its own workforce from previous reporting periods,narrative,false
+S1-3_01,Disclosure of general approach to and processes for providing or contributing to remedy where undertaking has caused or contributed to a material negative impact on people in its own workforce,narrative,true
+S1-3_02,Disclosure of specific channels in place for its own workforce to raise concerns or needs directly with undertaking and have them addressed,narrative,true
+S1-3_03,Third-party mechanisms are accessible to all own workforce,narrative,true
+S1-3_04,Disclosure of whether and how own workforce and their workers' representatives are able to access channels at level of undertaking they are employed by or contracted to work for,narrative,true
+S1-3_05,Grievance or complaints handling mechanisms related to employee matters exist,narrative,true
+S1-3_06,Disclosure of processes through which undertaking supports or requires availability of channels,narrative,true
+S1-3_07,Disclosure of how issues raised and addressed are tracked and monitored and how effectiveness of channels is ensured,narrative,true
+S1-3_08,Disclosure of whether and how it is assessed that its own workforce is aware of and trust structures or processes as way to raise their concerns or needs and have them addressed,narrative,true
+S1-3_09,Policies regarding protection against retaliation for individuals that use channels to raise concerns or needs are in place,narrative,false
+S1-3_10,Statement in case the undertaking has not adopted a channel for raising concerns,narrative,false
+S1-3_11,Disclosure of timeframe for channel for raising concerns to be in place,narrative,false
+S1-4_01,"Description of action taken, planned or underway to prevent or mitigate negative impacts on own workforce",narrative,true
+S1-4_02,Disclosure on whether and how action has been taken to provide or enable remedy in relation to actual material impact,narrative,true
+S1-4_03,Description of additional initiatives or actions with primary purpose of delivering positive impacts for own workforce,narrative,true
+S1-4_04,Description of how effectiveness of actions and initiatives in delivering outcomes for own workforce is tracked and assessed,narrative,true
+S1-4_05,Description of process through which it identifies what action is needed and appropriate in response to particular actual or potential negative impact on own workforce,narrative,true
+S1-4_06,Description of what action is planned or underway to mitigate material risks arising from impacts and dependencies on own workforce  and how effectiveness is tracked,narrative,true
+S1-4_07,Description of what action is planned or underway to pursue material opportunities in relation to own workforce,narrative,true
+S1-4_08,Disclosure of whether and how it is ensured that own practices do not cause or contribute to material negative impacts on own workforce,narrative,true
+S1-4_09,Disclosure of resources are allocated to the management of material impacts,narrative,true
+S1-4_10,Disclosure of general and specific approaches to addressing material negative impacts,narrative,true
+S1-4_11,Disclosure of initiatives aimed at contributing to additional material positive impacts,narrative,true
+S1-4_12,Disclosure of how far undertaking has progressed in efforts during reporting period,narrative,true
+S1-4_13,Disclosure of aims for continued improvement,narrative,true
+S1-4_14,Disclosure of whether and how undertaking seeks to use leverage with relevant business relationships to manage material negative impacts affecting own workforce,narrative,true
+S1-4_15,"Disclosure of how the initiative, and its own involvement, is aiming to address the material impact concerned",narrative,true
+S1-4_16,Disclosure of whether and how workers and workers' representatives play role in decisions regarding design and implementation of programmes or processes whose primary aim is to deliver positive impacts for workers,narrative,true
+S1-4_17,Information about intended or achieved positive outcomes of programmes or processes for own workforce,narrative,true
+S1-4_18,Initiatives or processes whose primary aim is to deliver positive impacts for own workforce  are designed also to support achievement of one or more of Sustainable Development Goals,narrative,true
+S1-4_19,"Information about measures taken to mitigate negative impacts on workers that arise from transition to greener, climate-neutral economy",narrative,false
+S1-4_20,Description of internal functions that are involved in managing impacts and types of action taken by internal functions to address negative and advance positive impacts,narrative,true
+S1-5_01,Disclosure of whether and how own workforce or workforce' representatives were engaged directly in setting targets,narrative,true
+S1-5_02,Disclosure of whether and how own workforce or workforce' representatives were engaged directly in tracking performance against targets,narrative,true
+S1-5_03,Disclosure of whether and how own workforce or workforce' representatives were engaged directly in identifying lessons or improvements as result of undertakings performance,narrative,true
+S1-5_04,Disclosure of intended outcomes to be achieved in lives of people in its own workforce,narrative,true
+S1-5_05,Information about stability over time of target in terms of definitions and methodologies to enable comparability,narrative,true
+S1-5_06,Disclosure of references to standards or commitments which targets are based on,narrative,true
+S1-6_01,Characteristics of undertaking's employees - number of employees by gender [table],table,true
+S1-6_02,Number of employees (head count),table,false
+S1-6_03,Average number of employees (head count),table,false
+S1-6_04,Characteristics of undertaking's employees - number of employees in countries with 50 or more employees representing at least 10% of total number of employees [table],table,true
+S1-6_05,Number of employees in countries with 50 or more employees representing at least 10% of total number of employees,table,false
+S1-6_06,Average number of employees in countries with 50 or more employees representing at least 10% of total number of employees,table,false
+S1-6_07,Characteristics of undertaking's employees - information on employees by contract type and gender  [table],table,true
+S1-6_08,Characteristics of undertaking's employees - information on employees by region [table],table,true
+S1-6_09,Number of employees (head count or full-time equivalent),table,false
+S1-6_10,Average number of employees (head count or full-time equivalent),table,false
+S1-6_11,Number of employee who have left undertaking,narrative,true
+S1-6_12,Percentage of employee turnover,percent,true
+S1-6_13,Description of methodologies and assumptions used to compile data (employees),narrative,true
+S1-6_14,Employees numbers are reported in head count or full-time equivalent,narrative,true
+S1-6_15,Employees numbers are reported at end of reporting period/average/other methodology,narrative,true
+S1-6_16,Disclosure of contextual information necessary to understand data (employees),narrative,false
+S1-6_17,Disclosure of cross-reference of information reported under paragragph 50 (a) to most representative number in financial statements,narrative,true
+S1-6_18,Further detailed breakdown by gender and by region [table],table,true
+S1-6_19,Number of full-time employees by head count or full time equivalent,table,true
+S1-6_20,Number of part-time employees by head count or full time equivalent,table,true
+S1-7_01,Number of non-employees in own workforce,narrative,true
+S1-7_02,Number of non-employees in own workforce - self-employed people,narrative,true
+S1-7_03,Number of non-employees in own workforce - people provided by undertakings primarily engaged in employment activities,narrative,true
+S1-7_04,Undertaking does not have non-employees in own workforce,narrative,true
+S1-7_05,"Disclosure of the most common types of non-employees (for example, self-employed people, people provided by undertakings primarily engaged in employment activities, and other types relevant to the undertaking), their relationship with the undertaking, and the type of work that they perform.",narrative,true
+S1-7_06,Description of methodologies and assumptions used to compile data (non-employees),narrative,true
+S1-7_07,Non-employees numbers are reported in head count/full time equivalent,narrative,true
+S1-7_08,Non-employees numbers are reported at end of reporting period/average/other methodology,narrative,true
+S1-7_09,Disclosure of contextual information necessary to understand data (non-employee workers),narrative,false
+S1-7_10,Description of basis of preparation of non-employees estimated number,narrative,false
+S1-8_01,Percentage of total employees covered by collective bargaining agreements,percent,true
+S1-8_02,Percentage of own employees covered by collective bargaining agreements are within coverage rate by country with significant employment (in the EEA),percent,true
+S1-8_03,Percentage of own employees covered by collective bargaining agreements (outside EEA) by region,percent,true
+S1-8_04,Working conditions and terms of employment for employees not covered by collective bargaining agreements are determined based on collective bargaining agreements that cover other employees or based on collective bargaining agreements from other undertakings,narrative,true
+S1-8_05,Description of extent to which working conditions and terms of employment of non-employees in own workforce are determined or influenced by collective bargaining agreements,narrative,true
+S1-8_06,Percentage of employees in country country with significant employment (in the EEA) covered by workers' representatives,percent,true
+S1-8_07,"Disclosure of existence of any agreement with employees for representation by European Works Council (EWC), Societas Europaea (SE) Works Council, or Societas Cooperativa Europaea (SCE) Works Council",narrative,true
+S1-8_08,Own workforce in region (non-EEA) covered by collective bargaining and social dialogue agreements by coverage rate and by region,narrative,true
+S1-9_01,Gender distribution in number of employees (head count) at top management level,table,true
+S1-9_02,Gender distribution in percentage of employees at top management level,percent,true
+S1-9_03,Distribution of employees (head count) under 30 years old,percent,true
+S1-9_04,Distribution of employees (head count) between 30 and 50 years old,percent,true
+S1-9_05,Distribution of employees (head count) over 50 years old,percent,true
+S1-9_06,Disclosure of own definition of top management used,narrative,false
+S1-MDR-A_01-12,"Action plans and resources to manage its material impacts, risks, and opportunities related to its own workforce [see ESRS 2 - MDR-A]",narrative,true
+S1-MDR-A_13-14,Disclosures to be reported if the undertaking has not adopted actions,narrative,true
+S1-MDR-P_01-06,"Policies to manage material impacts, risks and opportunities related to its own workforce [see ESRS 2 MDR-P]",narrative,true
+S1-MDR-P_07-08,Disclosures to be reported in case the undertaking has not adopted policies,narrative,true
+S1-MDR-T_01-13,"Targets set to manage material impacts, risks and opportunities related to own workforce [see ESRS 2 - MDR-T]",narrative,true
+S1-MDR-T_14-19,Disclosures to be reported if the undertaking has not adopted targets,narrative,true
+S1-SBM-3_01,All people in its own workforce who can be materially impacted by undertaking are included in scope of disclosure under ESRS 2,narrative,true
+S1-SBM-3_02,Description of types of employees and non-employees in its own workforce subject to material impacts,narrative,true
+S1-SBM-3_03,Material negative impacts occurrence (own workforce),narrative,false
+S1-SBM-3_04,Description of activities that result in positive impacts and types of employees and non-employees in its own workforce that are positively affected or could be positively affected,narrative,false
+S1-SBM-3_05,Description of material risks and opportunities arising from impacts and dependencies on own workforce,narrative,true
+S1-SBM-3_06,Description of material impacts on workers that may arise from transition plans for reducing negative impacts on environment and achieving greener and climate-neutral operations,narrative,true
+S1-SBM-3_07,Information about type of operations at significant risk of incidents of forced labour or compulsory labour,narrative,true
+S1-SBM-3_08,Information about countries or geographic areas with operations considered at significant risk of incidents of forced labour or compulsory labour,narrative,true
+S1-SBM-3_09,Information about type of operations at significant risk of incidents of child labour,narrative,true
+S1-SBM-3_10,Information about countries or geographic areas with operations considered at significant risk of incidents of child labour,narrative,true
+S1-SBM-3_11,"Disclosure of whether and how understanding of people in its own workforce with particular characteristics, working in particular contexts, or undertaking particular activities may be at greater risk of harm has been developed",narrative,true
+S1-SBM-3_12,Disclosure of which of material risks and opportunities arising from impacts and dependencies on people in its own workforce  relate to specific groups of people,narrative,true
+S2-1_01,Description of relevant human rights policy commitments relevant to value chain workers,narrative,true
+S2-1_02,Disclosure of general approach in relation to respect for human rights relevant to value chain workers,narrative,true
+S2-1_03,Disclosure of general approach in relation to engagement with value chain workers,narrative,true
+S2-1_04,Disclosure of general approach in relation to measures to provide and (or) enable remedy for human rights impacts,narrative,true
+S2-1_05,"Policies explicitly address trafficking in human beings, forced labour or compulsory labour and child labour",narrative,true
+S2-1_06,Undertaking has supplier code of conduct,narrative,true
+S2-1_07,Provisions in supplier codes of conudct are fully in line with applicable ILO standards,narrative,true
+S2-1_08,Disclosure of whether and how policies are aligned with relevant internationally recognised instruments,narrative,true
+S2-1_09,"Disclosure of extent and indication of nature of cases of non-respect of the UN Guiding Principles on Business and Human Rights, ILO Declaration on Fundamental Principles and Rights at Work or OECD Guidelines for Multinational Enterprises that involve value chain workers",narrative,true
+S2-1_10,Disclosure of explanations of significant changes to policies adopted during reporting year,narrative,true
+S2-1_11,"Disclosure on an illustration of the types of communication of its policies to those individuals, group of individuals or entities for whom they are relevant",narrative,true
+S2-2_01,Disclosure of whether and how perspectives of value chain workers inform decisions or activities aimed at managing actual and potential  impacts,narrative,true
+S2-2_02,"Engagement occurs with value chain workers or their legitimate
+representatives directly, or with credible proxies",narrative,false
+S2-2_03,"Disclosure of stage at which engagement occurs, type of engagement and frequency of engagement",narrative,false
+S2-2_04,Disclosure of function and most senior role within undertaking that has operational responsibility for ensuring that engagement happens and that results inform undertakings approach,narrative,false
+S2-2_05,Disclosure of Global Framework Agreement or other agreements related to respect of human rights of workers,narrative,false
+S2-2_06,Disclosure of how effectiveness of engagement with value chain workers is assessed,narrative,false
+S2-2_07,Disclosure of steps taken to gain insight into perspectives of value chain workers that may be particularly vulnerable to impacts and (or) marginalised,narrative,false
+S2-2_08,Statement in case the undertaking has not adopted a general process to engage with value chain workers,narrative,false
+S2-2_09,Disclosure of timeframe for adoption of general process to engage with  value chain workers  in case the undertaking has not adopted a general process for engagement,narrative,false
+S2-3_01,Disclosure of general approach to and processes for providing or contributing to remedy where undertaking has identified that it connected with a material negative impact on  value chain workers,narrative,true
+S2-3_02,Disclosure of specific channels in place for value chain workers to raise concerns or needs directly with undertaking and have them addressed,narrative,true
+S2-3_03,Disclosure of processes through which undertaking supports or requires availability of channels,narrative,true
+S2-3_04,Disclosure of how issues raised and addressed are tracked and monitored and how effectiveness of channels is ensured,narrative,true
+S2-3_05,Disclosure of whether and how it is assessed that value chain workers are aware of and trust structures or processes as way to raise their concerns or needs and have them addressed,narrative,true
+S2-3_06,Policies regarding protection against retaliation for individuals that use channels to raise concerns or needs are in place,narrative,true
+S2-3_07,Statement in case the undertaking has not adopted a channel for raising concerns,narrative,true
+S2-3_08,Disclosure of timeframe for channel for raising concerns to be in place,narrative,false
+S2-3_09,Disclosure of whether and how value chain workers are able to access channels at level of undertaking they are employed by or contracted to work for,narrative,true
+S2-3_10,Third-party mechanisms are accessible to all workers,narrative,true
+S2-3_11,Grievances are treated confidentially and with respect to rights of privacy and data protection,narrative,true
+S2-3_12,Channels to raise concerns or needs allow for value chain workers to use them anonymously,narrative,true
+S2-4_01,"Description of action planned or underway to prevent, mitigate or remediate material negative impacts on  value chain workers",narrative,true
+S2-4_02,Description of whether and how action to provide or enable remedy in relation to an actual material impact,narrative,true
+S2-4_03,Description of additional initiatives or processes with primary purpose of delivering positive impacts for value chain workers,narrative,true
+S2-4_04,Description of how effectiveness of actions or initiatives in delivering outcomes for value chain workersis tracked and assessed,narrative,true
+S2-4_05,Description of processes to identifying what action is needed and appropriate in response to particular actual or potential material negative impact on  value chain workers,narrative,true
+S2-4_06,Description of approach to taking action in relation to specific material negative impacts on value chain workers,narrative,true
+S2-4_07,Description of approach to ensuring that processes to provide or enable remedy in event of material negative impacts on  value chain workers  are available and effective in their implementation and outcomes,narrative,true
+S2-4_08,Description of what action is planned or underway to mitigate material risks arising from impacts and dependencies on  value chain workers  and how effectiveness is tracked,narrative,true
+S2-4_09,Description of what action is planned or underway to pursue material opportunities in relation to  value chain workers,narrative,true
+S2-4_10,Disclosure of whether and how it is ensured that own practices do not cause or contribute to material negative impacts on value chain workers,narrative,true
+S2-4_11,Disclosure of severe human rights issues and incidents connected to upstream and downstream value chain,narrative,true
+S2-4_12,Disclosure of resources allocated to management of material impacts,narrative,true
+S2-4_13,Disclosure of whether and how undertaking seeks to use leverage with relevant business relationships to manage material negative impacts affecting value chain workers,narrative,true
+S2-4_14,Disclosure of how participation in industry or multi-stakeholder initiative and undertaking's own involvement is aiming to address material impacts,narrative,true
+S2-4_15,Disclosure of whether and how value chain workers and legitimate representatives or their credible proxies play role in decisions regarding design and implementation of programmes or processes,narrative,true
+S2-4_16,Information about intended or achieved positive outcomes of programmes or processes for  value chain workers,narrative,true
+S2-4_17,Initiatives or processes whose primary aim is to deliver positive impacts for  value chain workers  are designed also to support achievement of one or more of Sustainable Development Goals,narrative,true
+S2-4_18,Description of internal functions that are involved in managing impacts and types of action taken by internal functions to address negative and advance positive impacts,narrative,true
+S2-5_01,"Disclosure of whether and how value chain workers , their legitimate representatives or credible proxies were engaged directly in setting targets",narrative,true
+S2-5_02,"Disclosure of whether and how value chain workers , their legitimate representatives or credible proxies were engaged directly in tracking performance against targets",narrative,true
+S2-5_03,"Disclosure of whether and how value chain workers , their legitimate representatives or credible proxies were engaged directly in identifying lessons or improvements as result of undertaking’s performance",narrative,true
+S2-5_04,Disclosure of intended outcomes to be achieved in lives of  value chain workers,narrative,true
+S2-5_05,Information about stability over time of target in terms of definitions and methodologies to enable comparability,narrative,true
+S2-5_06,Disclosure of references to standards or commitments on which target is based,narrative,true
+S2-MDR-A_01-12,"Action plans and resources to manage its material impacts, risks, and opportunities related to value chain workers [see ESRS 2 - MDR-A]",narrative,true
+S2-MDR-A_13-14,Disclosures to be reported if the undertaking has not adopted actions,narrative,true
+S2-MDR-P_01-06,"Policies to manage material impacts, risks and opportunities related to value chain workers [see ESRS 2 MDR-P]",narrative,true
+S2-MDR-P_07-08,Disclosures to be reported in case the undertaking has not adopted policies,narrative,true
+S2-MDR-T_01-13,"Targets set to manage material impacts, risks and opportunities related to value chain workers [see ESRS 2 - MDR-T]",narrative,true
+S2-MDR-T_14-19,Disclosures to be reported if the undertaking has not adopted targets,narrative,true
+S2-SBM-3_01,All value chain workers  who can be materially impacted by undertaking are included in scope of disclosure under ESRS 2,narrative,true
+S2-SBM-3_02,Description of types of value chain workers subject to material impacts,narrative,true
+S2-SBM-3_03,Type of value chain workers subject to material impacts by own operations or through value chain,narrative,true
+S2-SBM-3_04,"Disclosure of geographies or commodities for which there is significant risk of child labour, or of forced or compulsory labour, among workers in undertaking’s value chain",narrative,true
+S2-SBM-3_05,Material negative impacts occurrence (value chain workers),narrative,false
+S2-SBM-3_06,Description of activities that result in positive impacts and types of value chain workers  that are positively affected or could be positively affected,narrative,false
+S2-SBM-3_07,Description of material risks and opportunities arising from impacts and dependencies on  value chain workers,narrative,true
+S2-SBM-3_08,"Disclosure of whether and how the undertaking has developed an understanding of how workers with particular characteristics, those working in particular contexts, or those undertaking particular activities may be at greater risk of harm.",narrative,true
+S2-SBM-3_09,Disclosure of which of material risks and opportunities arising from impacts and dependencies on value chain workers  are impacts on specific groups,narrative,true
+S3-1_01,Disclosure of any  any particular policy provisions for preventing and addressing impacts on indigenous peoples,narrative,true
+S3-1_02,Description of relevant human rights policy commitments relevant to affected communities,narrative,true
+S3-1_03,"Disclosure of general approach in relation to respect for human rights of communities, and indigenous peoples specifically",narrative,true
+S3-1_04,Disclosure of general approach in relation to engagement with affected communities,narrative,true
+S3-1_05,Disclosure of general approach in relation to measures to provide and (or) enable remedy for human rights impacts,narrative,true
+S3-1_06,Disclosure of whether and how policies are aligned with relevant internationally recognised instruments,narrative,true
+S3-1_07,"Disclosure of extent and indication of nature of cases of non-respect of the UN Guiding Principles on Business and Human Rights, ILO Declaration on Fundamental Principles and Rights at Work or OECD Guidelines for Multinational Enterprises that involve affected communities",narrative,true
+S3-1_08,Disclosure of explanations of significant changes to policies adopted during reporting year,narrative,true
+S3-1_09,"Disclosure on an illustration of the types of communication of its policies to those individuals, group of individuals or entities for whom they are relevant",narrative,true
+S3-2_01,Disclosure of whether and how perspectives of affected communities inform decisions or activities aimed at managing actual and potential impacts,narrative,true
+S3-2_02,"Engagement occurs with affected communities or their legitimate representatives directly, or with credible proxies",narrative,false
+S3-2_03,"Disclosure of stage at which engagement occurs, type of engagement and frequency of engagement",narrative,false
+S3-2_04,Disclosure of function and most senior role within undertaking that has operational responsibility for ensuring that engagement happens and that results inform undertakings approach,narrative,false
+S3-2_05,Disclosure of how the undertaking assesses the effectiveness of its engagement with affected communities,narrative,false
+S3-2_06,Disclosure of steps taken to gain insight into perspectives of  affected communities hat may be particularly vulnerable to impacts and (or) marginalised,narrative,false
+S3-2_07,Disclosure of whether and how the undertaking takes into account and ensures respect of particular rights of indigenous peoples in its stakeholder engagement approach,narrative,false
+S3-2_08,Statement in case the undertaking has not adopted a general process to engage with affected communities,narrative,false
+S3-2_09,Disclosure of timeframe for adoption of general process to engage with affected communities in case the undertaking has not adopted a general process for engagement,narrative,false
+S3-3_10,Disclosure of general approach to and processes for providing or contributing to remedy where undertaking has identified that it connected with a material negative impact on affected communities,narrative,true
+S3-3_11,Disclosure of specific channels in place for affected communities to raise concerns or needs directly with undertaking and have them addressed,narrative,true
+S3-3_12,Disclosure of processes through which undertaking supports or requires availability of channels,narrative,true
+S3-3_13,Disclosure of how issues raised and addressed are tracked and monitored and how effectiveness of channels is ensured,narrative,true
+S3-3_14,Disclosure of whether and how it is assessed that affected communities are aware of and trust structures or processes as way to raise their concerns or needs and have them addressed,narrative,true
+S3-3_15,Policies regarding protection against retaliation for individuals that use channels to raise concerns or needs are in place,narrative,true
+S3-3_16,Statement in case the undertaking has not adopted a general process to engage with affected communities,narrative,false
+S3-3_17,Disclosure of timeframe for channel or processes for raising concerns to be in place,narrative,false
+S3-3_18,Disclosure of whether and how affected communities are able to access channels at level of undertaking they are affected by,narrative,true
+S3-3_19,Third-party mechanisms are accessible to all affected communities,narrative,true
+S3-3_20,Grievances are treated confidentially and with respect to rights of privacy and data protection,narrative,true
+S3-3_21,affected communities   are allowed to use anonymously channels to raise concerns or needs,narrative,true
+S3-4_01,"Description of action taken, planned or underway to prevent, mitigate or remediate material negative impacts on affected communities",narrative,true
+S3-4_02,Description of whether and how the undertaking has taken action to provide or enable remedy in relation to an actual material impact,narrative,true
+S3-4_03,Description of additional initiatives or processes with primary purpose of delivering positive impacts for affected communities,narrative,true
+S3-4_04,Description of how effectiveness of actions or initiatives in delivering outcomes for affected communities is tracked and assessed,narrative,true
+S3-4_05,Description of processes to identifying what action is needed and appropriate in response to particular actual or potential material negative impact on affected communities,narrative,true
+S3-4_06,Description of approach to taking action in relation to specific material negative impacts on affected communities,narrative,true
+S3-4_07,Description of approach to ensuring that processes to provide or enable remedy in event of material negative impacts on affected communities are available and effective in their implementation and outcomes,narrative,true
+S3-4_08,Description of what action is planned or underway to mitigate material risks arising from impacts and dependencies on affected communities and how effectiveness is tracked,narrative,true
+S3-4_09,Description of what action is planned or underway to pursue material opportunities in relation to affected communities,narrative,true
+S3-4_10,Disclosure of whether and how it is ensured that own practices do not cause or contribute to material negative impacts on affected communities,narrative,true
+S3-4_11,Disclosure of severe human rights issues and incidents connected to affected communities,narrative,true
+S3-4_12,Disclosure of resources allocated to management of material impacts,narrative,true
+S3-4_13,Disclosure of whether and how undertaking seeks to use leverage with relevant business relationships to manage material negative impacts affecting  affected communities,narrative,true
+S3-4_14,Disclosure of how participation in industry or multi-stakeholder initiative and undertaking's own involvement is aiming to address material impacts,narrative,true
+S3-4_15,Disclosure of whether and how affected communities  play role in decisions regarding design and implementation of programmes or investments,narrative,true
+S3-4_16,Information about intended or achieved positive outcomes of programmes or investments for  affected communities,narrative,true
+S3-4_17,"Explanation of the approximate scope of affected communities covered by the described social investment or development programmes, and, where applicable, the rationale for why selected communities were chosen",narrative,true
+S3-4_18,Initiatives or processes whose primary aim is to deliver positive impacts for affected communities are designed also to support achievement of one or more of Sustainable Development Goals,narrative,true
+S3-4_19,Description of internal functions that are involved in managing impacts and types of action taken by internal functions to address negative and advance positive impacts,narrative,true
+S3-5_01,Disclosure of whether and how affected communities were engaged directly in setting targets,narrative,true
+S3-5_02,Disclosure of whether and how affected communities  were engaged directly in tracking performance against targets,narrative,true
+S3-5_03,Disclosure of whether and how affected communities  were engaged directly in identifying lessons or improvements as result of undertaking’s performance,narrative,true
+S3-5_04,Disclosure of intended outcomes to be achieved in lives of  affected communities,narrative,true
+S3-5_05,Information about stability over time of target in terms of definitions and methodologies to enable comparability,narrative,true
+S3-5_06,Disclosure of references to standards or commitments on which target is based,narrative,true
+S3-MDR-A_01-12,"Action plans and resources to manage its material impacts, risks, and opportunities related to affected communities [see ESRS 2 - MDR-A]",narrative,true
+S3-MDR-A_13-14,Disclosures to be reported if the undertaking has not adopted actions,narrative,true
+S3-MDR-P_01-06,"Policies to manage material impacts, risks and opportunities related to affected communities [see ESRS 2 MDR-P]",narrative,true
+S3-MDR-P_07-08,Disclosures to be reported in case the undertaking has not adopted policies,narrative,true
+S3-MDR-T_01-13,"Targets set to manage material impacts, risks and opportunities related to affected communities [see ESRS 2 - MDR-T]",narrative,true
+S3-MDR-T_14-19,Disclosures to be reported if the undertaking has not adopted targets,narrative,true
+S3-SBM-3_01,All  affected communities who can be materially impacted by undertaking are included in scope of disclosure under ESRS 2,narrative,true
+S3-SBM-3_02,Description of types of affected communities subject to material impacts,narrative,true
+S3-SBM-3_03,Type of communities subject to material impacts by own operations or through value chain,narrative,true
+S3-SBM-3_04,Material negative impacts occurrence (affected communities),narrative,false
+S3-SBM-3_05,Description of activities that result in positive impacts and types of affected communities that are positively affected or could be positively affected,narrative,false
+S3-SBM-3_06,Description of material risks and opportunities arising from impacts and dependencies on  affected communities,narrative,true
+S3-SBM-3_07,"Disclosure of whether and how the undertaking has developed an understanding of how affected communities with particular characteristics or those living in particular contexts, or those undertaking particular activities may be at greater risk of harm",narrative,true
+S3-SBM-3_08,Disclosure of which of material risks and opportunities arising from impacts and dependencies on affected communities are impacts on specific groups,narrative,true
+S4-1_01,"Policies to manage material impacts, risks and opportunities related to affected consumers and end-users, including specific groups or all consumers / end-users",narrative,true
+S4-1_02,Description of relevant human rights policy commitments relevant to consumers and/or end-users,narrative,true
+S4-1_03,Disclosure of general approach in relation to respect for human rights of consumers and end-users,narrative,true
+S4-1_04,Disclosure of general approach in relation to engagement with consumers and/or end-users,narrative,true
+S4-1_05,Disclosure of general approach in relation to measures to provide and (or) enable remedy for human rights impacts,narrative,true
+S4-1_06,Description of whether and how policies are aligned with relevant internationally recognised instruments,narrative,true
+S4-1_07,"Disclosure of extent and indication of nature of cases of non-respect of the UN Guiding Principles on Business and Human Rights, ILO Declaration on Fundamental Principles and Rights at Work or OECD Guidelines for Multinational Enterprises that involve consumers and/or end-users",narrative,true
+S4-1_08,Disclosure of explanations of significant changes to policies adopted during reporting year,narrative,true
+S4-1_09,"Disclosure on an illustration of the types of communication of its policies to those individuals, group of individuals or entities for whom they are relevant",narrative,true
+S4-2_01,Disclosure of whether and how perspectives of consumers and end-users inform decisions or activities aimed at managing actual and potential impacts,narrative,true
+S4-2_02,"Engagement occurs with consumers and end-users  or their legitimate representatives directly, or with credible proxies",narrative,false
+S4-2_03,"Disclosure of stage at which engagement occurs, type of engagement and frequency of engagement",narrative,false
+S4-2_04,Disclosure of function and most senior role within undertaking that has operational responsibility for ensuring that engagement happens and that results inform undertakings approach,narrative,false
+S4-2_05,Disclosure of how effectiveness of engagement with  consumers and end-users   is assessed,narrative,false
+S4-2_06,Disclosure of steps taken to gain insight into perspectives of  consumers and end-users  / consumers and end-users that may be particularly vulnerable to impacts and (or) marginalised,narrative,false
+S4-2_07,Statement in case the undertaking has not adopted a general process to engage with consumers and/or end-users,narrative,false
+S4-2_08,Disclosure of timeframe for adoption of general process to engage with  consumers and end-users   in case the undertaking has not adopted a general process for engageme,narrative,false
+S4-2_09,Type of role or function handling with engagement,narrative,true
+S4-3_01,Disclosure of general approach to and processes for providing or contributing to remedy where undertaking has identified that it connected with a material negative impact on consumers and end-users,narrative,true
+S4-3_02,Disclosure of specific channels in place for consumers and end-users to raise concerns or needs directly with undertaking and have them addressed,narrative,true
+S4-3_03,Disclosure of processes through which undertaking supports or requires availability of channels,narrative,true
+S4-3_04,Disclosure of how issues raised and addressed are tracked and monitored and how effectiveness of channels is ensured,narrative,true
+S4-3_05,Disclosure of whether and how it is assessed that consumers and end-users are aware of and trust structures or processes as way to raise their concerns or needs and have them addressed,narrative,true
+S4-3_06,Policies regarding protection against retaliation for individuals that use channels to raise concerns or needs are in place,narrative,true
+S4-3_07,Statement in case the undertaking has not adopted a general process to engage with consumers and/or end-users,narrative,true
+S4-3_08,Disclosure of timeframe for channel or processes for raising concerns to be in place,narrative,false
+S4-3_09,Disclosure of whether and how consumers and/or end-users are able to access channels at level of undertaking they are affected by,narrative,true
+S4-3_10,Third-party mechanisms are accessible to all consumers and/or end-users,narrative,true
+S4-3_11,Grievances are treated confidentially and with respect to rights of privacy and data protection,narrative,true
+S4-3_12,consumers and end-users   are allowed to use anonymously channels to raise concerns or needs,narrative,true
+S4-3_13,Number of complaints received from consumers and/or end users during the reporting period,narrative,true
+S4-4_01,"Description of action planned or underway to prevent, mitigate or remediate material negative impacts on consumers and end-users",narrative,true
+S4-4_02,Description of whether and how action has been taken to provide or enable remedy in relation to an actual material impact,narrative,true
+S4-4_03,Description of additional initiatives or processes with primary purpose of delivering positive impacts for consumers and end-users,narrative,true
+S4-4_04,Description of how effectiveness of actions or initiatives in delivering outcomes for consumers and end-users is tracked and assessed,narrative,true
+S4-4_05,Description of approach to identifying what action is needed and appropriate in response to particular actual or potential material negative impact on  consumers and end-users,narrative,true
+S4-4_06,Description of approach to taking action in relation to specific material impacts on consumers and end-users,narrative,true
+S4-4_07,Description of approach to ensuring that processes to provide or enable remedy in event of material negative impacts on  consumers and end-users are available and effective in their implementation and outcomes,narrative,true
+S4-4_08,Description of what action is planned or underway to mitigate material risks arising from impacts and dependencies on consumers and end-users and how effectiveness is tracked,narrative,true
+S4-4_09,Description of what action is planned or underway to pursue material opportunities in relation to consumers and end-users,narrative,true
+S4-4_10,Disclosure of whether and how it is ensured that own practices do not cause or contribute to material negative impacts on consumers and end-users,narrative,true
+S4-4_11,Disclosure of severe human rights issues and incidents connected to consumers and/or end-users,narrative,true
+S4-4_12,Disclosure of resources allocated to management of material impacts,narrative,true
+S4-4_13,Disclosure of whether and how undertaking seeks to use leverage with relevant business relationships to manage material negative impacts affecting  consumers and end-users,narrative,true
+S4-4_14,Disclosure of how participation in industry or multi-stakeholder initiative and undertaking's own involvement is aiming to address material impacts,narrative,true
+S4-4_15,Disclosure of how consumers and end-users play role in decisions regarding design and implementation of programmes or processes,narrative,true
+S4-4_16,Information about intended or achieved positive outcomes of programmes or processes for consumers and end-users,narrative,true
+S4-4_17,Initiatives or processes whose primary aim is to deliver positive impacts for consumers and/or end-users are designed also to support achievement of one or more of Sustainable Development Goals,narrative,true
+S4-4_18,Description of internal functions that are involved in managing impacts and types of action taken by internal functions to address negative and advance positive impacts,narrative,true
+S4-5_01,Disclosure of whether and how consumers and end-users were engaged directly in setting targets,narrative,true
+S4-5_02,Disclosure of whether and how consumers and end-users were engaged directly in tracking performance against targets,narrative,true
+S4-5_03,Disclosure of whether and how consumers and end-users were engaged directly in identifying lessons or improvements as result of undertaking’s performance,narrative,true
+S4-5_04,Disclosure of intended outcomes to be achieved in lives of consumers and end-users,narrative,true
+S4-5_05,Information about stability over time of target in terms of definitions and methodologies to enable comparability,narrative,true
+S4-5_06,Disclosure of references to standards or commitments on which target is based,narrative,true
+S4-MDR-A_01-12,"Action plans and resources to manage its material impacts, risks, and opportunities related to consumers and end-users [see ESRS 2 - MDR-A]",narrative,true
+S4-MDR-A_13-14,Disclosures to be reported if the undertaking has not adopted actions,narrative,true
+S4-MDR-P_01-06,"Policies to manage material impacts, risks and opportunities related to consumers and end-users [see ESRS 2 MDR-P]",narrative,true
+S4-MDR-P_07-08,Disclosures to be reported in case the undertaking has not adopted policies,narrative,true
+S4-MDR-T_01-13,"Targets set to manage material impacts, risks and opportunities related to consumers and end-users [see ESRS 2 - MDR-T]",narrative,true
+S4-MDR-T_14-19,Disclosures to be reported if the undertaking has not adopted targets,narrative,true
+S4-SBM-3_01,All  consumers and end-users who can be materially impacted by undertaking are included in scope of disclosure under ESRS 2,narrative,true
+S4-SBM-3_02,Description of types of consumers and end-users subject to material impacts,narrative,true
+S4-SBM-3_03,Type of consumers and end-users subject to material impacts by own operations or through value chain,narrative,true
+S4-SBM-3_04,Material negative impacts occurrence (consumers and end-users),narrative,false
+S4-SBM-3_05,Description of activities that result in positive impacts and types of  consumers and end-users that are positively affected or could be positively affected,narrative,false
+S4-SBM-3_06,Description of material risks and opportunities arising from impacts and dependencies on  consumers and end-users,narrative,true
+S4-SBM-3_07,"Disclosure of whether and how understanding of how consumers and end-users with particular characteristics, working in particular contexts, or undertaking particular activities may be at greater risk of harm has been developed",narrative,true
+S4-SBM-3_08,Disclosure of which of material risks and opportunities arising from impacts and dependencies on consumers and end-users are impacts on specific groups,narrative,true
+SBM-1_01,Description of significant groups of products and (or) services offered,narrative,true
+SBM-1_02,Description of significant markets and (or) customer groups served,narrative,true
+SBM-1_03,Total number of employees (head count),narrative,true
+SBM-1_04,Number of employees (head count),narrative,true
+SBM-1_05,Description of products and services that are banned in certain markets,narrative,false
+SBM-1_06,Total revenue,monetary,true
+SBM-1_07,Revenue by significant ESRS Sectors,monetary,true
+SBM-1_08,List of additional significant ESRS sectors in which significant activities are developed or in which undertaking is or may be connected to material impacts,narrative,true
+SBM-1_09,"Undertaking is active in fossil fuel (coal, oil and gas) sector",narrative,true
+SBM-1_10,"Revenue from fossil fuel (coal, oil and gas) sector",monetary,false
+SBM-1_11,Revenue from coal,monetary,false
+SBM-1_12,Revenue from oil,monetary,false
+SBM-1_13,Revenue from gas,monetary,false
+SBM-1_14,Revenue from Taxonomy-aligned economic activities related to fossil gas,monetary,false
+SBM-1_15,Undertaking is active in chemicals production,narrative,false
+SBM-1_16,Revenue from chemicals production,monetary,false
+SBM-1_17,Undertaking is active in controversial weapons,narrative,false
+SBM-1_18,Revenue from controversial weapons,monetary,false
+SBM-1_19,Undertaking is active in cultivation and production of tobacco,narrative,false
+SBM-1_20,Revenue from cultivation and production of tobacco,monetary,false
+SBM-1_21,"Description of sustainability-related goals in terms of significant groups of products and services, customer categories, geographical areas and relationships with stakeholders",narrative,true
+SBM-1_22,"Disclosure of assessment of current significant products and (or) services, and significant markets and customer groups, in relation to sustainability-related goals",narrative,true
+SBM-1_23,Disclosure of elements of strategy that relate to or impact sustainability matters,narrative,true
+SBM-1_24,List of ESRS sectors that are significant for undertaking,narrative,false
+SBM-1_25,Description of business model and value chain,narrative,true
+SBM-1_26,"Description of inputs and approach to gathering, developing and securing inputs",narrative,true
+SBM-1_27,"Description of outputs and outcomes in terms of current and expected benefits for customers, investors and other stakeholders",narrative,true
+SBM-1_28,Description of main features of upstream and downstream value chain and undertakings position in value chain,narrative,true
+SBM-2_01,Description of stakeholder engagement,narrative,true
+SBM-2_02,Description of key stakeholders,narrative,true
+SBM-2_03,Description of categories of stakeholders for which engagement occurs,narrative,true
+SBM-2_04,Description of how stakeholder engagement is organised,narrative,true
+SBM-2_05,Description of purpose of stakeholder engagement,narrative,true
+SBM-2_06,Description of how outcome of stakeholder engagement is taken into account,narrative,true
+SBM-2_07,Description of understanding of interests and views of key stakeholders as they relate to undertaking's strategy and business model,narrative,true
+SBM-2_08,Description of amendments to strategy and (or) business model,narrative,false
+SBM-2_09,Description of how strategy and (or) business model have been amended or are expected to be amended to address interests and views of stakeholders,narrative,false
+SBM-2_10,Description of any further steps that are being planned and in what timeline,narrative,false
+SBM-2_11,Further steps that are being planned are likely to modify relationship with and views of stakeholders,narrative,false
+SBM-2_12,"Description of how administrative, management and supervisory bodies are informed about views and interests of affected stakeholders with regard to sustainability-related impacts",narrative,true
+SBM-3_01,Description of material impacts resulting from materiality assessment,narrative,true
+SBM-3_02,Description of material risks and opportunities resulting from materiality assessment,narrative,true
+SBM-3_03,"Disclosure of current and anticipated effects of material impacts, risks and opportunities on business model, value chain, strategy and decision-making, and how undertaking has responded or plans to respond to these effects",narrative,true
+SBM-3_04,Disclosure of how material negative and positive impacts affect (or are likely to affect) people or environment,narrative,true
+SBM-3_05,Disclosure of whether and how material impacts originate from or are connected to strategy and business model,narrative,true
+SBM-3_06,Disclosure of reasonably expected time horizons of material impacts,narrative,true
+SBM-3_07,Description of nature of activities or business relationships through which undertaking is involved with material impacts,narrative,true
+SBM-3_08,"Disclosure of current financial effects of material risks and opportunities on financial position, financial performance and cash flows and material risks and opportunities for which there is significant risk of material adjustment within next annual reporting period to carrying amounts of assets and liabilities reported in related financial statements",narrative,true
+SBM-3_09,"Disclosure of anticipated financial effects of material risks and opportunities on financial position, financial performance and cash flows over short-, medium- and long-term",narrative,true
+SBM-3_10,Information about resilience of strategy and business model regarding capacity to address material impacts and risks and to take advantage of material opportunities,narrative,true
+SBM-3_11,"Disclosure of changes to material impacts, risks and opportunities compared to previous reporting period",narrative,true
+SBM-3_12,"Disclosure of specification of impacts, risks and opportunities that are covered by ESRS Disclosure Requirements as opposed to those covered by additional entity-specific disclosures",narrative,true
