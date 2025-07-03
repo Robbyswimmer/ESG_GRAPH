@@ -1,66 +1,82 @@
 code,label_en
-E1-1,Transition plan for climate change mitigation
-E1-2,Policies related to climate change mitigation and adaptation
-E1-3,Actions and resources in relation to climate change policies
-E1-4,Targets related to climate change mitigation and adaptation
-E1-5,Energy consumption and mix
-E1-6,"Gross Scopes 1, 2, 3 and Total GHG emissions"
-E1-7,GHG removals and GHG mitigation projects financed through carbon credits
-E1-8,Internal carbon pricing
-E1-9,Financial effects from material physical and transition risks
+2-MDR-Disclosures to be reported in case the undertaking has not adopted policies and/or actions or set any measurable outcome-oriented targets [see chapter 4.2 MDR - ESRS 2],Disclosures to be reported in case the undertaking has not adopted policies and/or actions or set any measurable outcome-oriented targets [see chapter 4.2 MDR - ESRS 2]
+2-MDR-MDR-A,Disclosure Requirement 2-MDR-MDR-A
+2-MDR-MDR-M,Disclosure Requirement 2-MDR-MDR-M
+2-MDR-MDR-P,Disclosure Requirement 2-MDR-MDR-P
+2-MDR-MDR-T,Disclosure Requirement 2-MDR-MDR-T
+BP-1,Disclosure Requirement BP-1
+BP-2,Disclosure Requirement BP-2
+E1-1,Disclosure Requirement E1-1
+E1-2,Disclosure Requirement E1-2
+E1-3,Disclosure Requirement E1-3
+E1-4,Disclosure Requirement E1-4
+E1-5,Disclosure Requirement E1-5
+E1-6,Disclosure Requirement E1-6
+E1-7,Disclosure Requirement E1-7
+E1-8,Disclosure Requirement E1-8
+E1-9,Disclosure Requirement E1-9
+E1-GOV-3,Disclosure Requirement E1-GOV-3
+E1-IRO-1,Disclosure Requirement E1-IRO-1
+E1-MDR-A,Disclosure Requirement E1-MDR-A
+E1-MDR-P,Disclosure Requirement E1-MDR-P
+E1-MDR-T,Disclosure Requirement E1-MDR-T
+E1-SBM-3,Disclosure Requirement E1-SBM-3
 E2-1,Disclosure Requirement E2-1
 E2-2,Disclosure Requirement E2-2
 E2-3,Disclosure Requirement E2-3
 E2-4,Disclosure Requirement E2-4
 E2-5,Disclosure Requirement E2-5
 E2-6,Disclosure Requirement E2-6
+E2-IRO-1,Disclosure Requirement E2-IRO-1
+E2-MDR-A,Disclosure Requirement E2-MDR-A
+E2-MDR-P,Disclosure Requirement E2-MDR-P
+E2-MDR-T,Disclosure Requirement E2-MDR-T
 E3-1,Disclosure Requirement E3-1
 E3-2,Disclosure Requirement E3-2
 E3-3,Disclosure Requirement E3-3
 E3-4,Disclosure Requirement E3-4
 E3-5,Disclosure Requirement E3-5
+E3-IRO-1,Disclosure Requirement E3-IRO-1
+E3-MDR-A,Disclosure Requirement E3-MDR-A
+E3-MDR-P,Disclosure Requirement E3-MDR-P
+E3-MDR-T,Disclosure Requirement E3-MDR-T
 E4-1,Disclosure Requirement E4-1
 E4-2,Disclosure Requirement E4-2
 E4-3,Disclosure Requirement E4-3
 E4-4,Disclosure Requirement E4-4
 E4-5,Disclosure Requirement E4-5
 E4-6,Disclosure Requirement E4-6
-E4-7,Disclosure Requirement E4-7
-E4-8,Disclosure Requirement E4-8
+E4-IRO-1,Disclosure Requirement E4-IRO-1
+E4-MDR-A,Disclosure Requirement E4-MDR-A
+E4-MDR-P,Disclosure Requirement E4-MDR-P
+E4-MDR-T,Disclosure Requirement E4-MDR-T
+E4-SBM-3,Disclosure Requirement E4-SBM-3
 E5-1,Disclosure Requirement E5-1
 E5-2,Disclosure Requirement E5-2
 E5-3,Disclosure Requirement E5-3
 E5-4,Disclosure Requirement E5-4
 E5-5,Disclosure Requirement E5-5
 E5-6,Disclosure Requirement E5-6
-ESRS2-BP-1,Disclosure Requirement ESRS2-BP-1
-ESRS2-GOV-1,"Role of administrative, management and supervisory bodies"
-ESRS2-GOV-2,Information provided to sustainability bodies
-ESRS2-GOV-3,Integration of sustainability-related performance in incentive schemes
-ESRS2-GOV-4,Statement on due diligence
-ESRS2-GOV-5,Principal adverse impacts on sustainability matters
-ESRS2-IRO-1,"Processes to identify and assess material impacts, risks and opportunities"
-ESRS2-IRO-2,Disclosure Requirements in ESRS covered by sustainability statement
-ESRS2-MDR-A,Disclosure Requirement ESRS2-MDR-A
-ESRS2-MDR-C,Disclosure Requirement ESRS2-MDR-C
-ESRS2-MDR-D,Disclosure Requirement ESRS2-MDR-D
-ESRS2-MDR-E,Disclosure Requirement ESRS2-MDR-E
-ESRS2-MDR-F,Disclosure Requirement ESRS2-MDR-F
-ESRS2-MDR-G,Disclosure Requirement ESRS2-MDR-G
-ESRS2-MDR-H,Disclosure Requirement ESRS2-MDR-H
-ESRS2-MDR-M,Disclosure Requirement ESRS2-MDR-M
-ESRS2-MDR-P,Disclosure Requirement ESRS2-MDR-P
-ESRS2-MDR-T,Disclosure Requirement ESRS2-MDR-T
-ESRS2-SBM-1,"Market position, strategy, business models and value chain"
-ESRS2-SBM-2,Interests and views of stakeholders
-ESRS2-SBM-3,"Material impacts, risks and opportunities"
+E5-IRO-1,Disclosure Requirement E5-IRO-1
+E5-MDR-A,Disclosure Requirement E5-MDR-A
+E5-MDR-P,Disclosure Requirement E5-MDR-P
+E5-MDR-T,Disclosure Requirement E5-MDR-T
 G1-1,Disclosure Requirement G1-1
 G1-2,Disclosure Requirement G1-2
 G1-3,Disclosure Requirement G1-3
 G1-4,Disclosure Requirement G1-4
 G1-5,Disclosure Requirement G1-5
 G1-6,Disclosure Requirement G1-6
-G1-7,Disclosure Requirement G1-7
+G1-GOV-1,Disclosure Requirement G1-GOV-1
+G1-MDR-A,Disclosure Requirement G1-MDR-A
+G1-MDR-P,Disclosure Requirement G1-MDR-P
+GOV-1,Disclosure Requirement GOV-1
+GOV-2,Disclosure Requirement GOV-2
+GOV-3,Disclosure Requirement GOV-3
+GOV-4,Disclosure Requirement GOV-4
+GOV-5,Disclosure Requirement GOV-5
+IRO-1,Disclosure Requirement IRO-1
+IRO-2,Disclosure Requirement IRO-2
 S1-1,Disclosure Requirement S1-1
 S1-10,Disclosure Requirement S1-10
 S1-11,Disclosure Requirement S1-11
@@ -69,6 +85,7 @@ S1-13,Disclosure Requirement S1-13
 S1-14,Disclosure Requirement S1-14
 S1-15,Disclosure Requirement S1-15
 S1-16,Disclosure Requirement S1-16
+S1-17,Disclosure Requirement S1-17
 S1-2,Disclosure Requirement S1-2
 S1-3,Disclosure Requirement S1-3
 S1-4,Disclosure Requirement S1-4
@@ -77,20 +94,37 @@ S1-6,Disclosure Requirement S1-6
 S1-7,Disclosure Requirement S1-7
 S1-8,Disclosure Requirement S1-8
 S1-9,Disclosure Requirement S1-9
+S1-MDR-A,Disclosure Requirement S1-MDR-A
+S1-MDR-P,Disclosure Requirement S1-MDR-P
+S1-MDR-T,Disclosure Requirement S1-MDR-T
+S1-SBM-3,Disclosure Requirement S1-SBM-3
 S2-1,Disclosure Requirement S2-1
 S2-2,Disclosure Requirement S2-2
 S2-3,Disclosure Requirement S2-3
 S2-4,Disclosure Requirement S2-4
 S2-5,Disclosure Requirement S2-5
-S2-6,Disclosure Requirement S2-6
+S2-MDR-A,Disclosure Requirement S2-MDR-A
+S2-MDR-P,Disclosure Requirement S2-MDR-P
+S2-MDR-T,Disclosure Requirement S2-MDR-T
+S2-SBM-3,Disclosure Requirement S2-SBM-3
 S3-1,Disclosure Requirement S3-1
 S3-2,Disclosure Requirement S3-2
 S3-3,Disclosure Requirement S3-3
 S3-4,Disclosure Requirement S3-4
 S3-5,Disclosure Requirement S3-5
+S3-MDR-A,Disclosure Requirement S3-MDR-A
+S3-MDR-P,Disclosure Requirement S3-MDR-P
+S3-MDR-T,Disclosure Requirement S3-MDR-T
+S3-SBM-3,Disclosure Requirement S3-SBM-3
 S4-1,Disclosure Requirement S4-1
 S4-2,Disclosure Requirement S4-2
 S4-3,Disclosure Requirement S4-3
 S4-4,Disclosure Requirement S4-4
 S4-5,Disclosure Requirement S4-5
-S4-6,Disclosure Requirement S4-6
+S4-MDR-A,Disclosure Requirement S4-MDR-A
+S4-MDR-P,Disclosure Requirement S4-MDR-P
+S4-MDR-T,Disclosure Requirement S4-MDR-T
+S4-SBM-3,Disclosure Requirement S4-SBM-3
+SBM-1,Disclosure Requirement SBM-1
+SBM-2,Disclosure Requirement SBM-2
+SBM-3,Disclosure Requirement SBM-3
